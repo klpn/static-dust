@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Det statiska dammet - $title$</title>
+        <link rel="stylesheet" type="text/css" href="/css/default.css" />
+	<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href="atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+
+    </head>
+    <body>
+        <div id="header">
+            <div id="logo">
+                <a href="/">Det statiska dammet</a>
+            </div>
+            <div id="navigation">
+		<h1>Denna webbplats</h1>
+                <a href="/">Hem</a>
+                <a href="/archive.html">Arkiv</a>
+                <a href="/atom.xml">Flöde (Atom)</a>
+		<h1>Annat av mig</h1>
+			<a href="http://diversepedanteri.blogspot.se">Blogg 2008&ndash;2013</a>
+			<a href="http://klpn.se">Blogg 2013&ndash;</a>
+			<a href="http://mortchart.klpn.se">Mortalitetsdiagram</a>
+            </div>
+        </div>
+
+        <div id="content">
+
+            $body$
+        </div>
+	<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    
+    var disqus_config = function () {
+        this.page.url = 'http://static-dust.klpn.se$url$';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'http://static-dust.klpn.se$url$'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+   
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//static-dust.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        <div id="footer">
+           Webbplatsen drivs av <a href="mailto:karl_pettersson_1998@yahoo.com">Karl Pettersson</a> och har genererats med  
+	   <a href="http://jaspervdj.be/hakyll">Hakyll</a>. Kakor används för inställningar för kommentarer via <a href="https://disqus.com/">Disqus</a>.
+        </div>
+    </body>
+</html>
