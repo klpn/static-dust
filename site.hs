@@ -48,7 +48,7 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" ctx
                 >>= relativizeUrls
 
-    match "posts/*" $ do
+    match "posts/*.md" $ do
         route $ setExtension "html"
         compile $ bibtexCompiler
             >>= loadAndApplyTemplate "templates/post.html"    (postCtxWithTags tags)

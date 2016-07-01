@@ -64,6 +64,9 @@ p {
     line-height: 150%;
 }
 
+p.caption {
+    font-style: italic;
+}
 
 div.info {
     color: #555;
