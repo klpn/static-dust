@@ -3,7 +3,8 @@
 import           Data.Monoid (mappend)
 import           Hakyll
 import           Text.Pandoc.Options
-
+import           Control.Monad (liftM)
+import           Data.Maybe (fromMaybe)
 pandocReaderOptions :: ReaderOptions
 pandocReaderOptions = defaultHakyllReaderOptions 
 pandocWriterOptions :: WriterOptions
@@ -41,6 +42,7 @@ main = hakyll $ do
             posts <- recentFirst =<< loadAll pattern
             let ctx = constField "title" title
                       `mappend` listField "posts" postCtx (return posts)
+                      `mappend` constField "lang" deflang 
                       `mappend` defaultContext
 
             makeItem ""
@@ -56,8 +58,12 @@ main = hakyll $ do
 
     match "posts/*.md" $ do
         route $ setExtension "html"
-        compile $ bibtexCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    (postCtxWithTags tags)
+        compile $ do 
+            id <- getUnderlying
+            lang <- postlang id
+            let posttemp = fromFilePath $ "templates/post"++lang++".html"
+            bib <- bibtexCompiler $ lang ++ ".csl" 
+            loadAndApplyTemplate posttemp (postCtxWithTags tags) bib
             >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" (postCtxWithTags tags)
             >>= relativizeUrls
@@ -69,6 +75,7 @@ main = hakyll $ do
             let archiveCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Arkiv"            `mappend`
+                    constField "lang" deflang            `mappend`
                     defaultContext
 
             makeItem ""
@@ -97,6 +104,7 @@ main = hakyll $ do
             let indexCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Hem"                `mappend`
+                    constField "lang" deflang            `mappend`
                     defaultContext
 
             getResourceBody
@@ -110,10 +118,16 @@ main = hakyll $ do
 
 
 --------------------------------------------------------------------------------
+deflang :: [Char]
+deflang = "sv" 
+
+postlang :: MonadMetadata m => Identifier -> m [Char]
+postlang id = liftM (fromMaybe deflang) $ getMetadataField id "lang"
+
 postCtx :: Context String
 postCtx =
-    dateField "date" "%F" `mappend`
-    defaultContext
+    dateField "date" "%F" 
+    `mappend` langCtx `mappend` defaultContext
 
 feedCtx :: Context String
 feedCtx = mconcat
@@ -121,12 +135,18 @@ feedCtx = mconcat
     , defaultContext
     ]
 
-postCtxWithTags :: Tags -> Context String
-postCtxWithTags tags = tagsField "tags" tags `mappend` postCtx
+langCtx :: Context a 
+langCtx = field "lang" $ \item -> do
+   lang <- postlang (itemIdentifier item)  
+   return $ lang
 
-bibtexCompiler :: Compiler (Item String)
-bibtexCompiler = do 
-    csl <- load "default.csl" 
+postCtxWithTags :: Tags -> Context String
+postCtxWithTags tags = tagsField "tags" tags
+    `mappend` postCtx
+
+bibtexCompiler :: String -> Compiler (Item String)
+bibtexCompiler cslfilename = do 
+    csl <- load (fromFilePath $ cslfilename)
     bib <- load "static-dust.bib"
     getResourceBody 
       >>= readPandocBiblio pandocReaderOptions csl bib

@@ -92,8 +92,12 @@ div#navigation h1, div#navigation a {
 
 }
 
-q {
+q:lang(sv) {
 	quotes: "”" "”" "’" "’";
+}
+
+q:lang(en) {
+	quotes: "“" "”" "‘" "’";
 }
 
 /* Pandoc source code */
