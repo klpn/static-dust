@@ -34,31 +34,16 @@
 
             $body$
         </div>
-	<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    
-    var disqus_config = function () {
-        this.page.url = 'http://static-dust.klpn.se$url$';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = 'http://static-dust.klpn.se$url$'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-   
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//static-dust.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+	<div id="comments">
+		<script data-isso="//comments.klpn.se/"
+        src="//comments.klpn.se/js/embed.min.js"></script>
+
+		<section id="isso-thread"></section>
+	</div>
+
         <div id="footer">
            Webbplatsen drivs av <a href="mailto:klpn1258@gmail.com">Karl Pettersson</a> och har genererats med  
-	   <a href="http://jaspervdj.be/hakyll">Hakyll</a>. <a href="https://github.com/klpn/static-dust">Källkod.</a> Kakor används för inställningar för <a href="https://www.mathjax.org/">MathJax</a> och kommentarer via <a href="https://disqus.com/">Disqus</a>; dessa funktioner kräver också att Javascript är aktiverat.
+	   <a href="http://jaspervdj.be/hakyll">Hakyll</a>. <a href="https://github.com/klpn/static-dust">Källkod.</a> Kakor används för inställningar för <a href="https://www.mathjax.org/">MathJax</a>; detta kräver också att Javascript är aktiverat.
         </div>
     </body>
 </html>
