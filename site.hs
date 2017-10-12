@@ -17,14 +17,14 @@ myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Det statiska dammet"
     , feedDescription = "Dammig blogg"
     , feedAuthorName  = "Karl Pettersson"
-    , feedAuthorEmail = "karl_pettersson_1998@yahoo.com"
-    , feedRoot        = "http://static-dust.klpn.se"
+    , feedAuthorEmail = "klpn1258@gmail.com"
+    , feedRoot        = "https://static-dust.klpn.se"
     }
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
-    match "images/*" $ do
+    match ("images/*" .||. "fonts/*" .||. "mathjax/**")  $ do
         route   idRoute
         compile copyFileCompiler
 
