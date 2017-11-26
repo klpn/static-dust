@@ -8,7 +8,15 @@
         <title>Det statiska dammet - $title$</title>
         <link rel="stylesheet" type="text/css" href="/css/default.css" />
 	<link href="atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
-	<script src="https://static-dust.klpn.se/mathjax/MathJax-2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<script src="/mathjax/MathJax-2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<script>
+		MathJax.Hub.Config({
+		  "HTML-CSS": {
+			    preferredFont: null,
+			    webFont: "Gyre-Pagella"
+			  }
+			});
+	</script>
 
     </head>
     <body>
@@ -43,6 +51,6 @@
 
         <div id="footer">
            Webbplatsen drivs av <a href="mailto:klpn1258@gmail.com">Karl Pettersson</a> och har genererats med  
-	   <a href="http://jaspervdj.be/hakyll">Hakyll</a>. <a href="https://github.com/klpn/static-dust">Källkod.</a> Kakor används vid kommentering med <a href="https://posativ.org/isso/">Isso</a>, vilket inte kommer att fungera korrekt om kakor stängs av i webbläsaren. Om JavaScript inaktiveras kommer varken kommentarer eller visning av formler med <a href="https://www.mathjax.org/">MathJax</a> att fungera.</div>
+	   <a href="http://jaspervdj.be/hakyll">Hakyll</a>. <a href="https://github.com/klpn/static-dust">Källkod.</a> Kakor används vid kommentering med <a href="https://posativ.org/isso/">Isso</a>, vilket inte kommer att fungera korrekt om kakor stängs av i webbläsaren. Om JavaScript inaktiveras, kommer varken kommentarer eller visning av formler med <a href="https://www.mathjax.org/">MathJax</a> att fungera. Om fel uppstår vid besök, kan uppgifter om besökares IP-adress och tid för felet lagras i interna loggar och användas vid felsökning.</div>
     </body>
 </html>
