@@ -24,7 +24,7 @@ myFeedConfiguration = FeedConfiguration
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
-    match ("images/*" .||. "fonts/*" .||. "mathjax/**")  $ do
+    match ("images/*" .||. "postdata/*" .||. "fonts/*" .||. "mathjax/**")  $ do
         route   idRoute
         compile copyFileCompiler
 
