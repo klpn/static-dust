@@ -62,7 +62,7 @@ main = hakyll $ do
             id <- getUnderlying
             lang <- postlang id
             let posttemp = fromFilePath $ "templates/post"++lang++".html"
-            bib <- bibtexCompiler $ lang ++ ".csl" 
+            bib <- bibtexCompiler $ lang
             loadAndApplyTemplate posttemp (postCtxWithTags tags) bib
             >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" (postCtxWithTags tags)
@@ -145,9 +145,16 @@ postCtxWithTags tags = tagsField "tags" tags
     `mappend` postCtx
 
 bibtexCompiler :: String -> Compiler (Item String)
-bibtexCompiler cslfilename = do 
-    csl <- load (fromFilePath $ cslfilename)
+bibtexCompiler lang = do 
+    csl <- load (fromFilePath $ lang ++ ".csl")
     bib <- load "static-dust.bib"
     getResourceBody 
+      >>= withItemBody (unixFilter "pandoc" [ "-F"
+                                            , "pandoc-crossref"
+                                            , "-t"
+                                            , "markdown"
+                                            , "-M"
+                                            , "crossrefYaml=pandoc-crossref-"++lang++".yaml"
+                                            ])
       >>= readPandocBiblio pandocReaderOptions csl bib
       >>= return . writePandocWith pandocWriterOptions
