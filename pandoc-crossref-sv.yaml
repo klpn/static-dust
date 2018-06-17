@@ -1,1 +1,5 @@
 figureTitle: "Figur"
+tableTitle: "Tabell"
+tblPrefix:
+        - "tab."
+        - "tab."

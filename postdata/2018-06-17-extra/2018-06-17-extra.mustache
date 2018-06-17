@@ -1,0 +1,98 @@
+---
+tags: epidemiologi
+title: Extra poäng
+author: Karl Pettersson
+lang: sv
+---
+
+Nu i veckan har Folkhälsomyndigheten publicerat en sammanfattande
+influensarapport för den gångna vintersäsongen [@infrappsasong18]. De
+konstaterar att det varit ovanligt många labbverifierade influensafall. Till
+viss del kan det förklaras med snabbare och mer tillgänglig diagnostik, men
+även andra övervakningssystem, som Webbsök, har visat på hög aktivitet. Dålig
+vaccinmatchning har begränsad effekt på sjukligheten i samhället, då bara 2
+procent av befolkningen under 65 år uppges ha vaccinerat sig i vilket fall.
+Övervakningssystemet FluMomo visar också på signifikant överdödlighet bland
+personer över 65 år för veckorna 3--15, vilket är ovanligt för en säsong som i
+likhet med denna dominerats av influensa B, som rapporteras främst drabba barn
+och unga under andra säsonger. Samtidigt har andelen samtal till Vårdguiden om
+feber hos barn inte varit anmärkningsvärt högt. Som jag var inne på [den 22
+februari](2018-02-22-1993.html) kanske en viktig förklaring till detta ovanliga
+mönster är att det gått många år utan något riktigt influensa B-utbrott, vilket
+gjort att immuniteten mot denna typ varit dålig i den vuxna
+befolkningen. Små barn utsätts för, ur deras perspektiv, i stor utsträckning
+nya influensastammar varje säsong, så för dem har inte skillnaden mot övriga
+säsonger varit så dramatisk. Det återstår att se vad nästa säsong kommer att
+erbjuda: kanske blir det A(H1N1)pdm09, då denna verkar ha varit nästan borta i
+Sverige de två senaste säsongerna. I varje fall är det troligt att den gångna
+säsongen kommer att innebära den återstående livslängden bland äldre i Sverige
+2018 inte blir högre än 2017.
+
+I förra inlägget skrev jag annars om den uppmärksammade artikeln
+@LiCIRCULATIONAHA.117.032047, om hur livslängden påverkas av olika
+livsstilsförändringar. Jag ställde mig frågan om de beräknade vinsterna i
+livslängd kan ha överskattats därför att de inte räknat med att kurvorna för
+mortalitet konvergerar vid hög ålder. Andra frågor som kan ställas i anslutning
+till en rapport som denna är:
+
+1. I vilken utsträckning kan resultaten, som bygger på studier av den amerikanska
+   befolkningen, överföras till en befolkning som den svenska?
+2. Hur skulle mönstret för dödsorsaker, med fördelning av t.ex.\
+   cirkulationssjukdom och cancer, påverkas av förändringar i livsstil som
+   skulle medföra ökad livslängd?
+
+I supplementet till artikeln finns ett diagram med hazardkvoter för dödlighet
+totalt och i olika dödsorsaksgrupper för varje extra poäng i fråga om skyddande
+livsstilsfaktorer. Maximalt 5 poäng är möjliga. För att veta hur stor utrymme
+det finns för förbättringar i den svenska befolkningen, givet dessa kvoter,
+skulle det uppenbarligen behövs data över de olika faktorernas fördelning bland
+svenskarna. I exemplen nedan har jag bara utgått från en förbättring med 3 poäng
+tillsammans med data över medelfolkmängd och antal döda i ettårsklasser 2015,
+tillgänglig via @scblt, tillsammans med data över antal döda i
+cirkulationssjukdom (ICD-10 I00--I99, F01) i femårsklasser för detta år från
+@whomort. Utifrån tabellerna har jag utgått från en hazardkvot på 0,75 för
+cirkulationsdödlighet (den är 0,71 för hjärtsjukdom och 0,82 för slaganfall) och
+0,8 för annan dödlighet.  Antagandena om konvergens innebär att kvoterna närmar
+sig 1 efter 80 års ålder.
+
+Om mina [LifeTable](https://github.com/klpn/LifeTable.jl)- och
+[Mortchartgen](https://github.com/klpn/Mortchartgen.jl)-paket finns
+installerade och datafiler för Mortchartgen genererats utifrån WHO-data, kan en
+Markdownversion av detta inlägg, inklusive tabeller med resultat, återskapas om
+[bloggförrådet](https://github.com/klpn/static-dust) klonas och
+`./2018-06-17-extra.jl` körs från katalogen `postdata/2018-06-17-extra`.
+
+I @tbl:lifeexp visas förväntad livslängd vid 50 års ålder status quo och under
+antagandena om en 3-poängsförbättring utan och med konvergens. Vinsterna är på
+ca 6 år utan konvergens och minskar till 4--5 år med konvergens. Effekterna av
+konvergens är litet större bland kvinnor, vilket har att göra med att
+dödligheten bland kvinnor är mer förskjuten till högre åldersgrupper. Som visas
+av @tbl:circprop skulle andelen som dör av cirkulationssjukdom påverkas mycket
+litet, oavsett antagande om konvergens. Minskningarna av åldersspecifika dödstal i
+cirkulationssjukdom, som är något större än för annan dödlighet, tenderar att
+uppvägas av att dödligheten förskjuts till högre åldersgrupper, där
+cirkulationssjukdom är mer dominerande: ett liknande fenomen som kan ses vid
+jämförelser mellan kvinnor och män eller mellan personer med och utan typ
+1-diabetes (som jag skrev om [9 februari](http://klpn.se/2015/02/09/farlig-typ/)
+och [19 mars 2015](http://klpn.se/2015/03/19/mycket-farlig/)).
+
+|                | Kvinnor | Män  |
+|--------------- | ------- | ---- |
+|Ingen reduktion | {{:e50_f}} | {{:e50_m}} |
+|Reduktion utan konvergens | {{:e50_f_rc_nc}} | {{:e50_m_rc_nc}} |
+|Reduktion med konvergens | {{:e50_f_rc_c}} | {{:e50_m_rc_c}} |
+
+: Förväntad livslängd vid 50 års ålder. {#tbl:lifeexp}
+
+|                | Kvinnor | Män  |
+|--------------- | ------- | ---- |
+|Ingen reduktion | {{:circp_f}} | {{:circp_m}} |
+|Reduktion utan konvergens | {{:circp_f_rc_nc}} | {{:circp_m_rc_nc}} |
+|Reduktion med konvergens | {{:circp_f_rc_c}} | {{:circp_m_rc_c}} |
+
+: Andel som dör av cirkulationssjukdom (%). {#tbl:circprop}
+
+## Referenser
+{{!
+vim: set filetype=pandoc:
+}}
