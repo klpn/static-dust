@@ -109,11 +109,11 @@ function plotsex(age, gbd_locid, sex, syr, eyr, indyr=syr)
 	plot(yrs, log.(rates), "*", label=L"r", color="blue")
 	plot(yrs, log.(rates_sm), "-", label=L"r_{sm}", color="blue")
 	plot(yrs, log.(rates_sm.*rrs_chol), "-",
-		label=latexstring("r_{sm} \\times RR_{TC($syr)}"))
+		label=latexstring("r_{sm} \\times RR_{TC($indyr)}"))
 	plot(yrs, log.(rates_sm.*rrs_chol.*rrs_sbp), "-",
-		label=latexstring("r_{sm} \\times RR_{TC($syr)} \\times RR_{SBP($syr)}"))
+		label=latexstring("r_{sm} \\times RR_{TC($indyr)} \\times RR_{SBP($indyr)}"))
 	plot(yrs, log.(rates_sm.*rrs_chol.*rrs_sbp.*rrs_smok), "-",
-		label=latexstring("r_{sm} \\times RR_{TC($syr)} \\times RR_{SBP($syr)} \\times RR_{SMOK($syr)}"))
+		label=latexstring("r_{sm} \\times RR_{TC($indyr)} \\times RR_{SBP($indyr)} \\times RR_{SMOK($indyr)}"))
 	legend(loc=3)
 	grid(1)
 	xlabel("År")
