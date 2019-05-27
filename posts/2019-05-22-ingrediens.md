@@ -61,8 +61,9 @@ befolkning $p$. I så fall ger $1-\paf_{c,r,p}$ ett relativt dödstal i
 $c$ (med dödstalet i $c$ i $p$ som baslinje) för en befolkning $p_{r0}$ som är
 ideal (enligt definierad TMREL) när det gäller exponeringen för $r$
 (det vill säga, $\paf_{c,r,p_{r0}}=0$). Detta kan generaliseras så att
-relativa dödstal mellan två befolkningar, $p_1$ och $p_2$, kan beräknas enligt:
-$$\rr_{c,p1,p2}=\frac{1-\paf_{c,r,p_1}}{1-\paf_{c,r,p_2}}$$
+relativa dödstal mellan två befolkningar, $p_1$ och $p_2$,
+med avseende på $r$ kan beräknas enligt:
+$$\rr_{c,r,p1,p2}=\frac{1-\paf_{c,r,p_2}}{1-\paf_{c,r,p_1}}$$
 
 Denna metod kan användas för att beräkna exempelvis de förändringar i
 dödstal i kranskärlssjukdom som skulle förväntas från ett år till
