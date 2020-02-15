@@ -149,8 +149,8 @@ bibtexCompiler lang = do
     csl <- load (fromFilePath $ lang ++ ".csl")
     bib <- load "static-dust.bib"
     getResourceBody 
-      >>= withItemBody (unixFilter "pandoc" [ "-F"
-                                            , "pandoc-crossref"
+      >>= withItemBody (unixFilter "/home/karl/.local/bin/pandoc" [ "-F"
+                                            , "/home/karl/.local/bin/pandoc-crossref"
                                             , "-t"
                                             , "markdown"
                                             , "-M"
