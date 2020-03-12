@@ -1,5 +1,5 @@
 #!/usr/bin/env julia
-using Colors, PGFPlotsX
+using Colors, LaTeXStrings, PGFPlotsX
 ss = map(x -> x/100, 1:100)
 sinf(r0) = map(s -> r0*(s-1) - log(s), ss) 
 p = @pgf Axis({"xticklabel style"={"/pgf/number format/use comma"},
