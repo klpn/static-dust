@@ -6,14 +6,15 @@ function sir!(du, u, p, t)
     du[3] = u[2] / p[2]
 end
 
-function sirplot(r0, d, t)
-    u0 = [1-1e-6, 1e-6, 0.0]
+function sirplot(r0, d, t, i0 = 1e-6)
+    u0 = [1-i0, i0, 0.0]
     solv = solve(ODEProblem(sir!, u0, t, [r0, d]), saveat=1)
     r0lab = latexstring(replace("\\mathcal{R}_0=$(r0)", "."=>"{,}"))
+    i0lab = latexstring(replace("I_0=$i0", "."=>"{,}"))
     dlab = latexstring("D=$d")
     p = @pgf Axis({"yticklabel style"={"/pgf/number format/use comma"},
        legend_pos="outer north east",
-       title="SIR för $(r0lab), $(dlab)", xlabel=L"t",
+       title="SIR för $(r0lab), $(dlab), $(i0lab)", xlabel=L"t",
        ylabel=L"p",
        xmajorgrids, ymajorgrids})
     cs = ["S","I","R"]
