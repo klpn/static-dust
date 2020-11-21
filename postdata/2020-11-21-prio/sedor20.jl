@@ -70,7 +70,7 @@ function cas_sexes_prop_plot(cas, denomca, ymode = "linear")
     sax = @pgf Axis({"yticklabel style"={"/pgf/number format/use comma"},
         ymode = ymode, legend_pos="outer north east",
         title="Döda Sverige 2020-01-01–2020-06-30",
-        xlabel="ålder", ylabel="döda/$(denomca[:label])",xmajorgrids, ymajorgrids})
+        xlabel="ålder", ylabel="döda/$(denomca[:label])", xmajorgrids, ymajorgrids})
     plotcolors = distinguishable_colors(length(cas)*2 + 1, [RGB(1,1,1)])[2:end]
     for (i, sex) in enumerate(["Kv", "M"])
         for (j, ca) in enumerate(cas)
