@@ -1,0 +1,2394 @@
+"Tabell 4A: Döda januari-juni 2020 efter underliggande dödsorsak enligt ICD:s detaljlista, kön och ålder. Antal",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Ålder,,,,,,,,,,,,,,,,,,,,
+ICD-10,Dödsorsak,Kön,Samtliga,0,1-4,5-9,10-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-
+A00-Y98,"Samtliga dödsorsaker",Kv,25609,57,12,6,11,21,35,35,71,87,107,174,278,432,700,1130,2068,2944,3908,5174,5195,3164
+,,M,25925,74,17,11,19,73,105,119,126,132,157,271,464,774,1137,1827,3005,3945,4532,4621,3315,1201
+U07-U07,"Covid-19 samtliga",Kv,2565,-,-,-,-,-,1,2,3,2,5,8,10,22,38,66,143,277,447,660,563,318
+,,M,2987,-,-,-,-,-,1,3,6,2,8,20,45,76,97,173,318,425,610,624,423,156
+U07.1,"Covid-19, virus påvisat",Kv,2359,-,-,-,-,-,1,2,3,2,5,7,9,21,34,65,127,250,407,614,524,288
+,,M,2820,-,-,-,-,-,1,3,6,1,8,19,44,73,93,167,305,400,573,590,393,144
+U07.2,"Covid-19, virus ej påvisat",Kv,206,-,-,-,-,-,-,-,-,-,-,1,1,1,4,1,16,27,40,46,39,30
+,,M,167,-,-,-,-,-,-,-,-,1,-,1,1,3,4,6,13,25,37,34,30,12
+R95-R99,"Ofullständigt definierade och okända orsaker till död",Kv,752,11,3,3,1,1,4,5,10,6,14,11,17,29,29,45,77,92,109,105,107,73
+,,M,1061,11,2,-,2,5,8,6,14,17,15,38,30,65,86,115,147,162,140,113,70,15
+R95.0,"Plötslig spädbarnsdöd med uppgift om obduktion",Kv,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+R99.0,"Dödsorsaken ej fastställbar",Kv,119,1,-,-,1,-,-,-,-,1,2,-,-,8,3,6,11,17,19,12,22,16
+,,M,152,-,1,-,-,2,-,2,3,1,1,10,6,8,9,14,19,22,18,15,17,4
+R99.8,"Uppgift om dödsorsak saknas",Kv,78,-,1,-,-,-,1,-,2,1,5,4,6,-,3,6,13,6,10,7,7,6
+,,M,200,-,-,-,-,-,3,2,4,5,6,6,5,20,25,26,33,29,24,9,2,1
+R99.9,"Andra ofullständigt definierade och ospecificerade orsaker till död",Kv,552,7,2,3,-,1,3,5,8,4,7,7,11,21,23,33,53,69,80,86,78,51
+,,M,707,9,1,-,2,3,5,2,7,11,8,22,19,37,52,75,95,111,98,89,51,10
+"A00 - B99","KAP I. VISSA INFEKTIONS- OCH PARASITSJUKDOMAR",Kv,599,-,-,-,-,-,-,-,-,-,1,-,-,8,13,14,38,58,102,157,138,70
+,,M,565,1,1,-,-,2,-,-,1,-,2,4,4,5,14,26,57,85,102,130,96,35
+A00-A09,"Infektionssjukdomar utgående från mag-tarmkanalen",Kv,85,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,6,9,7,30,20,8
+,,M,55,-,1,-,-,-,-,-,-,-,-,-,1,-,2,1,5,9,5,17,12,2
+A02.1,Salmonellasepsis,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+A04.7,"Enterokolit orsakad av Clostridium difficile",Kv,15,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,1,5,4,2
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,3,5,1,-
+A08.1,"Akut gastroenteropati orsakad av norovirus",Kv,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,6,3,-
+,,M,10,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,5,2,-
+A08.4,"Enterit orsakad av ospecificerat virus",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1
+A09.0,"Annan och ospecificerad gastroenterit och kolit av infektiös orsak",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,2,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-
+A09.9,"Gastroenterit och kolit av ospecificerad orsak",Kv,48,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,4,6,1,17,12,5
+,,M,28,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,3,4,2,5,9,2
+A15-A19,Tuberkulos,Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,1,1,-
+A16.2,"Lungtuberkulos, utan uppgift om bakteriologisk eller histologisk verifikation",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-
+A16.9,"Tuberkulos i ospecificerat andningsorgan utan uppgift om bakteriologisk eller histologisk verifikation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-
+A17.0,"Tuberkulös meningit (G01)",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+A30-A49,"Andra bakteriesjukdomar",Kv,257,-,-,-,-,-,-,-,-,-,-,-,-,2,4,9,15,22,55,60,64,26
+,,M,252,-,-,-,-,1,-,-,1,-,-,-,2,1,4,17,20,40,52,52,47,15
+A31.0,"Mykobakteriell lungaffektion",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+A31.9,"Mykobakteriell infektion, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+A32.1,"Meningit och meningoencefalit orsakad av Listeria",M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-
+A32.7,"Sepsis orsakad av Listeria",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+A40.0,"Sepsis orsakad av streptokocker grupp A",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+,,M,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+A40.1,"Sepsis orsakad av streptokocker grupp B",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+A40.3,"Sepsis orsakad av Streptococcus pneumoniae",M,3,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,1,1,-,-
+A40.8,"Annan specificerad streptokocksepsis",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+A40.9,"Streptokocksepsis, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+A41.0,"Sepsis orsakad av Staphylococcus aureus",Kv,20,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,3,5,5,4
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,2,-,5,1
+A41.1,"Sepsis orsakad av annan specificerad stafylokock",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+A41.2,"Sepsis orsakad av ospecificerad stafylokock",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,2,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,1,-,-
+A41.3,"Sepsis orsakad av Haemophilus influenzae",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+A41.4,"Sepsis orsakad av anaeroba bakterier",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,2,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-
+A41.5,"Sepsis orsakad av andra gramnegativa organismer",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,4,2
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,1,2,1,-
+A41.9,"Sepsis, ospecificerad",Kv,150,-,-,-,-,-,-,-,-,-,-,-,-,-,3,6,8,15,28,41,37,12
+,,M,161,-,-,-,-,-,-,-,-,-,-,-,1,1,3,9,10,27,34,39,25,12
+A43.9,"Nokardios, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+A46,Rosfeber,Kv,28,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,10,7,6,1
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,1,2,4,5,1
+A48.1,Legionärsjuka,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,1,-
+A49.0,"Stafylokockinfektion, ospecificerad lokalisation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,-,-,-
+A49.1,"Streptokock- och enterokockinfektion, ospecificerad lokalisation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+A49.2,"Haemophilus influenzae-infektion, ospecificerad lokalisation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+A49.8,"Infektion med andra bakterier, ospecificerad lokalisation",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+A49.9,"Bakterieinfektion, ospecificerad",Kv,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,6,4,3,5
+,,M,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,4,3,6,1
+A65-A69,"Andra spiroketsjukdomar",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+A69.2,"Infektion orsakad av Borrelia burgdorferi",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+A80-A89,"Virussjukdomar i centrala nervsystemet",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,-,-,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,2,1,2,-,-,-
+A81.0,"Creutzfeldt-Jakobs sjukdom",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+A81.2,"Progressiv multifokal leukoencefalopati",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+A81.8,"Andra atypiska virusinfektioner i centrala nervsystemet",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+A84.9,"Virusencefalit överförd av fästingar, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+A86,"Icke specificerad virusencefalit",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+B00-B09,"Virussjukdomar med hudutslag och slemhinneutslag",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,-,1,2
+,,M,6,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,1,-,-
+B00.4,"Encefalit orsakad av herpes simplex-virus (G05.1)",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B00.9,"Herpes simplex-infektion, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+B01.1,"Vattkoppsencefalit (G05.1)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+B02.3,"Bältros med ögonkomplikationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+B02.9,"Bältros utan komplikation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,-
+B15-B19,Virushepatit,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-,-,-
+,,M,15,-,-,-,-,-,-,-,-,-,1,2,-,2,2,2,2,3,-,1,-,-
+B16.9,"Akut hepatit B utan hepatit D och utan leverkoma",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+B18.1,"Kronisk (virus)hepatit B utan hepatit D",M,4,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,1,-,1,-,-
+B18.2,"Kronisk (virus)hepatit C",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-,-,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,2,-,2,2,1,1,2,-,-,-,-
+B20-B24,"Sjukdom orsakad av humant immunbristvirus [HIV]",M,5,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,-,1,-,-,-,-
+B20.1,"HIV-infektion med andra bakterieinfektioner",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+B21.0,"HIV-infektion med Kaposis sarkom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+B23.2,"HIV-infektion med hematologiska och immunologiska avvikelser som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+B23.8,"HIV-infektion med andra specificerade sjukdomstillstånd",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+B24,"Icke specificerad sjukdom orsakad av humant immunbristvirus [HIV]",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B25-B34,"Andra virussjukdomar",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,3,2,3
+,,M,11,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,2,2,3,1,1,1
+B27.0,"Mononukleos orsakad av Epstein-Barr-virus",M,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+B34.8,"Infektion med andra virus, ospecificerad lokalisation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+B34.9,"Virusinfektion, ospecificerad",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,3,2,3
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,1,1,1
+B35-B49,Svampsjukdomar,Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,1,1,1,-
+B37.0,"Candidainfektion i munnen",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+B37.1,"Candidainfektion i lunga",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B37.8,"Candidainfektion med andra lokalisationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+B44.1,"Annan lungaspergillos",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+B46.5,"Mucormykos, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B48.5,"Pneumocystos (J17.2)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B49,"Icke specificerad mykos",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+B90-B94,"Sena effekter av infektionssjukdomar och parasitsjukdomar",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,-,-,2
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,1
+B90.9,"Sena effekter av tuberkulos i andningsorganen och ospecificerad tuberkulos",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+B91,"Sena effekter av polio",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+B94.1,"Sena effekter av virusencefalit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+B94.8,"Sena effekter av andra specificerade infektionssjukdomar och parasitsjukdomar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+B94.9,"Sena effekter av ospecificerad infektionssjukdom eller parasitsjukdom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+B99-B99,"Andra infektionssjukdomar",Kv,219,-,-,-,-,-,-,-,-,-,1,-,-,3,4,2,15,18,35,62,50,29
+,,M,197,-,-,-,-,-,-,-,-,-,1,-,-,-,2,4,24,26,36,55,33,16
+B99,"Andra och icke specificerade infektionssjukdomar",Kv,219,-,-,-,-,-,-,-,-,-,1,-,-,3,4,2,15,18,35,62,50,29
+,,M,197,-,-,-,-,-,-,-,-,-,1,-,-,-,2,4,24,26,36,55,33,16
+"C00 - D48","KAP II. TUMÖRER",Kv,5552,-,2,1,2,4,4,7,17,34,47,85,132,185,328,530,888,1010,921,739,452,164
+,,M,6030,-,2,6,5,6,7,5,11,19,32,57,114,206,351,600,976,1183,1048,816,470,116
+C00-C14,"Maligna tumörer i läpp, munhåla och svalg",Kv,66,-,-,-,-,-,-,-,1,-,-,-,2,3,-,6,8,15,12,11,7,1
+,,M,111,-,-,-,-,-,-,-,-,1,-,1,2,5,11,18,27,26,12,8,-,-
+C00.9,"Malign tumör i läpp, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C01,"Malign tumör i tungbasen",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,2,-,-,-
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,1,6,3,1,1,2,-,-
+C02.1,"Malign tumör på tungranden",Kv,4,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,1,1,-,-,-
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,4,2,1,-,-,-
+C02.9,"Ospecificerad lokalisation av malign tumör i tungan",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,2,2,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,-,-,-,-,-
+C03.0,"Malign tumör i överkäkstandköttet",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-
+C03.1,"Malign tumör i underkäkstandköttet",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C03.9,"Ospecificerad lokalisation av malign tumör i tandköttet",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,2,-,1,3,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,2,-,1,-,-,-
+C04.9,"Ospecificerad lokalisation av malign tumör i munbotten",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,1,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,1,-,-,-
+C05.2,"Malign tumör i uvula",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C05.9,"Ospecificerad lokalisation av malign tumör i gommen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C06.0,"Malign tumör i kindslemhinnan",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C06.9,"Ospecificerad lokalisation av malign tumör i munhålan",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,2,2,1,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,3,2,1,1,-,-
+C07,"Malign tumör i parotiskörtel",Kv,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,1,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,2,1,-,-
+C08.0,"Malign tumör i submandibulariskörtel",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C08.9,"Malign tumör i stor spottkörtel, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,1,1,-,-
+C09.9,"Malign tumör i tonsill, ospecificerad",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,2,-,-,-,-,-
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,4,5,1,-,-,-
+C10.9,"Ospecificerad lokalisation av malign tumör i orofarynx",M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,-,1,-,-
+C11.8,"Malign tumör i rinofarynx med övergripande växt",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C11.9,"Ospecificerad lokalisation av malign tumör i rinofarynx",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,-
+,,M,8,-,-,-,-,-,-,-,-,1,-,-,-,-,2,2,-,2,-,1,-,-
+C13.8,"Malign tumör i hypofarynx med övergripande växt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C13.9,"Ospecificerad lokalisation av malign tumör i hypofarynx",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,1,-,-,-
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,4,5,-,1,-,-
+C14.0,"Ospecificerad lokalisation av malign tumör i farynx",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,-
+C15-C26,"Maligna tumörer i matsmältningsorganen",Kv,1638,-,1,-,-,-,-,3,3,6,11,28,37,51,99,160,255,294,287,210,137,56
+,,M,1916,-,-,-,-,-,2,-,-,10,10,24,46,90,159,227,333,374,295,234,90,22
+C15.5,"Malign tumör i nedre tredjedelen av esofagus",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,2,-,-,-
+C15.8,"Malign tumör i esofagus med övergripande växt",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C15.9,"Ospecificerad lokalisation av malign tumör i esofagus",Kv,61,-,-,-,-,-,-,-,-,1,-,-,1,2,7,9,10,10,8,6,6,1
+,,M,175,-,-,-,-,-,-,-,-,-,2,5,5,5,15,16,35,44,20,23,3,2
+C16.0,"Malign tumör i kardia",Kv,12,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,2,2,5,-,-,-
+,,M,43,-,-,-,-,-,1,-,-,-,1,-,2,2,1,11,4,7,7,6,1,-
+C16.2,"Malign tumör i corpus ventriculi",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C16.4,"Malign tumör i pylorus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C16.5,"Ospecificerad lokalisation av malign tumör i ventrikelns curvatura minor",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C16.9,"Ospecificerad lokalisation av malign tumör i magsäcken",Kv,77,-,-,-,-,-,-,-,1,-,4,4,3,3,5,4,9,11,14,12,5,2
+,,M,102,-,-,-,-,-,-,-,-,1,3,1,3,2,6,11,14,17,19,13,9,3
+C17.0,"Malign tumör i duodenum",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,4,1,2,-,1
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,3,1,2,1,-,-
+C17.1,"Malign tumör i jejunum",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C17.2,"Malign tumör i ileum",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C17.9,"Ospecificerad lokalisation av malign tumör i tunntarmen",Kv,13,-,-,-,-,-,-,-,-,-,-,-,1,3,-,2,4,1,-,2,-,-
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,6,-,-,1,3,-,2,2,-
+C18.0,"Malign tumör i caecum",Kv,59,-,-,-,-,-,-,-,-,1,-,2,2,-,-,4,9,12,13,7,7,2
+,,M,35,-,-,-,-,-,-,-,-,-,-,-,-,6,4,4,4,5,4,6,1,1
+C18.1,"Malign tumör i appendix",Kv,11,-,-,-,-,-,-,-,-,-,-,2,-,2,-,2,3,1,-,1,-,-
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,-,5,1,1,-,-
+C18.2,"Malign tumör i colon ascendens",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,2,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-
+C18.4,"Malign tumör i colon transversum",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,4,1,-,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1,1,-
+C18.6,"Malign tumör i colon descendens",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C18.7,"Malign tumör i sigmoideum",Kv,73,-,-,-,-,-,-,-,-,-,1,1,4,4,5,7,9,7,9,15,9,2
+,,M,68,-,-,-,-,-,-,-,-,1,-,-,3,4,6,11,8,9,8,14,3,1
+C18.9,"Ospecificerad lokalisation av malign tumör i kolon",Kv,343,-,-,-,-,-,-,1,1,1,1,5,4,5,11,27,52,56,68,58,38,15
+,,M,281,-,-,-,-,-,-,-,-,4,1,4,8,7,18,27,41,46,50,43,24,8
+C19,"Malign tumör i rektosigmoidala gränszonen",Kv,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,4,2,2,1,1
+,,M,30,-,-,-,-,-,-,-,-,-,1,1,-,2,2,4,4,6,3,7,-,-
+C20,"Malign tumör i ändtarmen",Kv,171,-,-,-,-,-,-,-,-,-,-,3,6,6,12,23,26,22,30,23,12,8
+,,M,229,-,-,-,-,-,-,-,-,-,-,5,4,11,16,26,46,52,30,25,14,-
+C21.0,"Ospecificerad lokalisation av malign tumör i anus",Kv,16,-,-,-,-,-,-,-,-,-,-,1,2,1,1,-,2,2,2,1,2,2
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,3,1,1,1,-,-
+C21.1,"Malign tumör i analkanalen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C22.0,Levercellskarcinom,Kv,30,-,-,-,-,-,-,-,-,-,-,1,-,2,1,2,5,4,7,3,4,1
+,,M,96,-,-,-,-,-,-,-,-,1,-,-,3,6,10,11,17,20,16,11,1,-
+C22.1,"Cancer i intrahepatiska gallgångarna",Kv,34,-,-,-,-,-,-,-,-,-,2,1,-,-,2,2,10,10,5,1,1,-
+,,M,69,-,-,-,-,-,-,-,-,1,-,-,1,-,10,8,16,12,13,7,1,-
+C22.3,"Angiosarkom i levern",Kv,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+C22.7,"Andra specificerade primära cancerformer i levern",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C22.9,"Ospecificerad malign tumör i levern",Kv,28,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,5,6,6,1,6,1
+,,M,74,-,-,-,-,-,1,-,-,-,-,-,2,-,10,9,14,12,14,8,4,-
+C23,"Malign tumör i gallblåsan",Kv,53,-,-,-,-,-,-,-,-,1,-,-,-,3,3,6,5,15,10,7,2,1
+,,M,25,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,6,5,6,3,-,-
+C24.0,"Malign tumör i extrahepatiska gallgångarna",Kv,63,-,-,-,-,-,-,1,-,1,1,2,2,1,2,5,11,14,10,8,3,2
+,,M,41,-,-,-,-,-,-,-,-,-,-,2,-,1,1,3,6,8,8,9,1,2
+C24.1,"Malign tumör i ampulla Vateri",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,-,-
+C24.9,"Ospecificerad lokalisation av malign tumör i gallvägarna",Kv,44,-,-,-,-,-,-,-,-,-,-,1,-,-,6,3,9,8,6,2,5,4
+,,M,41,-,-,-,-,-,-,-,-,-,-,-,2,1,2,6,3,6,7,9,5,-
+C25.0,"Malign tumör i caput pancreatis",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,2,-,1
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,2,-,3,1,-
+C25.1,"Malign tumör i corpus pancreatis",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+C25.2,"Malign tumör i cauda pancreatis",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,-,-,-,-,-
+C25.3,"Malign tumör i ductus pancreatis",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C25.8,"Malign tumör i pankreas med övergripande växt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+C25.9,"Ospecificerad lokalisation av malign tumör i pankreas",Kv,439,-,-,-,-,-,-,1,1,1,2,3,11,16,37,50,73,92,76,47,24,5
+,,M,482,-,-,-,-,-,-,-,-,2,2,5,11,33,44,65,97,101,72,30,17,3
+C26.0,"Ospecificerad lokalisation av malign tumör i tarmkanalen",Kv,12,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,3,2,3,2
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,2,2,1,1,-
+C26.9,"Ofullständigt angiven lokalisation av malign tumör i matsmältningsorganen",Kv,39,-,-,-,-,-,-,-,-,-,-,-,-,1,5,3,4,8,6,4,5,3
+,,M,27,-,-,-,-,-,-,-,-,-,-,1,-,1,-,3,6,5,3,5,1,2
+C30-C39,"Maligna tumörer i andningsorganen och brösthålans organ",Kv,928,-,-,-,-,-,-,-,-,1,-,7,14,23,57,105,218,239,139,87,34,4
+,,M,856,-,-,-,-,-,-,-,1,-,1,6,13,35,56,116,177,195,143,74,32,7
+C30.0,"Malign tumör i näshåla",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-
+C31.0,"Malign tumör i maxillarsinus",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-
+C31.1,"Malign tumör i etmoidalsinus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C31.9,"Malign tumör i näsans bihålor, ospecificerade",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,1,-
+C32.0,"Malign tumör i glottis",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C32.1,"Malign tumör i supraglottis",Kv,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-
+C32.9,"Ospecificerad lokalisation av malign tumör i larynx",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,2,-,-,2,5,2,4,-,3,-
+C33,"Malign tumör i luftstrupen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+C34.0,"Malign tumör i huvudbronk",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C34.1,"Malign tumör i överlob, bronk eller lunga",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,-,-,-,-,-,-
+C34.3,"Malign tumör i underlob, bronk eller lunga",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C34.8,"Malign tumör i bronk och lunga med övergripande växt",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+C34.9,"Ospecificerad lokalisation av malign tumör i bronk och lunga",Kv,901,-,-,-,-,-,-,-,-,1,-,4,14,23,53,103,211,234,136,85,33,4
+,,M,811,-,-,-,-,-,-,-,-,-,1,6,9,34,50,110,167,189,137,74,27,7
+C37,"Malign tumör i tymus",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,2,2,-,-,-,-
+C38.0,"Malign tumör i hjärtat",Kv,2,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-
+C38.3,"Malign tumör i ospecificerad del av mediastinum",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C38.4,"Malign tumör i pleura",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+C39.9,"Ofullständigt angivna lokalisationer av malign tumör inom andningsorganen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C40-C41,"Maligna tumörer i ben och ledbrosk",Kv,6,-,-,-,-,2,-,2,-,1,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,18,-,-,-,2,2,2,1,-,-,2,1,-,1,1,-,2,2,-,2,-,-
+C40.2,"Malign tumör i nedre extremiteternas långa ben",Kv,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+C41.0,"Malign tumör i skallens ben och ansiktsbenen",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,-
+C41.1,"Malign tumör i underkäkens ben",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+C41.2,"Malign tumör i kotpelaren",Kv,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+C41.4,"Malign tumör i bäckenben, sakrum och koccyx",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+C41.9,"Ospecificerad lokalisation av malign tumör i ben och ledbrosk",Kv,4,-,-,-,-,-,-,2,-,1,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,11,-,-,-,2,1,2,1,-,-,1,1,-,1,1,-,-,-,-,1,-,-
+C43-C44,"Melanom och andra maligna tumörer i huden",Kv,129,-,-,-,-,-,-,-,2,2,2,5,7,2,4,15,14,19,24,18,6,9
+,,M,179,-,-,-,-,-,-,-,-,2,5,4,9,10,12,14,26,34,25,23,12,3
+C43.3,"Malignt melanom på andra och ospecificerade delar av ansiktet",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C43.4,"Malignt melanom i hårbotten och på halsen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C43.5,"Malignt melanom på bålen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,-,-
+C43.6,"Malignt melanom på övre extremitet inklusive skuldran",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+C43.7,"Malignt melanom på nedre extremitet inklusive höften",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C43.9,"Ospecificerad lokalisation av malignt melanom i huden",Kv,102,-,-,-,-,-,-,-,2,2,2,5,7,2,4,12,13,18,20,8,3,4
+,,M,149,-,-,-,-,-,-,-,-,2,5,4,9,9,11,9,25,32,19,17,5,2
+C44.1,"Malign tumör i huden på ögonlock inklusive ögonvrå",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+C44.2,"Malign tumör i huden på ytteröra och i yttre hörselgången",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C44.3,"Malign tumör i huden på andra och ospecificerade delar av ansiktet",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,1,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,-
+C44.4,"Malign tumör i huden i hårbotten och på halsen",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,-
+C44.5,"Malign tumör i huden på bålen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+C44.6,"Malign tumör i huden på övre extremiteten inklusive skuldran",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C44.7,"Malign tumör i huden på nedre extremiteten inklusive höften",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C44.9,"Ospecificerad lokalisation av malign tumör i huden",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,1,2
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,1,2,5,1,1
+C45-C49,"Maligna tumörer i mesotelial (kroppshåletäckande) vävnad och mjukvävnad",Kv,75,-,-,-,1,1,-,1,-,1,3,-,2,5,4,10,11,18,10,6,1,1
+,,M,110,-,-,1,-,1,-,-,-,-,-,3,3,6,5,14,16,29,19,8,4,1
+C45.0,"Mesoteliom i pleura",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,2,1,-,-
+,,M,22,-,-,-,-,-,-,-,-,-,-,-,1,-,-,3,2,9,6,1,-,-
+C45.1,"Mesoteliom i peritoneum",M,2,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-
+C45.7,"Mesoteliom med andra lokalisationer",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,2,-,-
+C45.9,"Ospecificerad lokalisation av mesoteliom",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,1,-,-
+,,M,38,-,-,-,-,-,-,-,-,-,-,-,-,3,2,7,5,8,7,4,1,1
+C46.9,"Ospecificerad lokalisation av Kaposis sarkom",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+C47.9,"Ospecificerad lokalisation av malign tumör i perifera nerver och autonoma nervsystemet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C48.0,"Malign tumör i retroperitonealrummet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C48.1,"Malign tumör i peritoneum med specificerad lokalisation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C48.2,"Ospecificerad lokalisation av malign tumör i peritoneum",Kv,4,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-
+C49.0,"Malign tumör i bindväv och mjukvävnad i huvudet, ansiktet och halsen",Kv,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C49.2,"Malign tumör i bindväv och mjukvävnad i nedre extremitet inklusive höften",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+C49.3,"Malign tumör i bindväv och mjukvävnad i bröstkorgen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C49.4,"Malign tumör i bindväv och mjukvävnad i buken",Kv,8,-,-,-,-,-,-,-,-,-,1,-,-,2,1,2,-,1,-,1,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,-,-,-
+C49.5,"Malign tumör i bindväv och mjukvävnad i bäckenet",M,3,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+C49.9,"Ospecificerad lokalisation av malign tumör i bindväv och mjukvävnad",Kv,38,-,-,-,-,1,-,1,-,1,2,-,1,3,2,6,5,10,4,1,-,1
+,,M,32,-,-,1,-,-,-,-,-,-,-,1,1,2,2,2,6,8,6,1,2,-
+C50-C50,"Malign tumör i bröstkörtel",Kv,689,-,-,-,-,-,-,1,4,12,14,23,33,38,53,69,88,94,100,69,67,24
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+C50.9,"Ospecificerad lokalisation av malign tumör i bröstkörtel",Kv,689,-,-,-,-,-,-,1,4,12,14,23,33,38,53,69,88,94,100,69,67,24
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+C51-C58,"Maligna tumörer i de kvinnliga könsorganen",Kv,640,-,-,-,-,-,2,-,2,6,9,7,18,29,54,62,108,113,100,77,43,10
+C51.9,"Ospecificerad lokalisation av malign tumör i vulva",Kv,41,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,3,11,8,8,1
+C52,"Malign tumör i vagina",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,3,-,1,-,-,-,1,1,1
+C53.9,"Ospecificerad lokalisation av malign tumör i cervix uteri",Kv,52,-,-,-,-,-,1,-,2,4,3,1,4,2,4,5,7,5,7,4,3,-
+C54.1,"Malign tumör i endometrium",Kv,16,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,1,3,3,2,1,1
+C54.9,"Ospecificerad lokalisation av malign tumör i corpus uteri",Kv,93,-,-,-,-,-,-,-,-,-,-,-,1,4,9,8,16,19,12,17,5,2
+C55,"Malign tumör i livmodern med icke specificerad lokalisation",Kv,94,-,-,-,-,-,-,-,-,-,2,-,4,3,4,10,15,21,13,11,9,2
+C56,"Malign tumör i äggstock",Kv,282,-,-,-,-,-,1,-,-,2,3,5,7,15,30,29,54,55,42,24,14,1
+C57.0,"Malign tumör i äggledare",Kv,21,-,-,-,-,-,-,-,-,-,-,-,1,2,1,1,4,4,5,3,-,-
+C57.8,"Malign tumör i de kvinnliga könsorganen med övergripande växt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C57.9,"Ospecificerad lokalisation av malign tumör i de kvinnliga könsorganen",Kv,33,-,-,-,-,-,-,-,-,-,1,-,1,-,3,3,4,3,7,7,2,2
+C60-C63,"Maligna tumörer i de manliga könsorganen",M,1169,-,-,-,-,-,-,1,-,-,-,-,4,13,26,56,141,205,242,236,199,46
+C60.9,"Ospecificerad lokalisation av malign tumör i penis",M,17,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,2,8,2,1,-
+C61,"Malign tumör i prostata",M,1147,-,-,-,-,-,-,-,-,-,-,-,4,11,26,54,140,201,234,234,197,46
+C62.9,"Ospecificerad lokalisation av malign tumör i testikel",M,4,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,1,-,-,1,-
+C63.9,"Ospecificerad lokalisation av malign tumör i de manliga könsorganen",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C64-C68,"Maligna tumörer i urinorganen",Kv,214,-,-,-,-,-,-,-,-,-,1,1,3,4,8,21,38,36,35,41,22,4
+,,M,419,-,1,-,-,-,-,-,-,-,2,1,11,13,15,34,61,81,82,69,38,11
+C64,"Malign tumör i njure med undantag för njurbäcken",Kv,92,-,-,-,-,-,-,-,-,-,-,1,1,3,3,8,17,12,17,18,12,-
+,,M,133,-,1,-,-,-,-,-,-,-,1,1,11,7,7,13,18,26,19,23,3,3
+C65,"Malign tumör i njurbäcken",Kv,17,-,-,-,-,-,-,-,-,-,1,-,-,-,1,2,3,4,2,3,-,1
+,,M,22,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,5,6,3,2,1
+C66,"Malign tumör i uretär (urinledare)",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,3,1,-
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,2,1,1,3,-
+C67.2,"Malign tumör i urinblåsans sidovägg",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C67.7,"Malign tumör i urachusgången",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+C67.8,"Malign tumör i urinblåsan med övergripande växt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C67.9,"Ospecificerad lokalisation av malign tumör i urinblåsan",Kv,83,-,-,-,-,-,-,-,-,-,-,-,2,-,3,8,13,17,13,15,9,3
+,,M,224,-,-,-,-,-,-,-,-,-,1,-,-,4,5,16,30,44,52,36,29,7
+C68.0,"Malign tumör i uretra",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+C68.9,"Ospecificerad lokalisation av malign tumör i urinorganen",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,4,2,-,2,-,-
+,,M,24,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,6,2,4,6,1,-
+C69-C72,"Maligna tumörer i öga, hjärnan och andra delar av centrala nervsystemet",Kv,142,-,1,-,-,-,-,-,4,4,3,5,7,13,17,18,19,20,19,8,4,-
+,,M,183,-,-,4,-,-,1,1,5,3,9,12,11,14,17,24,34,20,20,5,2,1
+C69.3,"Malign tumör i korioidea",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,-,-
+C69.4,"Malign tumör i ciliarkropp",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,2,-,1,-,-,-
+C69.5,"Malign tumör i tårkörtel och tårkanal",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+C69.9,"Ospecificerad lokalisation av malign tumör i öga",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,2,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,1,-,-
+C70.9,"Ospecificerad lokalisation av malign tumör i centrala nervsystemets hinnor",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+C71.0,"Malign tumör i storhjärnan utom lober och ventriklar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1
+C71.1,"Malign tumör i frontallob",Kv,4,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,2,1,-,-,-
+,,M,6,-,-,-,-,-,-,-,1,-,-,-,1,-,-,1,1,1,-,1,-,-
+C71.2,"Malign tumör i temporallob",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+C71.3,"Malign tumör i parietallob",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C71.4,"Malign tumör i occipitallob",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C71.5,"Malign tumör i hjärnventrikel",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C71.6,"Malign tumör i lillhjärnan",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,4,-,-,2,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+C71.7,"Malign tumör i hjärnstammen",Kv,2,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+C71.8,"Malign tumör i hjärnan med övergripande växt",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C71.9,"Ospecificerad lokalisation av malign tumör i hjärnan",Kv,120,-,-,-,-,-,-,-,3,3,3,5,7,10,15,16,15,17,18,4,4,-
+,,M,152,-,-,-,-,-,1,-,3,3,8,12,8,13,15,22,30,17,15,3,2,-
+C72.5,"Malign tumör i andra och ospecificerade kranialnerver",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C72.9,"Ospecificerad lokalisation av malign tumör i centrala nervsystemet",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C73-C75,"Maligna tumörer i tyreoidea och andra endokrina körtlar",Kv,24,-,-,-,-,-,-,-,-,-,-,1,2,-,3,3,5,3,3,1,3,-
+,,M,15,-,1,-,1,-,-,-,-,-,-,-,-,-,2,3,1,6,-,1,-,-
+C73,"Malign tumör i tyreoidea",Kv,18,-,-,-,-,-,-,-,-,-,-,1,2,-,1,2,4,2,3,1,2,-
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,1,4,-,1,-,-
+C74.0,"Malign tumör i binjurebarken",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C74.9,"Ospecificerad lokalisation av malign tumör i binjure",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,1,-
+,,M,3,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C75.9,"Malign tumör i ospecificerad endokrin körtel",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C76-C80,"Maligna tumörer med ofullständigt angivna, sekundära och icke specificerade lokalisationer",Kv,343,-,-,-,-,-,-,-,1,-,3,1,1,6,6,23,48,55,62,72,45,20
+,,M,268,-,-,-,-,-,-,-,1,-,1,2,1,6,12,30,36,60,45,43,25,6
+C76.0,"Malign tumör i huvudet, ansiktet och halsen",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,1,-
+,,M,5,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,3,-,1,-,-
+C76.1,"Malign tumör i bröstkorgen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C76.2,"Malign tumör i buken",Kv,63,-,-,-,-,-,-,-,-,-,-,1,-,1,-,4,7,12,11,14,8,5
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,3,3,-,-
+C76.3,"Malign tumör i bäckenet",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+C76.4,"Malign tumör i övre extremitet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C76.7,"Malign tumör i andra ofullständigt angivna lokalisationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+C80.0,"Malign tumör, primär lokalisation angiven som okänd",Kv,149,-,-,-,-,-,-,-,1,-,3,-,1,5,5,11,28,23,24,20,20,8
+,,M,123,-,-,-,-,-,-,-,1,-,-,2,1,4,10,17,19,30,16,13,7,3
+C80.9,"Malign tumör, ospecificerad primär lokalisation",Kv,122,-,-,-,-,-,-,-,-,-,-,-,-,-,1,7,12,20,25,37,15,5
+,,M,126,-,-,-,-,-,-,-,-,-,-,-,-,2,1,13,16,24,25,26,16,3
+C81-C96,"Maligna tumörer i lymfatisk, blodbildande och besläktad vävnad",Kv,418,-,-,1,1,1,2,-,-,-,1,7,5,9,18,30,51,74,87,81,36,14
+,,M,548,-,-,1,2,3,2,1,4,3,-,2,13,12,26,47,95,111,119,61,38,8
+C81.2,"Hodgkins lymfom (klassiskt) med blandad cellularitet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C81.9,"Hodgkins lymfom, ospecificerat",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,1,4,-,-
+,,M,8,-,-,-,-,1,-,-,-,-,-,-,1,-,-,2,1,2,-,-,1,-
+C82.7,"Andra specificerade typer av follikulärt lymfom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C82.9,"Follikulärt lymfom, ospecificerat",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,2,3,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+C83.0,"Småcelligt B-cellslymfom",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,1,1,-
+C83.1,Mantelcellslymfom,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+,,M,22,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,6,4,7,1,1,-
+C83.3,"Diffust storcelligt B-cellslymfom",Kv,34,-,-,-,-,-,-,-,-,-,-,-,-,1,1,5,4,3,13,4,1,2
+,,M,38,-,-,-,-,-,-,-,-,-,-,-,1,2,4,2,4,11,7,3,3,1
+C83.5,"Lymfoblastiskt lymfom",M,1,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+C83.7,"Burkitts lymfom",M,3,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-,-
+C83.8,"Andra icke-follikulära lymfom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C84.0,"Mycosis fungoides",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,-,-,-
+C84.4,"Perifert T-cellslymfom, ej klassificerat",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,-,-
+,,M,10,-,-,-,-,-,-,-,1,-,-,-,1,-,2,2,2,2,-,-,-,-
+C84.7,"Anaplastiskt storcelligt lymfom, ALK-negativt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C84.9,"Moget T/NK-cellslymfom, ospecificerat",Kv,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-
+C85.1,"B-cellslymfom, ospecificerat",Kv,33,-,-,-,-,-,1,-,-,-,-,-,-,1,-,1,5,9,11,3,1,1
+,,M,30,-,-,-,-,-,-,-,-,-,-,-,1,1,-,3,6,2,11,4,2,-
+C85.9,"Non-Hodgkin-lymfom, ospecificerad typ",Kv,41,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,4,9,6,10,6,1
+,,M,48,-,-,-,-,1,-,-,1,-,-,1,-,1,2,2,5,13,13,3,5,1
+C86.1,"Hepatospleniskt T-cellslymfom",M,2,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+C86.2,"Enteropatiskt (intestinalt) T-cellslymfom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+C86.5,"Angioimmunoblastiskt T-cellslymfom",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+C88.0,"Waldenströms makroglobulinemi",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,1,-
+C88.4,"Extranodalt marginalzons-B-cellslymfom av mukosaassocierad lymfoid vävnad [MALT-lymfom]",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-
+C90.0,"Multipelt myelom",Kv,100,-,-,-,-,-,-,-,-,-,-,1,3,1,5,11,14,18,20,14,10,3
+,,M,152,-,-,-,-,-,-,-,-,-,-,-,3,6,11,8,33,28,34,22,5,2
+C90.1,Plasmacellsleukemi,Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+C90.3,"Solitärt plasmocytom",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+C91.0,"Akut lymfatisk leukemi [ALL]",Kv,7,-,-,-,1,-,-,-,-,-,-,-,-,1,1,1,-,1,1,1,-,-
+,,M,10,-,-,-,1,1,-,-,-,-,-,1,-,-,1,1,-,3,1,1,-,-
+C91.1,"Kronisk lymfatisk leukemi av B-cellstyp [B-KLL]",Kv,31,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,5,3,7,6,4,4
+,,M,57,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,7,10,17,7,8,3
+C91.3,"Prolymfocytleukemi av B-cellstyp",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C91.4,Hårcellsleukemi,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C91.6,"Prolymfocytleukemi av T-cellstyp",Kv,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+C91.7,"Annan lymfatisk leukemi",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C92.0,"Akut myeloisk leukemi [AML]",Kv,71,-,-,-,-,1,1,-,-,-,1,4,-,-,4,7,6,12,14,17,3,1
+,,M,75,-,-,-,-,-,-,1,2,2,-,-,2,1,3,8,15,17,11,7,6,-
+C92.1,"Kronisk myeloisk leukemi [KML], BCR/ABL-positiv",Kv,19,-,-,1,-,-,-,-,-,-,-,1,-,-,2,-,1,4,4,3,1,2
+,,M,29,-,-,-,1,-,1,-,-,-,-,-,1,-,1,5,4,4,8,1,3,-
+C92.3,Myelosarkom,Kv,2,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+C92.4,"Akut promyelocytleukemi [PML]",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C92.5,"Akut myelomonocytleukemi",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C92.9,"Myeloisk leukemi, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C93.0,"Akut monoblast-/monocytleukemi",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+C93.1,"Kronisk myelomonocytleukemi [KMML]",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,1,-,1,2,-
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,8,3,4,-,-
+C93.9,"Monocytleukemi, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+C95.0,"Akut leukemi med ospecificerad celltyp",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,3,4,-,-
+,,M,7,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,2,2,-,1,-,-
+C95.1,"Kronisk leukemi med ospecificerad celltyp",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+C95.9,"Leukemi, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+C96.8,"Histiocytärt sarkom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+C96.9,"Primär, malign tumör i lymfoid, blodbildande och besläktad vävnad, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1
+D10-D36,"Benigna tumörer",Kv,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,4,7,3,-
+,,M,28,-,-,-,-,-,-,1,-,-,-,-,-,1,3,4,2,3,5,4,4,1
+D12.6,"Ospecificerad lokalisation av benign tumör i kolon",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D13.1,"Benign tumör i magsäck",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D13.3,"Benign tumör i andra och ospecificerade delar av tunntarmen",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D17.5,"Lipom i intraabdominella organ",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D18.0,"Hemangiom, alla lokalisationer",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+D18.1,"Lymfangiom, alla lokalisationer",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-
+D21.9,"Ospecificerad lokalisation av benign tumör i bindväv och annan mjukvävnad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D28.0,"Benign tumör i vulva",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D32.0,"Benign tumör i hjärnhinnor",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,4,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,1,-,1,-,-
+D32.9,"Ospecificerad lokalisation av benign tumör i centrala nervsystemets hinnor",Kv,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,4,4,2,-
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,2,2,2,2,2,1
+D35.0,"Benign tumör i binjure",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D35.2,"Benign tumör i hypofys",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+D35.8,"Benign tumör med multiglandulär lokalisation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+D37-D48,"Tumörer av osäker eller okänd natur",Kv,220,-,-,-,-,-,-,-,-,1,-,-,1,2,5,8,23,26,39,51,43,21
+,,M,207,-,-,-,-,-,-,-,-,-,2,1,1,-,6,13,25,36,41,47,25,10
+D37.0,"Tumör av osäker eller okänd natur i läpp, munhåla och svalg",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D37.1,"Tumör av osäker eller okänd natur i magsäcken",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+D37.2,"Tumör av osäker eller okänd natur i tunntarmen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,-,1,-,-
+D37.3,"Tumör av osäker eller okänd natur i appendix",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+D37.4,"Tumör av osäker eller okänd natur i tjocktarmen",Kv,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,1,1,7,3,1
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,9,2,3,-
+D37.5,"Tumör av osäker eller okänd natur i rektum",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1
+D37.6,"Tumör av osäker eller okänd natur i levern, gallblåsan och gallvägarna",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,1,2
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,-,-,5,2,-
+D37.7,"Tumör av osäker eller okänd natur i andra matsmältningsorgan",Kv,15,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,2,3,3,3,2
+,,M,11,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,2,2,3,1,-,-
+D37.9,"Ospecificerad lokalisation av tumör av osäker eller okänd natur i matsmältningsorganen",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,4,3,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,1,1
+D38.0,"Tumör av osäker eller okänd natur i larynx",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+D38.1,"Tumör av osäker eller okänd natur i trakea, bronk och lunga",Kv,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,6,5,5,3
+,,M,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,5,6,5,5,-
+D38.3,"Tumör av osäker eller okänd natur i mediastinum",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+D38.4,"Tumör av osäker eller okänd natur i tymus",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D39.0,"Tumör av osäker eller okänd natur i uterus",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D39.1,"Tumör av osäker eller okänd natur i ovarium",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+D39.7,"Tumör av osäker eller okänd natur i andra specificerade lokalisationer i de kvinnliga könsorganen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D39.9,"Ospecificerad lokalisation av tumör av osäker eller okänd natur i de kvinnliga könsorganen",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,-
+D41.0,"Tumör av osäker eller okänd natur i njure",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,3,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,2,1
+D41.1,"Tumör av osäker eller okänd natur i njurbäcken",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+D41.2,"Tumör av osäker eller okänd natur i uretär",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+D41.4,"Tumör av osäker eller okänd natur i urinblåsan",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1
+D42.0,"Tumör av osäker eller okänd natur i hjärnhinnor",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D43.0,"Tumör av osäker eller okänd natur i hjärnan, supratentoriell lokalisation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D43.1,"Tumör av osäker eller okänd natur i hjärnan, infratentoriell lokalisation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+D43.2,"Tumör av osäker eller okänd natur med ospecificerad lokalisation i hjärnan",Kv,25,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,8,4,1,6,1
+,,M,26,-,-,-,-,-,-,-,-,-,1,1,1,-,2,3,2,5,5,2,2,2
+D44.0,"Tumör av osäker eller okänd natur i tyreoidea",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D44.3,"Tumör av osäker eller okänd natur i hypofysen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+D44.7,"Tumör av osäker eller okänd natur i aortic body (aortanära körtel) och andra paraganglier",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+D44.8,"Tumör av osäker eller okänd natur med multiglandulär lokalisation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D45,"Polycythaemia vera (sjuklig ökning av antalet röda blodkroppar)",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,1,-
+D46.1,"Refraktär anemi med ringsideroblaster",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D46.9,"Myelodysplastiskt syndrom, ospecificerat",Kv,41,-,-,-,-,-,-,-,-,1,-,-,-,1,2,2,4,7,7,12,4,1
+,,M,47,-,-,-,-,-,-,-,-,-,-,-,-,-,2,5,6,8,8,11,6,1
+D47.0,"Histiocyt- och mastcellstumörer av osäker och okänd natur",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D47.1,"Kronisk myeloproliferativ sjukdom",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,1,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,2,-,-
+D47.2,"Monoklonal gammopati av obestämd signifikans [MGUS]",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,-,-,-
+D47.3,"Essentiell trombocytemi",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-
+D47.4,Osteomyelofibros,Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,1,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,3,-,1
+D47.5,"Kronisk eosinofil leukemi [hypereosinofilt syndrom]",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D48.1,"Tumör av osäker eller okänd natur i bindväv och annan mjukvävnad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+D48.3,"Tumör av osäker eller okänd natur i retroperitoneum",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+D48.5,"Tumör av osäker eller okänd natur i huden",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+D48.7,"Tumör av osäker eller okänd natur i andra specificerade lokalisationer",Kv,13,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,3,2,4,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,1
+D48.9,"Ospecificerad lokalisation av tumör av osäker eller okänd natur",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,3,3,2
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,-
+"D50 - D89","KAP III. SJUKDOMAR I BLOD OCH BLODBILDANDE ORGAN SAMT VISSA RUBBNINGAR I IMMUNSYSTEMET",Kv,98,-,-,-,-,-,1,-,-,-,-,-,2,2,1,2,7,11,7,25,22,18
+,,M,72,-,-,-,-,-,-,2,-,-,-,1,-,2,4,5,6,8,13,12,14,5
+D50-D53,Nutritionsanemier,Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,5
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,-,2,-
+D50.9,"Järnbristanemi, ospecificerad",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,5
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,2,-
+D53.9,"Nutritionsanemi, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D55-D59,"Hemolytiska anemier (blodbrist på grund av ökad nedbrytning av röda blodkroppar)",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+D58.9,"Hereditär hemolytisk anemi, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+D59.3,"Hemolytiskt-uremiskt syndrom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D59.4,"Andra icke autoimmuna hemolytiska anemier",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D60-D64,"Aplastisk anemi (blodbrist på grund av upphörd eller minskad blodbildning i benmärgen) och andra anemier",Kv,55,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,4,14,14,13
+,,M,37,-,-,-,-,-,-,1,-,-,-,1,-,-,2,2,3,3,9,3,8,5
+D61.9,"Aplastisk anemi, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+D62,"Anemi efter akut större blödning",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+D64.9,"Anemi, ospecificerad",Kv,53,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,5,4,14,14,13
+,,M,33,-,-,-,-,-,-,1,-,-,-,1,-,-,1,2,2,3,8,2,8,5
+D65-D69,"Koagulationsrubbningar, purpura (punktformiga blödningar i huden mm) och andra blödningstillstånd",Kv,5,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,1,-,1,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,4,2,-
+D65,"Disseminerad intravasal koagulation [defibrineringssyndrom]",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+D66,"Ärftlig brist på faktor VIII",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+D68.4,"Förvärvad brist på koagulationsfaktor",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D68.5,"Primär trombofili",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+D68.9,"Koagulationsrubbning, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D69.3,"Idiopatisk trombocytopen purpura",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+D69.6,"Trombocytopeni, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-
+D70-D77,"Andra sjukdomar i blod och blodbildande organ",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,3,1,-,1,3,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-
+D70,Agranulocytos,Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+D72.1,Eosinofili,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+D73.5,Mjältinfarkt,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D75.8,"Andra specificerade sjukdomar i blod och blodbildande organ",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D75.9,"Sjukdom i blod och blodbildande organ, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,-
+D76.1,"Hemofagocytisk lymfohistiocytos",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+D80-D89,"Vissa rubbningar i immunsystemet",Kv,16,-,-,-,-,-,1,-,-,-,-,-,1,1,-,1,-,3,1,5,3,-
+,,M,13,-,-,-,-,-,-,1,-,-,-,-,-,2,2,1,-,2,2,2,1,-
+D80.4,"Selektiv brist på immunglobulin M [IgM]",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D81.0,"Svår kombinerad immunbrist [SCID] med retikulär dysgenesi",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D82.1,"Di Georges syndrom",Kv,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+D83.9,"Vanlig variabel immunbrist, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+D84.9,"Immunbrist, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+D86.0,Lungsarkoidos,Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,2,-,-,1,-
+D86.3,"Sarkoidos i huden",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+D86.8,"Sarkoidos med andra och kombinerade lokalisationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+D86.9,"Sarkoidos, ospecificerad",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,2,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+D89.9,"Sjukdom som engagerar immunsystemet, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+"E00 - E90","KAP IV. ENDOKRINA SJUKDOMAR, NUTRITIONSRUBBNINGAR OCH ÄMNESOMSÄTTNINGSSJUKDOMAR",Kv,750,1,2,-,-,1,-,-,-,1,1,3,7,9,20,26,60,91,125,163,150,90
+,,M,769,3,3,-,-,-,-,4,1,1,3,5,17,25,44,67,106,123,130,119,93,25
+E00-E07,"Sjukdomar i sköldkörteln",Kv,31,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,5,1,7,6,11
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+E03.5,Myxödemkoma,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E03.9,"Hypotyreos, ospecificerad",Kv,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,4,8
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+E04.9,"Atoxisk struma, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,-
+E05.0,"Tyreotoxikos med diffus struma",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+E05.9,"Tyreotoxikos, ospecificerad",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,2
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1
+E07.9,"Sjukdom i sköldkörteln, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+E10-E14,Diabetes,Kv,566,-,-,-,-,-,-,-,-,-,-,3,5,6,13,19,45,69,99,126,116,65
+,,M,610,-,-,-,-,-,-,3,1,-,1,4,10,19,34,52,88,97,111,99,78,13
+E10.0,"Diabetes mellitus typ 1-Med koma",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+,,M,5,-,-,-,-,-,-,2,-,-,-,-,-,2,1,-,-,-,-,-,-,-
+E10.1,"Diabetes mellitus typ 1-Med ketoacidos",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,5,-,-,-,-,-,-,-,1,-,-,-,-,2,1,1,-,-,-,-,-,-
+E10.2,"Diabetes mellitus typ 1-Med njurkomplikationer",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,-,1,1,-,-
+E10.5,"Diabetes mellitus typ 1-Med perifera cirkulationsrubbningar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-
+E10.6,"Diabetes mellitus typ 1-Med andra specificerade komplikationer",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,3,1,-,2,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,2,-,-,1,-
+E10.7,"Diabetes mellitus typ 1-Med multipla komplikationer",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,4,-,-,-
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,3,3,1,1,-,-
+E10.8,"Diabetes mellitus typ 1-Med ospecificerade komplikationer",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+E10.9,"Diabetes mellitus typ 1-Utan komplikationer",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,3,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-
+E11.0,"Diabetes mellitus typ 2-Med koma",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+E11.1,"Diabetes mellitus typ 2-Med ketoacidos",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+E11.2,"Diabetes mellitus typ 2-Med njurkomplikationer",Kv,53,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,2,6,12,13,11,5
+,,M,51,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,6,5,16,9,7,3
+E11.3,"Diabetes mellitus typ 2-Med ögonkomplikationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E11.4,"Diabetes mellitus typ 2-Med neurologiska komplikationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+E11.5,"Diabetes mellitus typ 2-Med perifera cirkulationsrubbningar",Kv,18,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,9,3,1
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,1,1,5,2
+E11.6,"Diabetes mellitus typ 2-Med andra specificerade komplikationer",Kv,68,-,-,-,-,-,-,-,-,-,-,2,-,-,2,-,8,7,15,13,14,7
+,,M,78,-,-,-,-,-,-,-,-,-,-,1,1,1,4,10,8,13,15,12,12,1
+E11.7,"Diabetes mellitus typ 2-Med multipla komplikationer",Kv,42,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,4,7,7,6,9,6
+,,M,67,-,-,-,-,-,-,-,-,-,-,-,-,1,6,3,11,12,7,15,10,2
+E11.8,"Diabetes mellitus typ 2-Med ospecificerade komplikationer",M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-
+E11.9,"Diabetes mellitus typ 2-Utan komplikationer",Kv,86,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,4,9,15,21,20,15
+,,M,57,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,7,8,14,11,8,3
+E14.0,"Ospecificerad diabetes-Med koma",Kv,4,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,1,-,-,-,-
+,,M,10,-,-,-,-,-,-,1,-,-,-,1,1,1,-,2,3,-,1,-,-,-
+E14.1,"Ospecificerad diabetes-Med ketoacidos",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,1,-
+,,M,12,-,-,-,-,-,-,-,-,-,1,-,1,1,2,2,5,-,-,-,-,-
+E14.2,"Ospecificerad diabetes-Med njurkomplikationer",Kv,48,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,8,5,15,11,3
+,,M,51,-,-,-,-,-,-,-,-,-,-,-,1,1,-,6,5,11,13,7,6,1
+E14.5,"Ospecificerad diabetes-Med perifera cirkulationsrubbningar",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,2,2,2,2
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,3,1,3,2,2,-
+E14.6,"Ospecificerad diabetes-Med andra specificerade komplikationer",Kv,70,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,4,9,16,16,16,5
+,,M,82,-,-,-,-,-,-,-,-,-,-,-,3,2,5,9,14,13,13,11,11,1
+E14.7,"Ospecificerad diabetes-Med multipla komplikationer",Kv,41,-,-,-,-,-,-,-,-,-,-,-,1,-,4,-,7,4,7,7,8,3
+,,M,70,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,12,18,11,15,8,-
+E14.8,"Ospecificerad diabetes-Med ospecificerade komplikationer",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,-,1,-,-
+E14.9,"Ospecificerad diabetes-Utan komplikationer",Kv,81,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,4,7,11,20,19,17
+,,M,57,-,-,-,-,-,-,-,-,-,-,-,1,1,3,3,7,9,14,12,7,-
+E15-E16,"Andra rubbningar i glukosreglering och bukspottkörtelns inre sekretion",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+E16.2,"Hypoglykemi, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+E20-E35,"Sjukdomar i andra endokrina körtlar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-
+,,M,5,-,1,-,-,-,-,-,-,-,-,1,-,-,-,1,-,2,-,-,-,-
+E21.0,"Primär hyperparatyreoidism",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E21.3,"Hyperparatyreoidism, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+E23.0,Hypopituitarism,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E23.2,"Diabetes insipidus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+E24.9,"Cushings syndrom, ospecificerat",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+E26.8,"Annan specificerad hyperaldosteronism",M,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E27.1,"Primär binjurebarksinsufficiens",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+E40-E46,Näringsbrist,Kv,38,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,6,11,5,10,4
+,,M,24,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,2,2,3,7,6
+E41,"Svår energiundernäring",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+E43,"Icke specificerad svår undernäring",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1
+E46,"Icke specificerad protein-energiundernäring",Kv,34,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,11,4,9,4
+,,M,21,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,2,2,3,6,5
+E50-E64,"Andra näringsbristtillstånd",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,1,-
+E51.2,"Wernickes encefalopati",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+E61.1,Järnbrist,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+E63.9,"Näringsbristtillstånd, ospecificerat",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+E65-E68,"Fetma och andra övernäringstillstånd",Kv,24,-,-,-,-,-,-,-,-,-,-,-,-,1,5,2,4,3,2,5,-,2
+,,M,24,-,-,-,-,-,-,-,-,1,1,-,3,2,2,5,4,3,1,2,-,-
+E66.2,"Extrem fetma med alveolär hypoventilation",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,-,1,-,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,1,-,-
+E66.9,"Fetma, ospecificerad",Kv,18,-,-,-,-,-,-,-,-,-,-,-,-,1,4,2,3,1,2,4,-,1
+,,M,19,-,-,-,-,-,-,-,-,1,1,-,3,2,2,3,2,3,1,1,-,-
+E70-E90,Ämnesomsättningssjukdomar,Kv,86,1,2,-,-,1,-,-,-,1,1,-,2,2,2,2,8,8,12,19,17,8
+,,M,100,3,2,-,-,-,-,1,-,-,1,-,4,4,7,7,13,17,15,14,7,5
+E71.0,"Maple-syrup-urine disease [MSUD]",M,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E72.0,"Rubbningar i aminosyratransporten",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+E72.2,"Rubbningar i urinämnesomsättningen",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E72.4,"Rubbningar i ornitinomsättningen",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E74.0,Glykogeninlagringssjukdom,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+E75.2,"Andra specificerade sfingolipidoser",Kv,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-,-,-,-
+E76.2,"Andra specificerade mukopolysackaridoser",Kv,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E77.1,"Brister i nedbrytningen av glykoprotein",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+E77.8,"Andra specificerade rubbningar i omsättningen av glykoprotein",Kv,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E78.0,"Isolerad hyperkolesterolemi",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+E78.5,"Hyperlipidemi, ospecificerad",Kv,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,4,5,2
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,2,3,3,2,2,-
+E78.9,"Rubbning i omsättningen av lipoprotein, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1
+E79.1,"Lesch-Nyhans syndrom",M,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E83.1,"Rubbningar i järnomsättningen",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+E84.9,"Cystisk fibros, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+E85.1,"Neuropatisk heredofamiljär amyloidos",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E85.2,"Heredofamiljär amyloidos, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+E85.4,"Organbegränsad amyloidos",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,3,-,1,1,-
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,4,3,4,-,-
+E85.8,"Annan amyloidos",Kv,4,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,2,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,-,-
+E85.9,"Amyloidos, ospecificerad",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,2,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,3,2,-,-
+E86,"Minskad vätskevolym",Kv,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,8,5,5
+,,M,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,3,3,5,3
+E87.0,"Hyperosmolalitet och hypernatremi",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,-,1
+E87.1,"Hyposmolalitet och hyponatremi",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+E87.2,Acidos,Kv,7,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,-,4,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,-,-,-,-
+E87.5,Hyperkalemi,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+E87.6,Hypokalemi,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-
+E87.8,"Andra elektrolyt- och vätskerubbningar som ej klassificeras på annan plats",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+E88.0,"Rubbningar i plasmaproteinomsättningen som ej klassificeras på annan plats",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+E88.8,"Andra specificerade ämnesomsättningssjukdomar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+E88.9,"Ämnesomsättningssjukdom, ospecificerad",Kv,2,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,3,1,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+"F00 - F99","KAP V. PSYKISKA SJUKDOMAR OCH BETEENDESTÖRNINGAR",Kv,2176,-,-,-,-,1,-,-,-,1,-,-,3,4,10,22,51,117,325,566,680,396
+,,M,1319,-,-,-,-,-,-,-,-,-,3,3,7,15,25,40,77,143,279,370,270,87
+F00-F09,"Organiska, inklusive symtomatiska, psykiska störningar",Kv,2076,-,-,-,-,-,-,-,-,-,-,-,1,-,4,9,37,106,312,553,666,388
+,,M,1154,-,-,-,-,-,-,-,-,-,-,-,-,2,4,8,51,117,261,362,265,84
+F01.1,Multiinfarktdemens,Kv,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,8,3
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,7,1,-
+F01.2,"Subkortikal vaskulär demens",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+F01.3,"Blandad kortikal och subkortikal vaskulär demens",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+F01.9,"Vaskulär demens, ospecificerad",Kv,469,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,13,23,75,134,161,60
+,,M,339,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,11,44,78,104,76,23
+F03,"Ospecificerad demens",Kv,1583,-,-,-,-,-,-,-,-,-,-,-,1,-,3,6,24,83,236,410,496,324
+,,M,798,-,-,-,-,-,-,-,-,-,-,-,-,2,4,4,39,70,181,249,188,61
+F05.0,"Delirium utan underliggande demenssjukdom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+F06.8,"Andra specificerade psykiska syndrom och störningar orsakade av hjärnskada, cerebral dysfunktion eller kroppslig sjukdom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+F10-F19,"Psykiska störningar och beteendestörningar orsakade av psykoaktiva substanser",Kv,32,-,-,-,-,-,-,-,-,-,-,-,2,4,3,10,6,4,2,1,-,-
+,,M,130,-,-,-,-,-,-,-,-,-,3,3,6,13,20,26,22,20,14,3,-,-
+F10.1,"Psykiska störningar och beteendestörningar orsakade av alkohol-Skadligt bruk",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,1,2,1,-,-,-
+,,M,25,-,-,-,-,-,-,-,-,-,-,1,-,2,2,5,4,8,3,-,-,-
+F10.2,"Psykiska störningar och beteendestörningar orsakade av alkohol-Beroendesyndrom",Kv,14,-,-,-,-,-,-,-,-,-,-,-,2,2,1,6,3,-,-,-,-,-
+,,M,64,-,-,-,-,-,-,-,-,-,2,1,3,9,15,17,8,4,4,1,-,-
+F10.3,"Psykiska störningar och beteendestörningar orsakade av alkohol-Abstinens",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+F10.4,"Psykiska störningar och beteendestörningar orsakade av alkohol-Abstinens med delirium",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+F10.6,"Psykiska störningar och beteendestörningar orsakade av alkohol-Amnesisyndrom",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+F10.7,"Psykiska störningar och beteendestörningar orsakade av alkohol-Psykotisk störning som resttillstånd eller med sen debut",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,-,1,-,-,-
+,,M,26,-,-,-,-,-,-,-,-,-,-,-,1,1,2,3,6,6,5,2,-,-
+F10.9,"Psykiska störningar och beteendestörningar orsakade av alkohol-Psykisk störning och beteendestörning, ospecificerad",M,7,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,3,1,1,-,-,-
+F17.1,"Skadligt bruk av tobak",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+F17.9,"Psykisk störning och beteendestörning orsakad av tobak, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+F19.1,"Psykiska störningar och beteendestörningar orsakade av flera droger i kombination och av andra psykoaktiva substanser-Skadligt bruk",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+F19.2,"Psykiska störningar och beteendestörningar orsakade av flera droger i kombination och av andra psykoaktiva substanser-Beroendesyndrom",M,2,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-
+F20-F29,"Schizofreni, schizotypa störningar och vanföreställningssyndrom",Kv,16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,5,4,1,2,2,1
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,2,2,1,3,2,-
+F20.0,"Paranoid schizofreni",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,1,-
+F20.5,"Schizofrent resttillstånd",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,2,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,1,-,-
+F20.9,"Schizofreni, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,-
+F22.0,Vanföreställningssyndrom,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+F25.9,"Schizoaffektivt syndrom, ospecificerat",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+F28,"Andra icke organiska psykotiska störningar",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+F29,"Ospecificerad icke organisk psykos",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,2,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-
+F30-F39,Förstämningssyndrom,Kv,38,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,3,8,9,10,6
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,3,3
+F31.9,"Bipolär sjukdom, ospecificerad",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,4,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+F32.3,"Svår depressiv episod med psykotiska symtom",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+F32.9,"Depressiv episod, ospecificerad",Kv,25,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,3,4,3,8,6
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,3
+F33.9,"Recidiverande depression, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+F39,"Ospecificerat förstämningssyndrom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+F40-F48,"Neurotiska, stressrelaterade och somatoforma syndrom",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+F41.2,"Blandade ångest- och depressionstillstånd",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+F41.9,"Ångesttillstånd, ospecificerat",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+F50-F59,"Beteendestörningar förenade med fysiologiska rubbningar och fysiska faktorer",Kv,2,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+F50.0,"Anorexia nervosa",Kv,2,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+F54,"Psykologiska faktorer och beteendefaktorer med betydelse för störningar eller sjukdomar som klassificeras annorstädes",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+F70-F79,"Psykisk utvecklingsstörning",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,-,1,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,2,-,-,-,-
+F72.9,"Svår psykisk utvecklingsstörning-Utan uppgift om beteendestörning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+F73.9,"Grav psykisk utvecklingsstörning-Utan uppgift om beteendestörning",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-
+F79.9,"Ospecificerad psykisk utvecklingsstörning-Utan uppgift om beteendestörning",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,-
+F80-F89,"Störningar av psykisk utveckling",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+F84.0,"Autism i barndomen",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+F99-F99,"Ospecificerad psykisk störning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+F99,"Psykisk störning ej specificerad på annat sätt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+"G00 - G99","KAP VI. SJUKDOMAR I NERVSYSTEMET",Kv,1767,-,1,1,2,-,2,1,1,1,5,4,9,14,35,62,128,221,332,440,374,134
+,,M,1393,2,-,-,3,3,-,3,4,8,1,14,15,28,35,75,167,250,289,271,188,37
+G00-G09,"Inflammatoriska sjukdomar i centrala nervsystemet",Kv,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,2,5,2,1,1
+,,M,14,-,-,-,1,-,-,-,-,1,-,-,-,1,2,2,4,-,1,1,1,-
+G00.1,"Meningit orsakad av pneumokocker",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-,-,-
+G00.9,"Bakteriell meningit, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,1,-,-
+G03.9,"Meningit, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-
+G04.2,"Bakteriell meningoencefalit och meningomyelit som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+G04.8,"Annan specificerad encefalit, myelit och encefalomyelit",M,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+G04.9,"Encefalit, myelit och encefalomyelit, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1
+G06.1,"Intraspinal abscess och intraspinalt granulom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+G06.2,"Extradural och subdural abscess, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+G08,"Flebit och tromboflebit i skallens och ryggradskanalens venösa hålrum",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+G09,"Sena effekter av inflammatoriska sjukdomar i centrala nervsystemet",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+G10-G14,"Systemiska atrofier som primärt engagerar centrala nervsystemet",Kv,78,-,1,-,-,-,-,1,-,1,1,1,-,6,8,12,15,16,6,7,3,-
+,,M,116,1,-,-,-,-,-,-,-,2,-,4,8,11,10,21,19,22,11,2,4,1
+G10,"Huntingtons sjukdom",Kv,10,-,-,-,-,-,-,1,-,-,1,-,-,1,2,-,2,2,-,1,-,-
+,,M,7,-,-,-,-,-,-,-,-,1,-,-,1,-,1,1,1,-,-,1,-,1
+G11.1,"Cerebellär ataxi med tidig debut",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G11.2,"Cerebellär ataxi med sen debut",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G11.9,"Hereditär ataxi, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+G12.0,"Infantil spinal muskelatrofi, typ I [Werdnig-Hoffman]",Kv,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+G12.1,"Annan hereditär spinal muskelatrofi",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+G12.2,Motorneuronsjukdom,Kv,64,-,-,-,-,-,-,-,-,1,-,1,-,5,6,11,13,12,6,6,3,-
+,,M,105,-,-,-,-,-,-,-,-,1,-,4,7,11,8,20,18,21,11,1,3,-
+G20-G26,"Basalgangliesjukdomar och rörelserubbningar",Kv,202,-,-,-,-,-,-,-,-,-,-,-,-,1,6,7,13,41,56,52,21,5
+,,M,347,-,-,-,-,-,-,-,-,-,1,-,-,3,3,19,41,85,96,65,31,3
+G20,"Parkinsons sjukdom",Kv,172,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,11,37,49,46,19,5
+,,M,291,-,-,-,-,-,-,-,-,-,-,-,-,1,1,15,35,68,87,55,26,3
+G21.0,"Malignt neuroleptikasyndrom",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+G21.1,"Annan läkemedelsutlöst sekundär parkinsonism",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G21.4,"Vaskulär parkinsonism",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,-,3,3,-
+G21.9,"Sekundär parkinsonism, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-
+G23.1,"Progressiv supranukleär oftalmoplegi [Steele-Richardson-Olszewski]",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,3,1,1,-
+,,M,16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,7,4,2,-,-
+G23.2,"Multipel systematrofi, parkinsontyp [MSA-P]",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,-,1,1,1,-,-
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,2,2,1,-
+G23.3,"Multipel systematrofi, cerebellär typ [MSA-C]",M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+G23.8,"Andra specificerade degenerativa sjukdomar i basala ganglierna",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,1,-,-
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,4,2,1,-,-
+G23.9,"Degenerativ sjukdom i basala ganglierna, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+G24.0,"Läkemedelsutlöst dystoni",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G24.9,"Dystoni, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+G25.9,"Basalgangliesjukdom och rörelserubbning, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+G30-G32,"Andra degenerativa sjukdomar i nervsystemet",Kv,1339,-,-,1,-,-,-,-,-,-,-,-,1,2,8,26,73,147,254,365,340,122
+,,M,757,-,-,-,1,-,-,-,-,-,-,-,1,-,7,16,80,115,171,190,143,33
+G30.0,"Alzheimers sjukdom med tidig debut",Kv,36,-,-,-,-,-,-,-,-,-,-,-,-,1,3,17,8,6,-,1,-,-
+,,M,21,-,-,-,-,-,-,-,-,-,-,-,1,-,3,11,5,1,-,-,-,-
+G30.1,"Alzheimers sjukdom med sen debut",Kv,483,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,17,43,81,156,134,52
+,,M,261,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,20,39,63,67,60,12
+G30.8,"Annan specificerad form av Alzheimers sjukdom",Kv,24,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,5,6,4,5,3
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,1,5,3,1
+G30.9,"Alzheimers sjukdom, ospecificerad",Kv,718,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,40,75,144,200,192,65
+,,M,370,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,36,48,90,103,74,19
+G31.0,"Lokaliserad hjärnatrofi",Kv,32,-,-,-,-,-,-,-,-,-,-,-,1,1,3,3,2,7,10,1,4,-
+,,M,23,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,2,8,3,4,1,-
+G31.1,"Senil degeneration av hjärnan som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+G31.2,"Degeneration i nervsystemet orsakad av alkohol",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+G31.8,"Andra specificerade degenerativa sjukdomar i nervsystemet",Kv,37,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,5,10,11,3,4,2
+,,M,58,-,-,-,1,-,-,-,-,-,-,-,-,-,-,2,12,16,12,9,5,1
+G31.9,"Degenerativ sjukdom i nervsystemet, ospecificerad",Kv,8,-,-,1,-,-,-,-,-,-,-,-,-,-,1,1,1,1,2,-,1,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,2,2,-,-
+G35-G37,"Myelinförstörande sjukdomar i centrala nervsystemet",Kv,58,-,-,-,-,-,-,-,-,-,1,-,2,4,6,8,19,7,3,5,3,-
+,,M,26,-,-,-,-,-,-,-,-,-,-,1,2,1,4,4,10,2,2,-,-,-
+G35,"Multipel skleros",Kv,58,-,-,-,-,-,-,-,-,-,1,-,2,4,6,8,19,7,3,5,3,-
+,,M,26,-,-,-,-,-,-,-,-,-,-,1,2,1,4,4,10,2,2,-,-,-
+G40-G47,"Episodiska och paroxysmala sjukdomar",Kv,27,-,-,-,-,-,1,-,1,-,2,2,1,-,5,-,2,2,4,3,3,1
+,,M,40,1,-,-,-,-,-,1,2,1,-,4,2,2,3,2,4,11,2,3,2,-
+G40.5,"Speciella epileptiska syndrom",M,2,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-
+G40.9,"Epilepsi, ospecificerad",Kv,15,-,-,-,-,-,1,-,1,-,1,1,1,-,3,-,2,-,2,1,2,-
+,,M,23,1,-,-,-,-,-,1,2,1,-,1,1,1,2,1,4,5,1,1,1,-
+G41.2,"Status epilepticus med komplexa partiella anfall",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+G41.9,"Status epilepticus, ospecificerat",Kv,7,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,-,-,-,2,1,1
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,2,1,1,1,-
+G45.9,"Transitorisk cerebral ischemisk attack, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+G47.3,Sömnapnésyndrom,Kv,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,3,-,-,-,-
+G47.4,"Narkolepsi och kataplexi",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+G60-G64,"Polyneuropatier (samtidig sjukdom i flera perifera nerver) och andra sjukdomar i perifera nervsystemet",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,-,2,2,-
+G60.0,"Hereditär motorisk och sensorisk neuropati",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+G61.0,"Guillain-Barrés syndrom",M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,1,1,-
+G61.8,"Andra specificerade inflammatoriska polyneuropatier",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+G62.9,"Polyneuropati, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+G70-G73,"Neuromuskulära transmissionsrubbningar (rubbningar i överföring av impulser mellan nerver och muskler) och sjukdomar i muskler",Kv,12,-,-,-,-,-,-,-,-,-,1,-,4,1,-,3,1,-,1,-,1,-
+,,M,32,-,-,-,-,-,-,-,1,2,-,3,1,4,3,4,3,6,1,2,2,-
+G70.0,"Myasthenia gravis",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,1,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,2,-
+G70.9,"Neuromuskulär transmissionsrubbning, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+G71.0,Muskeldystrofi,M,9,-,-,-,-,-,-,-,1,2,-,2,-,-,2,-,-,2,-,-,-,-
+G71.1,"Myotona sjukdomar",Kv,7,-,-,-,-,-,-,-,-,-,1,-,3,1,-,2,-,-,-,-,-,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,1,-,2,1,1,1,1,-,-,-,-
+G71.3,"Mitokondriell myopati som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,-,-,-,-,-
+G71.9,"Primär muskelsjukdom, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G72.4,"Inflammatorisk myopati som ej klassificeras på annan plats",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+G72.9,"Myopati, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-
+G80-G83,"Cerebral pares och andra förlamningssyndrom",Kv,13,-,-,-,1,-,1,-,-,-,-,1,-,-,2,2,2,2,1,-,-,1
+,,M,26,-,-,-,1,2,-,1,1,2,-,1,1,2,2,3,-,5,2,1,2,-
+G80.0,"Spastisk tetraplegisk cerebral pares",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,2,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+G80.1,"Spastisk diplegisk cerebral pares",Kv,2,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,4,-,-,-,-,1,-,-,-,1,-,-,-,-,1,-,-,1,-,-,-,-
+G80.2,"Spastisk hemiplegisk cerebral pares",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+G80.8,"Annan specificerad form av cerebral pares",Kv,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+G80.9,"Cerebral pares, ospecificerad",Kv,6,-,-,-,-,-,1,-,-,-,-,-,-,-,1,1,2,1,-,-,-,-
+,,M,11,-,-,-,-,1,-,-,1,1,-,1,-,1,1,1,-,2,1,-,1,-
+G81.9,"Hemipares, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+G82.1,"Spastisk parapares",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+G82.2,"Parapares, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+G82.5,"Tetrapares, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+G83.4,"Cauda equina-syndrom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G83.9,"Förlamningssyndrom, ospecificerade",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+G90-G99,"Andra sjukdomar i nervsystemet",Kv,20,-,-,-,1,-,-,-,-,-,-,-,1,-,-,1,2,4,1,4,2,4
+,,M,27,-,-,-,-,1,-,1,-,-,-,1,-,3,-,3,5,4,3,5,1,-
+G90.4,"Autonom dysreflexi",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+G90.9,"Sjukdom i autonoma nervsystemet, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+G91.0,"Kommunicerande hydrocefalus",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+G91.2,Normaltryckshydrocefalus,Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,-,-
+G91.8,"Annan specificerad hydrocefalus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+G91.9,"Hydrocefalus, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+,,M,6,-,-,-,-,-,-,1,-,-,-,1,-,1,-,-,1,1,-,1,-,-
+G93.0,Hjärncystor,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+G93.1,"Anoxisk hjärnskada som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,8,-,-,-,-,1,-,-,-,-,-,-,-,2,-,-,3,1,-,1,-,-
+G93.4,"Encefalopati, ospecificerad",Kv,4,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,1,-
+G93.5,Hjärnkompression,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+G93.6,Hjärnödem,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+G93.8,"Andra specificerade sjukdomar i hjärnan",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+G93.9,"Hjärnsjukdom, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,-
+G95.1,"Vaskulära myelopatier",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+G95.9,"Sjukdom i ryggmärgen, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+G98,"Andra sjukdomar i nervsystemet som ej klassificeras annorstädes",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+"H00 - H59","KAP VII. SJUKDOMAR I ÖGAT OCH NÄRLIGGANDE ORGAN",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+H53-H54,"Synstörningar och blindhet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+H54.9,"Ospecificerad synnedsättning (i båda ögonen)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+"H60 - H95","KAP VIII. SJUKDOMAR I ÖRAT OCH MASTOIDUTSKOTTET",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+H65-H75,"Sjukdomar i mellanörat och mastoidutskottet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+H70.0,"Akut mastoidit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+"I00 - I99","KAP IX. CIRKULATIONSORGANENS SJUKDOMAR",Kv,7035,-,-,-,-,-,1,3,5,3,6,20,25,63,114,173,352,594,966,1543,1864,1303
+,,M,7089,-,1,-,1,2,3,3,7,9,14,35,98,186,264,443,750,990,1215,1427,1187,454
+I05-I09,"Kroniska reumatiska hjärtsjukdomar",Kv,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,2,4,9,2
+,,M,19,-,-,-,-,-,-,-,1,-,-,-,-,-,2,-,-,3,2,7,4,-
+I05.0,Mitralisstenos,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+I05.9,"Mitralisklaffel, ospecificerat",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-
+I07.1,Trikuspidalisinsufficiens,Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,3,1
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,1,-
+I07.9,"Trikuspidalisklaffel, ospecificerat",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+I08.0,"Sjukdomar i både mitralis- och aortaklaffar",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+I08.1,"Sjukdomar i både mitralis- och trikuspidalisklaffar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,4,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,1,-,1,-,-
+I08.2,"Sjukdomar i både aorta- och trikuspidalisklaffar",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I08.3,"Kombinerade sjukdomar i mitralis-, aorta- och trikuspidalisklaffar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+I10-I15,"Hypertonisjukdomar (högt blodtryck och därmed sammanhängande sjukdomar)",Kv,898,-,-,-,-,-,-,-,-,-,-,-,1,2,5,10,25,56,88,213,271,227
+,,M,591,-,-,-,-,-,-,-,-,-,-,3,2,10,13,21,40,75,95,127,136,69
+I10,"Essentiell hypertoni (högt blodtryck utan känd orsak)",Kv,345,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,10,18,39,83,106,83
+,,M,193,-,-,-,-,-,-,-,-,-,-,1,1,4,3,15,14,27,32,39,37,20
+I11.0,"Hypertensiv hjärtsjukdom med hjärtsvikt",Kv,347,-,-,-,-,-,-,-,-,-,-,-,-,-,1,6,11,26,28,75,108,92
+,,M,194,-,-,-,-,-,-,-,-,-,-,-,-,2,6,4,13,24,29,47,48,21
+I11.9,"Hypertensiv hjärtsjukdom utan hjärtsvikt",Kv,35,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,4,6,11,8,4
+,,M,34,-,-,-,-,-,-,-,-,-,-,2,1,1,3,-,2,10,4,6,2,3
+I12.0,"Hypertensiv njursjukdom med njursvikt",Kv,59,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,2,5,16,18,15
+,,M,63,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,10,14,17,12
+I12.9,"Hypertensiv njursjukdom utan njursvikt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-
+I13.0,"Hypertensiv hjärt- och njursjukdom med hjärtsvikt",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1
+I13.1,"Hypertensiv hjärt- och njursjukdom med njursvikt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1
+I13.2,"Hypertensiv hjärt- och njursjukdom med både hjärtsvikt och njursvikt",Kv,104,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,5,10,27,28,32
+,,M,99,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,7,8,20,21,29,11
+I13.9,"Hypertensiv hjärt- och njursjukdom, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+I20-I25,"Ischemiska hjärtsjukdomar (sjukdomar orsakade av otillräcklig blodtillförsel till hjärtmuskeln)",Kv,1964,-,-,-,-,-,1,-,1,-,2,5,7,27,50,74,128,202,278,381,462,346
+,,M,2799,-,-,-,-,-,-,-,1,2,3,14,46,99,147,231,350,439,442,505,380,140
+I20.0,"Instabil angina pectoris",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,2,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+I20.8,"Andra former av angina pectoris",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+I20.9,"Angina pectoris, ospecificerad",Kv,59,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,5,12,22,18
+,,M,41,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,8,3,6,9,9
+I21.0,"Akut transmural framväggsinfarkt",Kv,4,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+I21.1,"Akut transmural diafragmal infarkt",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+I21.2,"Akut transmural hjärtinfarkt med andra lokalisationer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I21.3,"Akut transmural hjärtinfarkt med ospecificerad lokalisation",Kv,29,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,3,5,2,5,6,3
+,,M,41,-,-,-,-,-,-,-,-,-,-,1,-,2,2,7,8,4,8,6,3,-
+I21.4,"Akut subendokardiell infarkt",Kv,16,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,3,1,6,2,2
+,,M,23,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,3,2,4,6,3,2
+I21.9,"Akut hjärtinfarkt, ospecificerad",Kv,626,-,-,-,-,-,1,-,-,-,1,2,7,18,22,40,59,77,107,129,104,59
+,,M,1024,-,-,-,-,-,-,-,-,1,2,6,26,55,61,97,160,182,155,164,89,26
+I24.9,"Akut ischemisk hjärtsjukdom, ospecificerad",Kv,43,-,-,-,-,-,-,-,-,-,-,1,-,4,1,2,2,9,5,8,8,3
+,,M,47,-,-,-,-,-,-,-,-,-,-,-,1,4,6,5,5,4,11,5,2,4
+I25.0,"Aterosklerotisk kardiovaskulär sjukdom (beskriven endast på detta sätt)",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,4,2,2
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,3,1,4,-
+I25.1,"Aterosklerotisk hjärtsjukdom (angiografiskt, skintigrafiskt eller patologiskt-anatomiskt påvisad)",Kv,229,-,-,-,-,-,-,-,-,-,1,1,-,1,14,20,26,32,31,36,36,31
+,,M,434,-,-,-,-,-,-,-,-,-,1,7,13,22,48,70,69,61,63,39,36,5
+I25.3,Hjärtaneurysm,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+I25.5,"Ischemisk kardiomyopati",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,-,-,1
+,,M,20,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,6,4,4,1,1
+I25.8,"Andra specificerade former av kronisk ischemisk hjärtsjukdom",Kv,223,-,-,-,-,-,-,-,-,-,-,-,-,2,3,5,14,19,31,45,57,47
+,,M,313,-,-,-,-,-,-,-,-,1,-,-,3,6,15,14,30,31,57,74,56,26
+I25.9,"Kronisk ischemisk hjärtsjukdom, ospecificerad",Kv,709,-,-,-,-,-,-,-,1,-,-,-,-,-,6,6,18,52,89,134,223,180
+,,M,835,-,-,-,-,-,-,-,1,-,-,-,3,9,10,31,68,138,131,200,177,67
+I26-I28,"Sjukdomstillstånd inom lungcirkulationen",Kv,138,-,-,-,-,-,-,1,-,1,-,-,1,5,3,3,16,19,23,36,23,7
+,,M,117,-,-,-,-,-,-,-,-,-,-,2,4,5,11,12,16,10,19,25,9,4
+I26.0,"Lungemboli med uppgift om akut cor pulmonale",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-
+I26.9,"Lungemboli utan uppgift om akut cor pulmonale",Kv,92,-,-,-,-,-,-,1,-,1,-,-,1,3,2,2,13,13,13,21,16,6
+,,M,92,-,-,-,-,-,-,-,-,-,-,1,2,5,10,12,14,8,14,19,4,3
+I27.0,"Primär pulmonell hypertoni",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,3,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+I27.1,"Kyfoskoliotisk hjärtsjukdom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+I27.2,"Annan sekundär pulmonell hypertoni",Kv,38,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,3,5,9,10,7,1
+,,M,20,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,2,2,5,6,1,1
+I30-I52,"Andra former av hjärtsjukdom",Kv,2251,-,-,-,-,-,-,1,3,1,1,4,5,5,21,25,68,123,285,500,719,490
+,,M,1960,-,1,-,-,2,1,2,2,5,6,8,25,36,43,77,147,213,343,456,422,171
+I30.0,"Akut ospecifik idiopatisk perikardit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I30.1,"Infektiös perikardit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I30.9,"Akut perikardit, ospecificerad",Kv,4,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,1,-,1,-,-,-
+I31.2,"Hemoperikardium som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+I31.3,"Utgjutning i perikardiet (icke-inflammatorisk)",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I31.9,"Sjukdom i perikardiet, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I33.0,"Akut och subakut infektiös endokardit",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,1,2,2,-
+I33.9,"Akut och subakut endokardit, ospecificerad",Kv,10,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,3,4,1,-
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,1,2,1,-,2,4,3,2,-,-
+I34.0,Mitralisinsufficiens,Kv,24,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,3,13,4
+,,M,29,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,5,1,7,5,6,2
+I34.1,"Prolaps av mitralisklaffen",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-
+I34.8,"Andra specificerade icke-reumatiska mitralisklaffsjukdomar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I34.9,"Icke-reumatisk mitralisklaffsjukdom, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+I35.0,Aortastenos,Kv,194,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,6,7,26,56,56,40
+,,M,151,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,10,16,26,49,36,9
+I35.1,Aortainsufficiens,Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,3,2,1
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,3,2,-,2
+I35.2,"Aortastenos med aortainsufficiens",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,3,2
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,3,1,-
+I35.8,"Andra specificerade aortaklaffsjukdomar",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,3,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,-,-,-,-
+I35.9,"Aortaklaffsjukdom, ospecificerad",Kv,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,3,6,3,1
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,1,3,4,2,1
+I37.1,Pulmonalisinsufficiens,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I38,"Endokardit (inflammation i hjärtklaff), icke specificerad klaff",Kv,19,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,-,4,7,3
+,,M,16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,3,4,3,1
+I40.0,"Infektiös myokardit",Kv,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-
+I40.9,"Akut myokardit, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-
+I42.0,"Dilaterad kardiomyopati",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,4,2,1,2,-
+,,M,62,-,-,-,-,-,-,1,-,-,-,-,4,4,9,6,8,13,5,5,5,2
+I42.1,"Obstruktiv hypertrofisk kardiomyopati",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-
+I42.2,"Annan hypertrofisk kardiomyopati",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,1,2,1,-
+,,M,9,-,-,-,-,1,-,-,-,-,-,-,2,-,-,1,-,3,1,1,-,-
+I42.3,"Endomyokardiell (eosinofil) sjukdom",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-,-,-
+I42.5,"Annan restriktiv kardiomyopati",M,2,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+I42.6,Alkoholkardiomyopati,M,8,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,2,2,-,-,-,-
+I42.8,"Andra specificerade kardiomyopatier",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+I42.9,"Kardiomyopati, ospecificerad",Kv,15,-,-,-,-,-,-,1,1,-,-,-,1,-,1,-,1,1,4,2,3,-
+,,M,20,-,-,-,-,1,-,-,-,-,-,1,1,1,2,1,2,5,3,3,-,-
+I44.1,"Atrioventrikulärt block, andra graden",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1
+I44.2,"Atrioventrikulärt block, totalt",Kv,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,2,4
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,2,1
+I44.3,"Annat och ospecificerat atrioventrikulärt block",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+I45.6,Pre-excitationssyndrom,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+I45.9,"Retledningsrubbning, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+I46.1,"Plötslig hjärtdöd",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,2,-,3,-
+I47.1,"Paroxysmal supraventrikulär takykardi",M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,1
+I47.2,"Paroxysmal ventrikulär takykardi",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,-,-,1
+I48.0,"Paroxysmalt förmaksflimmer",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,1,3
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,1,1,-,1
+I48.1,"Persisterande förmaksflimmer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I48.2,"Kroniskt förmaksflimmer",Kv,577,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,12,27,80,132,205,119
+,,M,406,-,-,-,-,-,-,-,-,-,-,-,1,3,3,9,14,28,77,106,124,41
+I48.9,"Förmaksflimmer och förmaksfladder, ospecificerat",Kv,219,-,-,-,-,-,-,-,-,-,-,-,-,1,4,-,8,10,29,51,63,53
+,,M,160,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,12,20,17,44,41,21
+I49.0,"Ventrikelflimmer och ventrikelfladder",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,2,-,-,1,-,-
+I49.3,"Prematur depolarisation av kammaren",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+I49.5,"Sick sinus syndrome",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,1
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,3,1,1
+I49.8,"Andra specificerade hjärtarytmier",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,4,1
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,4,2,2
+I49.9,"Hjärtarytmi, ospecificerad",Kv,23,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,1,4,-,4,7,4
+,,M,30,-,-,-,-,-,-,1,-,-,-,-,1,-,1,4,2,3,3,7,6,2
+I50.0,"Högerhjärtsvikt (akut) (kronisk)",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,-,3,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,-,-
+I50.1,"Vänsterhjärtsvikt (akut) (subakut)",Kv,22,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,2,4,7,4
+,,M,26,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,3,9,5,5,1
+I50.9,"Hjärtinsufficiens, ospecificerad",Kv,859,-,-,-,-,-,-,-,-,-,-,1,1,-,1,5,17,42,96,182,291,223
+,,M,663,-,-,-,-,-,-,-,-,1,-,-,2,-,3,12,39,65,133,174,166,68
+I51.1,"Ruptur av chordae tendineae som ej klassificeras på annan plats",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+I51.3,"Intrakardiell trombos som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+I51.4,"Myokardit, ospecificerad",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,2,-,1,-,-,-
+,,M,24,-,-,-,-,-,-,-,-,1,1,-,2,5,1,5,4,1,4,-,-,-
+I51.5,"Degenerativ hjärtmuskelförändring",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-,-
+I51.6,"Kardiovaskulär sjukdom, ospecificerad",Kv,81,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,5,4,11,24,19,17
+,,M,77,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,8,16,15,15,10,11
+I51.7,Hjärtförstoring,Kv,23,-,-,-,-,-,-,-,-,-,-,1,2,2,4,5,1,5,2,-,1,-
+,,M,88,-,-,-,-,-,1,-,2,3,5,4,6,13,12,13,16,7,4,2,-,-
+I51.9,"Hjärtsjukdom, ospecificerad",Kv,17,-,-,-,-,-,-,-,-,-,1,-,1,-,-,1,-,1,2,2,5,4
+,,M,26,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,3,1,12,1,4,1
+I60-I69,"Sjukdomar i hjärnans kärl",Kv,1389,-,-,-,-,-,-,1,1,1,3,10,7,20,23,43,79,136,237,330,306,192
+,,M,1203,-,-,-,-,-,1,1,3,-,3,6,19,24,28,62,138,197,241,231,198,51
+I60.0,"Subaraknoidalblödning från karotissifonen eller karotisbifurkationen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+I60.1,"Subaraknoidalblödning från arteria cerebri media",Kv,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,-
+I60.3,"Subaraknoidalblödning från arteria communicans posterior",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+I60.4,"Subaraknoidalblödning från arteria basilaris",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+I60.5,"Subaraknoidalblödning från arteria vertebralis",M,2,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-
+I60.6,"Subaraknoidalblödning från andra intrakraniella artärer",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+I60.7,"Subaraknoidalblödning från ospecificerad intrakraniell artär",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I60.8,"Annan subaraknoidalblödning",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+I60.9,"Subaraknoidalblödning, ospecificerad",Kv,53,-,-,-,-,-,-,-,-,1,2,5,3,5,5,8,8,4,3,5,2,2
+,,M,31,-,-,-,-,-,-,-,-,-,-,-,1,3,1,4,6,6,2,3,4,1
+I61.0,"Djup intracerebral blödning i storhjärnshemisfär",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,2,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I61.2,"Intracerebral blödning i storhjärnshemisfär, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+I61.3,"Intracerebral blödning i hjärnstammen",Kv,6,-,-,-,-,-,-,-,-,-,-,1,1,1,1,2,-,-,-,-,-,-
+,,M,11,-,-,-,-,-,-,-,-,-,2,-,-,2,-,1,-,3,1,2,-,-
+I61.4,"Intracerebellär blödning",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,1,2,1,1,1
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,2,3,2,1,1,-
+I61.5,"Intraventrikulär blödning",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,2,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+I61.9,"Intracerebral blödning, ospecificerad",Kv,180,-,-,-,-,-,-,1,-,-,1,2,2,5,5,5,15,28,42,39,24,11
+,,M,220,-,-,-,-,-,1,-,2,-,-,3,7,7,11,19,31,42,40,43,12,2
+I62.0,"Icke-traumatisk subdural blödning",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,5,3,3,-
+I62.9,"Intrakraniell blödning (icke-traumatisk) ospecificerad",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,3,3,-
+,,M,12,-,-,-,-,-,-,-,1,-,-,-,2,-,1,1,1,2,-,1,1,2
+I63.0,"Cerebral infarkt orsakad av trombos i precerebrala artärer",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,1,-,1,-,-,-
+I63.2,"Cerebral infarkt orsakad av ospecificerad ocklusion eller stenos i precerebrala artärer",Kv,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,2,3,1,3,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,2,3,-,-
+I63.3,"Cerebral infarkt orsakad av trombos i cerebrala artärer",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,-
+I63.4,"Cerebral infarkt orsakad av emboli i cerebrala artärer",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,-,-,-,-,-
+I63.5,"Cerebral infarkt orsakad av ospecificerad ocklusion eller stenos i cerebrala artärer",Kv,31,-,-,-,-,-,-,-,-,-,-,-,-,2,-,3,2,2,5,5,6,6
+,,M,17,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,4,3,2,3,1,1
+I63.9,"Cerebral infarkt, ospecificerad",Kv,201,-,-,-,-,-,-,-,-,-,-,-,-,1,5,5,6,27,33,51,43,30
+,,M,207,-,-,-,-,-,-,-,-,-,1,-,1,4,3,10,19,29,43,42,50,5
+I64,"Akut cerebrovaskulär sjukdom ej specificerad som blödning eller infarkt",Kv,404,-,-,-,-,-,-,-,-,-,-,-,-,2,1,4,16,26,69,108,124,54
+,,M,275,-,-,-,-,-,-,-,-,-,-,-,-,1,5,6,32,47,64,58,44,18
+I67.0,"Dissektion av cerebrala artärer, icke brustna",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+I67.1,"Cerebralt aneurysm, icke brustet",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+I67.2,"Cerebral ateroskleros",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,1
+I67.3,"Progressiv vaskulär leukoencefalopati",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I67.5,Moyamoyasjukdom,Kv,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+I67.7,"Cerebral arterit som ej klassificeras på annan plats",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+I67.8,"Andra specificerade cerebrovaskulära sjukdomar",Kv,50,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,9,13,7,11
+,,M,29,-,-,-,-,-,-,-,-,-,-,-,1,-,-,3,3,3,7,8,3,1
+I67.9,"Cerebrovaskulär sjukdom, ospecificerad",Kv,114,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,7,5,18,30,23,30
+,,M,66,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,6,9,11,11,20,8
+I69.0,"Sena effekter av subaraknoidalblödning",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,1,-,3,-,1
+,,M,4,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,1,-,1,-,-
+I69.1,"Sena effekter av intracerebral blödning",Kv,24,-,-,-,-,-,-,-,-,-,-,1,-,1,1,1,2,3,5,5,4,1
+,,M,19,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,4,6,-,4,-
+I69.2,"Sena effekter av annan icke-traumatisk intrakraniell blödning",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+I69.3,"Sena effekter av cerebral infarkt",Kv,55,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,1,8,6,14,11,10
+,,M,43,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,7,13,7,7,3
+I69.4,"Sena effekter av cerebrovaskulär sjukdom, ej specificerad som blödning eller infarkt",Kv,145,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,12,13,23,34,33,26
+,,M,152,-,-,-,-,-,-,-,-,-,-,-,1,1,2,7,13,19,31,34,38,6
+I69.8,"Sena effekter av andra och ospecificerade cerebrovaskulära sjukdomar",Kv,48,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,11,11,15,8
+,,M,40,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,7,9,8,7,3
+I70-I79,"Sjukdomar i artärer, arterioler (småartärer) och kapillärer",Kv,344,-,-,-,-,-,-,-,-,-,-,1,3,4,9,15,34,56,46,72,70,34
+,,M,375,-,-,-,1,-,1,-,-,1,2,2,2,10,20,35,55,48,71,73,36,18
+I70.0,"Ateroskleros i aorta",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I70.2,"Ateroskleros i extremitetsartärer",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,1,4,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-
+I70.9,"Generaliserad och ospecificerad ateroskleros",Kv,121,-,-,-,-,-,-,-,-,-,-,-,-,-,-,5,5,15,8,33,33,22
+,,M,91,-,-,-,-,-,-,-,-,-,-,-,-,3,6,4,13,16,16,12,13,8
+I71.0,"Dissektion av aorta (oavsett lokalisation)",Kv,46,-,-,-,-,-,-,-,-,-,-,1,1,4,4,4,4,11,8,7,2,-
+,,M,68,-,-,-,1,-,-,-,-,1,2,2,1,3,7,11,12,6,11,8,2,1
+I71.1,"Torakalt aortaaneurysm, brustet",Kv,20,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,3,4,5,3,2,-
+,,M,15,-,-,-,-,-,1,-,-,-,-,-,-,1,-,4,3,2,2,1,-,1
+I71.2,"Torakalt aortaaneurysm, icke brustet",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,1
+I71.3,"Bukaortaaneurysm, brustet",Kv,27,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,6,7,2,6,2
+,,M,52,-,-,-,-,-,-,-,-,-,-,-,-,2,2,6,3,6,9,16,6,2
+I71.4,"Bukaortaaneurysm, icke brustet",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,2,-
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,4,6,-,1
+I71.5,"Torakoabdominellt aortaaneurysm, brustet",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+I71.6,"Torakoabdominellt aortaaneurysm, icke brustet",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+I71.8,"Aortaaneurysm med ospecificerad lokalisation, brustet",Kv,31,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,6,6,7,6,5,-
+,,M,43,-,-,-,-,-,-,-,-,-,-,-,-,-,4,5,5,7,10,9,3,-
+I71.9,"Aortaaneurysm med ospecificerad lokalisation, icke brustet",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,5,1,-
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,6,5,1,1,-
+I72.0,"Aneurysm och dissektion i arteria carotis",M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+I72.3,"Aneurysm och dissektion i arteria iliaca",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+I72.5,"Aneurysm och dissektion i andra precerebrala artärer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+I72.6,"Aneurysm och dissektion i arteria vertebralis",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I72.8,"Aneurysm och dissektion i andra specificerade artärer",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+I72.9,"Aneurysm och dissektion med ospecificerad lokalisation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I73.0,"Raynauds syndrom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I73.9,"Perifer vaskulär sjukdom, ospecificerad",Kv,49,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,4,9,6,9,11,7
+,,M,34,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,5,2,7,9,8,1
+I74.2,"Emboli och trombos i övre extremitetsartärer",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I74.3,"Emboli och trombos i nedre extremitetsartärer",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,1
+I74.8,"Emboli och trombos i andra specificerade artärer",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I74.9,"Emboli och trombos i ospecificerad artär",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,-,-
+I77.1,Artärstriktur,Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,1,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1
+I77.2,Artärruptur,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+I77.6,"Arterit, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1,3,-,-
+I77.8,"Andra specificerade sjukdomar i artärer och arterioler",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I77.9,"Sjukdom i artärer och arterioler, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+I78.0,"Hereditär hemorragisk telangiektasi",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+I78.8,"Andra specificerade sjukdomar i kapillärerna",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+I80-I89,"Sjukdomar i vener, lymfkärl och lymfkörtlar som ej klassificeras annorstädes",Kv,23,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,1,1,6,5,2,3
+,,M,17,-,-,-,-,-,-,-,-,1,-,-,-,2,-,4,3,3,1,1,1,1
+I80.1,"Flebit och tromboflebit i vena femoralis",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+I80.2,"Flebit och tromboflebit i andra djupa kärl i nedre extremiteterna",Kv,10,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,3,-,1,3
+,,M,12,-,-,-,-,-,-,-,-,1,-,-,-,1,-,3,1,2,1,1,1,1
+I80.3,"Flebit och tromboflebit i nedre extremiteterna, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+I81,"Trombos i portavenen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-
+I82.8,"Emboli och trombos i andra specificerade vener",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+I82.9,"Venös emboli och trombos i ospecificerad ven",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+I83.0,"Varicer i nedre extremiteterna med bensår",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+I83.9,"Varicer i nedre extremiteterna utan uppgift om bensår eller inflammation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I85.0,"Esofagusvaricer med blödning",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+I87.2,"Venös insufficiens (kronisk) (perifer)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+I95-I99,"Andra och icke specificerade sjukdomar i cirkulationsorganen",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,2
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,2,1,-
+I95.8,"Annan specificerad hypotoni",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+I99,"Andra och icke specificerade sjukdomar i cirkulationsorganen",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,2
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,2,1,-
+"J00 - J99","KAP X. ANDNINGSORGANENS SJUKDOMAR",Kv,1632,-,-,-,-,-,-,-,4,1,-,3,9,20,41,69,161,253,284,323,290,174
+,,M,1536,-,-,1,2,-,3,1,1,2,2,6,14,20,54,89,147,271,314,324,196,89
+J00-J06,"Akuta infektioner i övre luftvägarna",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,-,4
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,4,1,-,1,1
+J00,"Akut nasofaryngit (förkylning)",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J01.3,"Akut sfenoidalsinuit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J02.9,"Akut faryngit, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J03.0,Streptokocktonsillit,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J05.1,"Akut epiglottit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J06.9,"Akut övre luftvägsinfektion, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,4
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,-,1,1
+J09-J18,"Influensa och lunginflammation",Kv,456,-,-,-,-,-,-,-,3,1,-,1,3,4,4,8,16,33,44,96,137,106
+,,M,459,-,-,1,2,-,2,1,1,2,-,4,6,11,14,21,35,40,73,108,93,45
+J09,"Influensa orsakad av vissa identifierade influensavirus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+J10.0,Influensa,Kv,9,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,1,1,4,1
+,,M,16,-,-,1,1,-,-,-,-,-,-,1,-,1,-,1,3,1,2,2,1,2
+J10.1,"Influensa med andra respiratoriska",Kv,18,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,3,1,2,4,5,1
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,1,1,2,3,3,-
+J11.0,"Influensa med pneumoni, virus ej identifierat",Kv,15,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,3,1,5,1,3
+,,M,26,-,-,-,-,-,1,-,-,-,-,1,1,-,-,-,3,2,6,4,5,3
+J11.1,"Influensa med andra manifestationer i luftvägarna, virus ej identifierat",Kv,17,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,3,6,3,2
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,2,-,1
+J11.8,"Influensa med andra manifestationer, virus ej identifierat",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+J12.8,"Annan specificerad viruspneumoni",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J12.9,"Viruspneumoni, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,1,2,-
+,,M,4,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,1,-,1,-
+J13,"Pneumoni orsakad av Streptococcus pneumoniae",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+J14,"Pneumoni orsakad av Haemophilus influenzae",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J15.0,"Pneumoni orsakad av Klebsiella pneumoniae",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+J15.1,"Pneumoni orsakad av Pseudomonas",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+J15.4,"Pneumoni orsakad av andra streptokocker",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+J15.7,"Pneumoni orsakad av Mycoplasma pneumoniae",M,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+J15.8,"Annan specificerad bakteriell pneumoni",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J15.9,"Bakteriell pneumoni, ospecificerad",Kv,18,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,6,3,5
+,,M,12,-,-,-,-,-,-,-,1,-,-,-,-,1,1,2,2,2,-,1,2,-
+J18.0,"Bronkopneumoni, ospecificerad",Kv,11,-,-,-,-,-,-,-,-,1,-,-,1,2,-,-,-,1,2,1,-,3
+,,M,24,-,-,-,-,-,1,-,-,-,-,-,2,4,5,4,5,1,1,1,-,-
+J18.1,"Lobär pneumoni, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,-
+,,M,6,-,-,-,1,-,-,-,-,-,-,-,-,-,3,-,1,1,-,-,-,-
+J18.2,"Hypostatisk pneumoni, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+J18.8,"Annan pneumoni orsakad av ospecificerad mikroorganism",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J18.9,"Pneumoni, ospecificerad",Kv,352,-,-,-,-,-,-,-,1,-,-,1,-,1,2,8,12,19,30,71,117,90
+,,M,342,-,-,-,-,-,-,-,-,1,-,2,2,4,3,11,19,31,57,94,79,39
+J20-J22,"Andra akuta infektioner i nedre luftvägarna",Kv,36,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,5,4,5,12,6
+,,M,33,-,-,-,-,-,1,-,-,-,-,-,1,1,2,1,2,4,6,5,9,1
+J20.5,"Akut bronkit orsakad av respiratoriskt syncytialvirus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J20.9,"Akut bronkit, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,1,2,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,2,2,3,-
+J21.9,"Akut bronkiolit, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J22,"Icke specificerad akut infektion i nedre luftvägarna",Kv,30,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,5,4,4,10,6
+,,M,21,-,-,-,-,-,1,-,-,-,-,-,1,1,-,1,1,4,3,2,6,1
+J30-J39,"Andra sjukdomar i övre luftvägarna",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,2,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,1,-,-,1
+J32.1,"Kronisk frontalsinuit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J32.9,"Kronisk sinuit, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+J36,Halsböld,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+J37.0,"Kronisk laryngit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+J38.0,"Förlamning av stämbanden och struphuvudet",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J38.4,Larynxödem,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+J39.2,"Andra sjukdomar i farynx",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1
+J40-J47,"Kroniska sjukdomar i nedre luftvägarna",Kv,948,-,-,-,-,-,-,-,1,-,-,2,3,12,32,57,125,190,193,185,108,40
+,,M,721,-,-,-,-,-,-,-,-,-,-,-,4,3,24,41,77,163,162,155,68,24
+J40,"Bronkit icke specificerad som akut eller kronisk",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J42,"Icke specificerad kronisk bronkit",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1,-
+J43.2,"Centrilobulärt emfysem",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J43.9,"Lungemfysem, ospecificerat",Kv,41,-,-,-,-,-,-,-,1,-,-,-,-,2,1,2,7,10,11,3,3,1
+,,M,51,-,-,-,-,-,-,-,-,-,-,-,-,-,3,4,8,16,11,8,1,-
+J44.0,"Kroniskt obstruktiv lungsjukdom med akut nedre luftvägsinfektion",Kv,184,-,-,-,-,-,-,-,-,-,-,-,-,2,7,13,25,35,32,40,20,10
+,,M,192,-,-,-,-,-,-,-,-,-,-,-,1,1,3,8,21,40,45,44,19,10
+J44.1,"Kroniskt obstruktiv lungsjukdom med akut exacerbation, ospecificerad",Kv,77,-,-,-,-,-,-,-,-,-,-,-,-,-,4,6,10,11,20,16,6,4
+,,M,60,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,7,16,12,14,8,1
+J44.8,"Annan specificerad kroniskt obstruktiv lungsjukdom",Kv,14,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,3,2,2,3,2,1
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,3,2,-
+J44.9,"Kroniskt obstruktiv lungsjukdom, ospecificerad",Kv,567,-,-,-,-,-,-,-,-,-,-,-,3,8,18,36,75,121,117,111,64,14
+,,M,369,-,-,-,-,-,-,-,-,-,-,-,2,1,17,26,37,85,83,73,34,11
+J45.9,"Astma, ospecificerad",Kv,57,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,4,10,9,10,12,9
+,,M,28,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,3,7,10,3,2
+J46,"Akut svår astma",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J47,"Bronkiektasier (lokala utvidgningar av luftrören)",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,1,1,-,-
+J60-J70,"Lungsjukdomar av yttre orsaker",Kv,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,7,5
+,,M,50,-,-,-,-,-,-,-,-,-,-,1,1,-,3,2,3,8,8,12,5,7
+J61,"Pneumokonios (dammlunga) orsakad av asbest och andra mineralfibrer",M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-
+J62.8,"Pneumokonios orsakad av annat damm som innehåller kisel",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1
+J64,"Icke specificerad pneumokonios (dammlunga)",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+J67.9,"Hypersensitivitetspneumonit orsakad av organiskt damm, ospecificerat",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J69.0,"Pneumonit orsakad av föda eller uppkräkt maginnehåll",Kv,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,7,5
+,,M,40,-,-,-,-,-,-,-,-,-,-,1,1,-,3,2,2,7,5,9,5,5
+J70.4,"Läkemedelsutlöst interstitiell lungsjukdom, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+J80-J84,"Andra lungsjukdomar som huvudsakligen engagerar interstitiet (lungornas stödjevävnad)",Kv,111,-,-,-,-,-,-,-,-,-,-,-,3,3,4,2,14,16,27,22,12,8
+,,M,193,-,-,-,-,-,-,-,-,-,1,1,2,1,9,16,24,39,49,33,14,4
+J80,"Akut andningssviktsyndrom hos vuxen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+J81,Lungödem,Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,2
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,3,1,4,-,-
+J82,"Lungeosinofili som ej klassificeras annorstädes",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J84.0,"Alveolära och parietoalveolära tillstånd",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+J84.1,"Annan interstitiell lungsjukdom med fibros",Kv,96,-,-,-,-,-,-,-,-,-,-,-,2,2,4,1,12,16,24,19,10,6
+,,M,170,-,-,-,-,-,-,-,-,-,1,-,1,1,7,14,24,33,45,27,13,4
+J84.8,"Andra specificerade interstitiella lungsjukdomar",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J84.9,"Interstitiell lungsjukdom, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-,-,2,1,-
+,,M,12,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,-,2,3,1,1,-
+J85-J86,"Variga och nekrotiska tillstånd i nedre luftvägarna",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,3,2,3,2,-
+,,M,21,-,-,-,-,-,-,-,-,-,1,-,-,1,-,4,2,4,6,-,1,2
+J85.1,"Lungabscess med pneumoni",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,1
+J85.2,"Lungabscess utan pneumoni",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-
+J86.0,"Empyem med fistel",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+J86.9,"Empyem utan fistel",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,1,-
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,1,2,5,-,1,1
+J90-J94,"Andra sjukdomar i lungsäcken",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,3,3,-,2
+J90,"Utgjutning i lungsäcken som ej klassificeras annorstädes",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,2
+J92.0,"Pleuraplack med känd asbestexponering",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J93.8,"Annan specificerad pneumotorax",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+J93.9,"Pneumotorax, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+J94.2,Hemotorax,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+J95-J99,"Andra sjukdomar i andningsorganen",Kv,36,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,3,6,8,10,5
+,,M,36,-,-,-,-,-,-,-,-,-,-,-,-,2,-,3,4,7,5,8,5,2
+J96.0,"Akut respiratorisk insufficiens",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,1,3,-,-
+J96.1,"Kronisk respiratorisk insufficiens",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,1,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,3,1,1
+J96.9,"Respiratorisk insufficiens, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+J98.1,Atelektas,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+J98.2,"Interstitiellt emfysem",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J98.4,"Andra lungsjukdomar",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,4,2,-
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,5,2,2,1,-
+J98.7,"Luftvägsinfektioner som ej klassificeras på annan plats",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,4,4
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,-
+J98.8,"Andra specificerade sjukdomar i andningsorganen",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+J98.9,"Sjukdomar i andningsorganen, ospecificerade",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+"K00 - K93","KAP XI. MATSMÄLTNINGSORGANENS SJUKDOMAR",Kv,664,1,-,-,-,-,-,1,2,-,4,4,17,25,28,47,70,98,90,123,118,36
+,,M,695,-,-,-,-,-,1,1,1,2,7,14,26,35,54,80,96,98,120,87,51,22
+K00-K14,"Sjukdomar i munhåla, spottkörtlar och käkar",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,2,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,1
+K11.2,Spottkörtelinflammation,Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K12.1,"Andra former av stomatit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K12.2,"Inflammation och abscess i munregionen",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1
+K20-K31,"Matstrupens, magsäckens och tolvfingertarmens sjukdomar",Kv,82,-,-,-,-,-,-,1,-,-,-,-,-,1,2,7,10,8,14,16,16,7
+,,M,98,-,-,-,-,-,-,-,-,-,1,1,4,7,11,9,11,10,18,13,8,5
+K20,"Esofagit (inflammation i matstrupen)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,-,-,-
+K21.9,"Gastroesofageal refluxsjukdom utan esofagit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+K22.0,"Achalasia cardiae",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+K22.1,"Sår i esofagus",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+K22.2,"Obstruktion av esofagus",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,-
+K22.3,"Perforation av esofagus",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+K22.4,Esofagusdyskinesi,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+K22.5,"Esofagusdivertikel, förvärvad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K22.6,"Gastroesofagealt lacerationssyndrom med blödning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-,-,-
+K22.7,"Barretts esofagus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K22.9,"Sjukdom i esofagus, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+K25.0,"Sår i magsäcken-Akut med blödning",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,3,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,1,3,2,-,-
+K25.1,"Sår i magsäcken-Akut med perforation",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,3,-,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,2,-,1
+K25.3,"Sår i magsäcken-Akut utan blödning eller perforation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-
+K25.4,"Sår i magsäcken-Kroniskt eller ospecificerat med blödning",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,3,3,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-,-
+K25.5,"Sår i magsäcken-Kroniskt eller ospecificerat med perforation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K25.9,"Sår i magsäcken-Ospecificerat som akut eller kronisk utan blödning eller perforation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K26.0,"Sår i tolvfingertarmen-Akut med blödning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,1,2,3,-,-,-,3,-,-,1
+K26.1,"Sår i tolvfingertarmen-Akut med perforation",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,3,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-
+K26.2,"Sår i tolvfingertarmen-Akut med både blödning och perforation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K26.3,"Sår i tolvfingertarmen-Akut utan blödning eller perforation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+K26.4,"Sår i tolvfingertarmen-Kroniskt eller ospecificerat med blödning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,1,-,1,1,2,1,1,-,-,1,-
+K26.5,"Sår i tolvfingertarmen-Kroniskt eller ospecificerat med perforation",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-
+K26.9,"Sår i tolvfingertarmen-Ospecificerat som akut eller kronisk utan blödning eller perforation",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K27.0,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Akut med blödning",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,3,3,-
+K27.1,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Akut med perforation",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,1,1,-,3
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,2,-,1,1
+K27.3,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Akut utan blödning eller perforation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+K27.4,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Kroniskt eller ospecificerat med blödning",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,2,-,-
+K27.5,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Kroniskt eller ospecificerat med perforation",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+K27.7,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Kroniskt utan blödning eller perforation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+K27.9,"Sår i magsäcken eller tolvfingertarmen utan angiven lokalisation-Ospecificerat som akut eller kronisk utan blödning eller perforation",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K29.0,"Akut hemorragisk gastrit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K29.2,"Gastrit orsakad av alkohol",M,2,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-
+K29.4,"Kronisk atrofisk gastrit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K29.5,"Kronisk gastrit, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+K29.6,"Annan specificerad gastrit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K29.8,Duodenit,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K29.9,"Gastroduodenit, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K31.8,"Andra specificerade sjukdomar i magsäcken och tolvfingertarmen",Kv,3,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-
+K31.9,"Sjukdom i magsäcken och tolvfingertarmen, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+K35-K38,"Sjukdomar i blindtarmen",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,1,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K35.3,"Akut appendicit med lokaliserad peritonit",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K35.8,"Annan och ospecificerad akut appendicit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K40-K46,Bråck,Kv,30,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,4,5,7,9,-
+,,M,22,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,3,5,3,4,3,1
+K40.3,"Ensidigt eller ospecificerat ljumskbråck med inklämning, utan gangrän",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,2,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,3,1
+K40.4,"Ensidigt eller ospecificerat ljumskbråck med gangrän",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-
+K40.9,"Ensidigt eller ospecificerat ljumskbråck utan inklämning eller gangrän",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K41.3,"Ensidigt eller ospecificerat femoralbråck med inklämning, utan gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K42.0,"Inklämt navelbråck utan gangrän",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K43.0,"Inklämt ärrbråck utan gangrän",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+K43.1,"Ärrbråck med gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+K43.2,"Ärrbråck utan inklämning eller gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K43.3,"Inklämt parastomalt bråck utan gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K43.9,"Annat och ospecificerat främre bukväggsbråck utan inklämning eller gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+K44.0,"Inklämt diafragmabråck utan gangrän",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K44.1,"Diafragmabråck med gangrän",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+K44.9,"Diafragmabråck utan inklämning eller gangrän",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,4,2,3,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+K46.0,"Ospecificerat bukbråck med inklämning, utan gangrän",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K46.1,"Ospecificerat bukbråck med gangrän",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+K50-K52,"Icke infektiös inflammation i tunntarmen och tjocktarmen",Kv,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,7,3,3,2,2
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,3,3,4,1,2,2
+K50.9,"Crohns sjukdom, ospecificerad",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,2,3,-,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,1,1,1,1,1
+K51.9,"Ulcerös kolit, ospecificerad",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,1,-,2,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1,-,-,-
+K52.1,"Toxisk gastroenterit och kolit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K52.9,"Icke-infektiös gastroenterit och kolit, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,-,1
+K55-K63,"Andra sjukdomar i tarmen",Kv,182,-,-,-,-,-,-,-,-,-,-,1,3,-,6,5,23,30,32,37,38,7
+,,M,117,-,-,-,-,-,-,-,-,-,-,1,1,7,6,9,10,16,27,20,19,1
+K55.0,"Akuta kärlsjukdomar i tarmen",Kv,39,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,7,10,7,5,5,-
+,,M,18,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,1,5,4,1,3,-
+K55.1,"Kroniska kärlsjukdomar i tarmen",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,3,-,-
+K55.9,"Kärlsjukdom i tarmen, ospecificerad",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1,-,-,-
+K56.2,Volvulus,Kv,7,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,2,2,1,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,3,3,2,-
+K56.3,Gallstensileus,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K56.4,"Annan tilltäppning av tarmen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,1,-
+K56.5,Adherensileus,Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,2,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+K56.6,"Annan och ospecificerad obstruktion av tarmen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,-,-,-
+K56.7,"Ileus, ospecificerad",Kv,45,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,3,4,7,12,14,2
+,,M,35,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,4,2,11,7,5,1
+K57.0,"Divertikel i tunntarmen med perforation och abscess",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K57.3,"Divertikel i tjocktarmen utan perforation eller abscess",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+K57.8,"Divertikel i tarmen, ospecificerad lokalisation, med perforation och abscess",Kv,21,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,6,3,6,2,1
+,,M,11,-,-,-,-,-,-,-,-,-,-,1,-,-,-,3,1,-,3,2,1,-
+K57.9,"Divertikel i tarmen, ospecificerad lokalisation, utan perforation eller abscess",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,4,5,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+K58.8,"Annan och ospecificerad irritabel tarm",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K59.0,Obstipation,Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K59.2,"Neurogen tarmrubbning som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+K59.3,"Megakolon som ej klassificeras på annan plats",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+K59.8,"Andra specificerade funktionella tarmrubbningar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K61.0,Analabscess,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1,-
+K61.1,Rektalabscess,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K61.2,"Anorektal abscess",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K62.3,Rektalprolaps,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K62.5,"Blödning i anus och rektum",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,1,-
+K62.9,"Sjukdom i anus och rektum, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+K63.1,"Perforation (icke-traumatisk) av tarmen",Kv,22,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,3,6,3,5,1
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,2,2,1,-
+K63.2,Tarmfistel,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K63.3,"Sår i tarmen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K63.9,"Sjukdom i tarmen, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+K64.9,"Hemorrojder, ospecificerade",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+K65-K67,"Sjukdomar i bukhinnan",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,-,-,1,1
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,2,2,-,-
+K65.0,"Akut peritonit",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,1,1
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,2,-,-
+K65.8,"Annan specificerad peritonit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+K65.9,"Peritonit, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+K70-K77,"Sjukdomar i levern",Kv,157,1,-,-,-,-,-,-,2,-,4,3,9,17,12,24,21,29,14,14,6,1
+,,M,245,-,-,-,-,-,-,-,1,1,4,7,16,18,29,45,44,40,25,8,2,5
+K70.0,Alkoholfettlever,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,-,-,-,-,-,-
+K70.1,Alkoholhepatit,Kv,5,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,1,-,-,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,-,-,-,-,-,-
+K70.2,"Leverfibros och leverskleros orsakad av alkohol",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K70.3,"Levercirros orsakad av alkohol",Kv,39,-,-,-,-,-,-,-,-,-,1,2,4,7,7,8,4,5,-,1,-,-
+,,M,86,-,-,-,-,-,-,-,1,1,-,3,8,6,13,15,21,12,5,1,-,-
+K70.4,"Leversvikt orsakad av alkohol",Kv,11,-,-,-,-,-,-,-,2,-,-,-,-,2,1,3,2,1,-,-,-,-
+,,M,31,-,-,-,-,-,-,-,-,-,2,1,2,-,2,8,5,6,5,-,-,-
+K70.9,"Leversjukdom orsakad av alkohol, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+K72.0,"Akut och subakut leversvikt",Kv,3,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,2,2,-,-,1
+K72.1,"Kronisk leversvikt",Kv,13,-,-,-,-,-,-,-,-,-,1,1,2,1,-,2,1,1,2,1,1,-
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,-,4,-,-,-,1
+K72.9,"Leversvikt, ospecificerad",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,2,1,1,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,-,-,1,-
+K74.0,Leverfibros,M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+K74.3,"Primär biliär cirros",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+K74.4,"Sekundär biliär cirros",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K74.6,"Annan och ospecificerad levercirros",Kv,55,-,-,-,-,-,-,-,-,-,1,-,2,3,3,7,10,15,4,9,1,-
+,,M,70,-,-,-,-,-,-,-,-,-,2,2,3,6,3,10,13,10,12,6,1,2
+K75.0,Leverabscess,Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+K75.4,"Autoimmun hepatit",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+K75.8,"Andra specificerade inflammatoriska leversjukdomar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,-,-,-,-,-
+K75.9,"Inflammatorisk leversjukdom, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+K76.0,"Fettlever som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+K76.1,"Kronisk staslever orsakad av hjärtsvikt",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+K76.6,Portahypertension,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+K76.7,"Hepatorenalt syndrom",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+K76.8,"Andra specificerade sjukdomar i levern",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+K76.9,"Leversjukdom, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,1,1,-,1
+K80-K87,"Sjukdomar i gallblåsan, gallvägarna och bukspottkörteln",Kv,89,-,-,-,-,-,-,-,-,-,-,-,2,3,3,5,8,6,12,18,22,10
+,,M,95,-,-,-,-,-,-,1,-,1,1,1,3,1,5,9,14,14,22,14,5,4
+K80.0,"Gallsten med akut kolecystit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-
+K80.1,"Gallsten med annan kolecystit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+K80.2,"Gallsten utan kolecystit",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,1,2,2
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,2,-,1
+K80.3,"Koledokussten med kolangit",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,2,-,-,-
+K80.5,"Koledokussten utan kolangit eller kolecystit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1
+K81.0,"Akut kolecystit",Kv,22,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,4,4,7,4
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,3,1,1,1
+K81.1,"Kronisk kolecystit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+K81.8,"Annan specificerad kolecystit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+K81.9,"Kolecystit, ospecificerad",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,3,1,-,1
+K82.2,Gallblåseperforation,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K82.9,"Sjukdom i gallblåsan, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+K83.0,Kolangit,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-
+,,M,15,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,3,2,5,2,2,-
+K83.1,"Förträngning av gallgång",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1
+K83.9,"Sjukdom i gallvägarna, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K85.1,"Biliär akut pankreatit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-
+K85.2,"Alkoholutlöst akut pankreatit",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-,-,-
+,,M,5,-,-,-,-,-,-,1,-,-,1,-,-,1,1,1,-,-,-,-,-,-
+K85.9,"Akut pankreatit, ospecificerad",Kv,26,-,-,-,-,-,-,-,-,-,-,-,2,1,1,3,3,2,4,6,3,1
+,,M,26,-,-,-,-,-,-,-,-,1,-,-,1,-,3,7,4,4,3,2,1,-
+K86.0,"Kronisk pankreatit orsakad av alkohol",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+K86.1,"Annan kronisk pankreatit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+K86.2,Pankreascysta,M,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,1,-,-
+K86.8,"Andra specificerade sjukdomar i pankreas",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+K86.9,"Pankreassjukdom, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+K90-K93,"Andra sjukdomar i matsmältningsorganen",Kv,88,-,-,-,-,-,-,-,-,-,-,-,3,4,2,1,3,11,9,25,22,8
+,,M,88,-,-,-,-,-,1,-,-,-,-,4,1,2,1,3,11,8,19,24,11,3
+K90.0,Celiaki,Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-
+K90.4,"Malabsorption orsakad av intolerans som ej klassificeras på annan plats",M,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+K92.0,Hematemes,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,-,-
+K92.1,Melena,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+K92.2,"Gastrointestinal blödning, ospecificerad",Kv,81,-,-,-,-,-,-,-,-,-,-,-,3,3,2,1,3,10,8,25,19,7
+,,M,79,-,-,-,-,-,-,-,-,-,-,4,1,2,1,3,9,7,16,22,11,3
+K92.9,"Sjukdom i matsmältningsorganen, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+"L00 - L99","KAP XII. HUDENS OCH UNDERHUDENS SJUKDOMAR",Kv,49,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,2,4,5,13,12,8
+,,M,51,-,-,-,-,-,-,-,-,-,1,-,-,-,1,4,3,14,11,11,5,1
+L00-L08,"Infektioner i hud och underhud",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,1,2,2,1
+,,M,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,4,3,1,-
+L02.2,"Kutan abscess, furunkel och karbunkel på bålen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+L02.4,"Kutan abscess, furunkel och karbunkel på extremitet",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,-,-,-
+L02.9,"Kutan abscess, furunkel och karbunkel, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+L03.1,"Cellulit i andra delar på extremitet",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+L03.9,"Cellulit, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+L08.9,"Lokal infektion i hud och underhud, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,2,1
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,1,-,-
+L10-L14,"Blåsdermatoser (hudsjukdomar med blåsor)",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-
+L10.8,"Annan specificerad pemfigus",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+L12.0,"Bullös pemfigoid",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+L13.9,"Blåsdermatos, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+L20-L30,"Dermatit och eksem",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+L27.0,"Generaliserad hudreaktion orsakad av läkemedel",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+L40-L45,"Papuloskvamösa sjukdomar",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+L40.5,"Psoriasis med ledsjukdom (M07.0-M07.3, M09.0)",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+L40.9,"Psoriasis, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+L50-L54,"Urtikaria (nässelfeber) och erytematösa tillstånd (tillstånd med hudrodnad)",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+L53.9,"Erytematöst tillstånd, ospecificerat",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+L80-L99,"Andra sjukdomar i hud och underhud",Kv,35,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,3,4,9,9,6
+,,M,33,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,2,10,7,6,4,1
+L89.9,"Trycksår, ospecificerat",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,3,1,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+L97,"Bensår som ej klassificeras annorstädes",Kv,18,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,2,5,5,4
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,5,4,1,1
+L98.4,"Kroniskt hudsår som ej klassificeras på annan plats",Kv,7,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,1,3,1
+,,M,15,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,1,6,2,1,2,-
+"M00 - M99","KAP XIII. SJUKDOMAR I MUSKLER, SKELETT OCH BINDVÄV",Kv,163,-,1,-,-,-,-,-,1,1,1,1,1,2,4,6,11,20,35,32,31,16
+,,M,86,-,-,-,-,-,-,-,-,-,-,1,-,2,1,8,14,13,12,18,13,4
+M00-M03,"Infektiösa ledsjukdomar",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-,-
+M00.9,"Purulent artrit, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-,-
+M05-M14,"Inflammatoriska polyartriter",Kv,49,-,-,-,-,-,-,-,1,-,-,-,-,1,2,2,3,4,13,7,9,7
+,,M,22,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,7,5,4,1,1
+M05.1,"Reumatoid lungsjukdom (J99.0)",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M05.3,"Reumatoid artrit med engagemang av andra organ och organsystem",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+M05.9,"Seropositiv reumatoid artrit, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,1,1,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,1,-,1,-,-
+M06.0,"Seronegativ reumatoid artrit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+M06.9,"Reumatoid artrit, ospecificerad",Kv,36,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2,4,8,6,6,6
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,6,3,3,1,-
+M08.8,"Annan specificerad juvenil artrit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+M08.9,"Juvenil artrit, ospecificerad",Kv,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+M13.8,"Annan specificerad artrit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+M13.9,"Artrit, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+M15-M19,Artros,Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,2,2
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,1,1,1
+M15.9,"Polyartros, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+M16.9,"Koxartros, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,2
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,1,-,1,1
+M17.9,"Gonartros, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M20-M25,"Andra ledsjukdomar",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M25.9,"Ledsjukdom, ospecificerad",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M30-M36,"Inflammatoriska systemsjukdomar",Kv,41,-,1,-,-,-,-,-,-,-,-,1,1,1,1,2,6,8,9,7,3,1
+,,M,13,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,3,2,-,2,3,-
+M30.1,"Polyarterit med lungengagemang [Churg-Strauss]",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M31.0,Överkänslighetsangiit,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+M31.1,"Trombotisk mikroangiopati",Kv,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+M31.3,"Wegeners granulomatos",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-
+M31.4,"Aortabågsarterit [Takayasu]",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M31.7,"Mikroskopisk polyangiit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M31.8,"Andra specificerade nekrotiserande kärlsjukdomar",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-
+M31.9,"Nekrotiserande kärlsjukdom, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M32.9,"Systemisk lupus erythematosus, ospecificerad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+M33.2,Polymyosit,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M34.8,"Andra specificerade former av systemisk skleros",Kv,14,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,4,1,4,2,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1,-,-
+M35.0,"Siccasyndromet [Sjögrens syndrom]",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+M35.3,"Polymyalgia rheumatica",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,3,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+M35.8,"Andra specificerade inflammatoriska systemsjukdomar",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+M35.9,"Inflammatorisk systemsjukdom, ospecificerad",Kv,2,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M40-M43,"Deformerande ryggsjukdomar",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+M40.2,"Annan och ospecificerad kyfos",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+M41.9,"Skolios, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+M45-M49,Spondylopatier,Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,4,1,2
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,1,3,1,-
+M45,"Pelvospondylit [Bechterews sjukdom]",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+M46.2,"Osteomyelit i kota",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M46.4,"Inflammation i intervertebraldisk, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,1,-
+M46.5,"Andra infektiösa spondylopatier",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M47.9,"Spondylos, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+M48.0,"Spinal stenos",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+M48.5,"Kotkompression som ej klassificeras på annan plats",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+M60-M63,Muskelsjukdomar,Kv,7,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,1,2,1,1,-,-
+,,M,11,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-,2,2,3,-,1
+M60.0,"Infektiös myosit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+M61.1,"Myositis ossificans progressiva",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+M62.5,"Muskelatrofi som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+M62.8,"Andra specificerade muskelsjukdomar",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,1,-,-
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,3,-,1
+M62.9,"Muskelsjukdom, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+M70-M79,"Andra sjukdomar i mjukvävnader",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,1,1,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,2,-,2,-
+M70.2,Olekranonbursit,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+M72.6,"Nekrotiserande fasciit",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,1,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,-
+M79.0,"Reumatism, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-
+M80-M85,"Rubbningar i bentäthet och benstruktur",Kv,25,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,2,4,6,9,3
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,4,4,1
+M80.9,"Ospecificerad osteoporos med patologisk fraktur",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,5,2
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,1
+M81.9,"Osteoporos, ospecificerad",Kv,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,4,4,1
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,-
+M84.3,"Stressfraktur som ej klassificeras på annan plats",Kv,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-
+M84.4,"Patologisk fraktur som ej klassificeras på annan plats",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+M86-M90,"Andra sjukdomar i benvävnad",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,3,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-
+M86.1,"Annan akut osteomyelit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+M86.6,"Annan specificerad kronisk osteomyelit",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+M86.9,"Osteomyelit, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+"N00 - N99","KAP XIV. SJUKDOMAR I URIN- OCH KÖNSORGANEN",Kv,336,-,-,-,-,-,-,-,-,-,-,-,2,-,5,10,22,25,54,63,95,60
+,,M,389,-,-,-,-,-,-,-,-,-,-,-,3,1,8,16,39,52,75,97,60,38
+N00-N08,Glomerulussjukdomar,Kv,11,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,-,3,2,2,-
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,5,3,1,1,-
+N00.9,"Akut glomerulonefrit-Ospecificerad morfologisk förändring",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N02.2,"Recidiverande och bestående hematuri (blod i urinen)-Diffus membranös glomerulonefrit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N02.8,"Recidiverande och bestående hematuri (blod i urinen)-Annan specificerad morfologisk förändring",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-
+N03.1,"Kronisk glomerulonefrit-Fokala och segmentella glomerulära skador",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+N03.2,"Kronisk glomerulonefrit-Diffus membranös glomerulonefrit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+N03.5,"Kronisk glomerulonefrit-Diffus mesangiokapillär glomerulonefrit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N03.7,"Kronisk glomerulonefrit-Diffus crescentisk glomerulonefrit",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+N03.9,"Kronisk glomerulonefrit-Ospecificerad morfologisk förändring",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,2,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,-,-
+N04.9,"Nefrotiskt syndrom-Ospecificerad morfologisk förändring",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N05.1,"Ospecificerad glomerulonefrit-Fokala och segmentella glomerulära skador",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+N05.9,"Ospecificerad glomerulonefrit-Ospecificerad morfologisk förändring",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+N10-N16,"Tubulo-interstitiella njursjukdomar",Kv,35,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,5,3,8,5,9,4
+,,M,15,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,2,1,4,3,2
+N10,"Akut tubulo-interstitiell nefrit",Kv,24,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,5,1,6,2,5,4
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,1,1,2,2
+N11.1,"Kronisk obstruktiv pyelonefrit",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+N11.9,"Kronisk tubulo-interstitiell nefrit, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N12,"Tubulo-interstitiell nefrit, ej specificerad som akut eller kronisk",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+N13.1,"Hydronefros orsakad av uretärstriktur som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N13.3,"Annan och ospecificerad hydronefros",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N13.6,Pyonefros,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N13.9,"Uropati orsakad av avflödeshinder och reflux, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N15.9,"Tubulo-interstitiell njursjukdom, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N17-N19,Njursvikt,Kv,184,-,-,-,-,-,-,-,-,-,-,-,-,-,2,6,9,13,27,33,56,38
+,,M,244,-,-,-,-,-,-,-,-,-,-,-,2,1,4,9,29,27,45,66,37,24
+N17.9,"Akut njursvikt, ospecificerad",Kv,22,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,-,6,5,4,3
+,,M,22,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,5,3,5,2,1
+N18.3,"Kronisk njursvikt, stadium 3",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+N18.4,"Kronisk njursvikt, stadium 4",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,5,1
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,7,3,1
+N18.5,"Kronisk njursvikt, stadium 5",Kv,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,1,3,3,1,2
+,,M,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,3,3,3,1,1
+N18.9,"Kronisk njursvikt, ospecificerad",Kv,118,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,2,8,15,22,39,27
+,,M,167,-,-,-,-,-,-,-,-,-,-,-,1,-,3,4,23,17,32,43,27,17
+N19,"Njursvikt, icke specificerad som akut eller kronisk",Kv,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,3,3,7,5
+,,M,29,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,2,2,6,8,4,4
+N20-N23,"Sten i urinvägarna",Kv,9,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,2,2,1,1
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,3,2,1,-,-
+N20.0,Njursten,Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,1,1,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,1,-,-
+N20.1,Uretärsten,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+N20.2,"Njursten med uretärsten",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N20.9,"Sten i urinvägarna, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+N21.0,"Sten i urinblåsan",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N25-N29,"Andra sjukdomar i njure och urinledare",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N28.1,Njurcysta,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+N28.9,"Sjukdom i njure och uretär, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N30-N39,"Andra sjukdomar i urinorganen",Kv,87,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,4,6,13,20,25,16
+,,M,77,-,-,-,-,-,-,-,-,-,-,-,1,-,1,4,5,13,18,17,11,7
+N30.0,"Akut cystit",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-
+N30.9,"Cystit, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+N31.9,"Neuromuskulär blåsfunktionsrubbning, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N32.1,"Vesikointestinal fistel",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+N32.2,"Blåsfistel som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N32.4,"Icke-traumatisk blåsruptur",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+N32.8,"Andra specificerade sjukdomar i urinblåsan",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+N39.0,"Urinvägsinfektion, utan angiven lokalisation",Kv,83,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,5,13,20,25,15
+,,M,68,-,-,-,-,-,-,-,-,-,-,-,1,-,1,4,4,12,14,16,9,7
+N40-N51,"Sjukdomar i de manliga könsorganen",M,29,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,6,7,8,5
+N40,Prostataförstoring,M,25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,4,6,7,5
+N45.9,"Orkit, epididymit och epididymo-orkit utan abscess",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+N49.8,"Inflammatoriska sjukdomar i andra specificerade manliga könsorgan",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-
+N50.8,"Andra specificerade sjukdomar i de manliga könsorganen",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N70-N77,"Inflammatoriska sjukdomar i de kvinnliga bäckenorganen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+N73.9,"Inflammatorisk sjukdom i det kvinnliga bäckenet, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+N80-N98,"Icke inflammatoriska sjukdomar i de kvinnliga könsorganen",Kv,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,1,2,1
+N81.1,"Cystocele hos kvinna",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+N81.4,"Uterovaginal prolaps, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+N81.9,"Genital prolaps hos kvinna, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+N83.2,"Andra och ospecificerade ovarialcystor",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N93.9,"Onormal blödning från uterus och vagina, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+N95.0,"Postmenopausal blödning",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,-,-
+"O00 - O99","KAP XV. GRAVIDITET, FÖRLOSSNING OCH BARNSÄNGSTID",Kv,4,-,-,-,-,-,-,-,2,1,-,-,-,-,-,-,1,-,-,-,-,-
+O00-O08,"Graviditet som avslutas med abort",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+O00.1,"Graviditet i äggledaren",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+O60-O75,"Komplikationer vid värkarbete och förlossning",Kv,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+O75.4,"Andra komplikationer till obstetriska ingrepp",Kv,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+O95-O99,"Andra obstetriska tillstånd som ej klassificeras annorstädes",Kv,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-
+O97.0,"Död av följdtillstånd efter direkt obstetrisk orsak",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+O98.5,"Andra virussjukdomar hos modern som komplicerar graviditet, förlossning och barnsängstid",Kv,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+"P00 - P96","KAP XVI. VISSA PERINATALA TILLSTÅND",Kv,22,21,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,40,40,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P00-P04,"Foster och nyfödd som påverkats av tillstånd hos modern och av komplikationer vid graviditet, värkarbete och förlossning",Kv,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P02.1,"Foster och nyfödd som påverkats av andra former av placentaavlossning och placentablödning",M,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P02.3,"Foster och nyfödd som påverkats av placentalt transfusionssyndrom",Kv,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P02.7,"Foster och nyfödd som påverkats av korioamnionit",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P05-P08,"Sjukdomar som har samband med graviditetslängd och fostertillväxt",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P05.9,"Ospecificerad retarderad fostertillväxt",M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P07.2,"Höggradigt underburet barn",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P20-P29,"Sjukdomar i andningsorgan och cirkulationsorgan specifika för den perinatala perioden",Kv,8,7,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,19,19,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P20.9,"Intrauterin hypoxi, ospecificerad",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P21.0,"Svår asfyxi vid förlossningen",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P21.9,"Asfyxi vid förlossningen, ospecificerad",Kv,4,3,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P22.0,"Respiratory distress syndrome hos nyfödd",M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P23.8,"Medfödd pneumoni orsakad av andra specificerade organismer",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P25.0,"Interstitiellt emfysem under den perinatala perioden",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P28.0,"Primär atelektas hos nyfödd",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P28.4,"Annan apné hos nyfödd",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P29.3,"Kvardröjande fostercirkulation",M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P29.9,"Ospecificerad sjukdom i cirkulationsorganen under den perinatala perioden",Kv,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P35-P39,"Infektioner specifika för den perinatala perioden",Kv,5,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P36.5,"Sepsis hos nyfödd orsakad av anaerober",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P36.9,"Ospecificerad bakteriell sepsis hos nyfödd",Kv,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P37.9,"Medfödd infektionssjukdom och parasitsjukdom, ospecificerad",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P39.8,"Andra specificerade infektioner specifika för den perinatala perioden",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P39.9,"Infektion specifik för den perinatala perioden, ospecificerad",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P50-P61,"Blödningssjukdomar och blodsjukdomar hos foster och nyfödd",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P52.4,"Intracerebral, icke-traumatisk blödning hos foster och nyfödd",M,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P61.8,"Andra specificerade blodsjukdomar under den perinatala perioden",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P75-P78,"Sjukdomar i matsmältningsorganen hos foster och nyfödd",Kv,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,6,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P77,"Nekrotiserande enterokolit (tarminflammation med vävnadsdöd) hos foster och nyfödd",Kv,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P78.0,"Tarmperforation hos foster och nyfödd",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P78.9,"Ospecificerad sjukdom i matsmältningsorganen hos foster och nyfödd",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P80-P83,"Tillstånd som engagerar hud och temperaturreglering hos foster och nyfödd",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+P83.2,"Hydrops fetalis som ej beror på hemolytisk sjukdom",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"Q00 - Q99","KAP XVII. MEDFÖDDA MISSBILDNINGAR, DEFORMITETER OCH KROMOSOMAVVIKELSER",Kv,64,22,2,-,1,2,1,-,2,-,2,1,9,6,5,4,2,4,-,1,-,-
+,,M,79,15,5,1,1,1,3,1,1,1,5,6,4,12,7,5,6,2,2,-,1,-
+Q00-Q07,"Medfödda missbildningar av nervsystemet",Kv,6,1,1,-,-,-,-,-,1,-,1,-,1,1,-,-,-,-,-,-,-,-
+,,M,10,1,1,-,-,1,2,-,1,-,1,-,1,-,1,-,-,-,1,-,-,-
+Q01.9,"Encefalocele, ospecificerat",M,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q02,"Mikrocefali (liten hjärna)",Kv,2,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+,,M,5,1,-,-,-,1,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+Q03.1,"Atresi av foramina Magendi och Luschkae",Kv,2,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-
+Q03.9,"Medfödd hydrocefalus, ospecificerad",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q04.9,"Medfödd missbildning av hjärnan, ospecificerad",Kv,2,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Q05.4,"Ospecificerad spina bifida med hydrocefalus",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Q05.9,"Spina bifida, ospecificerad",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Q07.0,"Arnold-Chiaris syndrom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+Q20-Q28,"Medfödda missbildningar av cirkulationsorganen",Kv,9,5,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,1,-,-
+,,M,16,2,2,-,1,-,-,1,-,1,2,3,-,2,-,-,1,-,1,-,-,-
+Q21.1,Förmaksseptumdefekt,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-
+Q21.3,"Fallots tetrad",M,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q21.8,"Andra specificerade medfödda missbildningar av hjärtskiljeväggar",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Q22.5,"Ebsteins anomali",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q23.3,"Medfödd mitralisinsufficiens",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+Q23.4,"Hypoplastiskt vänsterkammarsyndrom",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q24.5,Kranskärlsmissbildning,M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Q24.9,"Medfödd hjärtmissbildning, ospecificerad",Kv,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,5,-,-,-,1,-,-,-,-,1,1,-,-,2,-,-,-,-,-,-,-,-
+Q25.1,"Coarctatio aortae",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Q27.9,"Medfödd missbildning av det perifera kärlsystemet, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+,,M,2,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+Q28.2,"Arteriovenös missbildning av cerebrala kärl",M,2,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q28.3,"Andra missbildningar av cerebrala kärl",M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Q28.9,"Medfödd missbildning av cirkulationsorganen, ospecificerad",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q30-Q34,"Medfödda missbildningar av andningsorganen",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Q33.6,"Hypoplasi och dysplasi av lunga",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q33.9,"Medfödd missbildning av lunga, ospecificerad",M,2,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Q38-Q45,"Andra medfödda missbildningar av matsmältningsorganen",M,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q41.1,"Medfödd avsaknad, atresi och stenos av jejunum",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q41.9,"Medfödd avsaknad, atresi och stenos av ospecificerad del av tunntarmen",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q60-Q64,"Medfödda missbildningar av urinorganen",Kv,6,2,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,2,-,-,-,-
+,,M,8,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,1,-
+Q60.0,"Njuragenesi, ensidig",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+Q60.2,"Njuragenesi, ospecificerad",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q61.0,"Medfödd enstaka njurcysta",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+Q61.3,"Polycystisk njure, ospecificerad",Kv,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-
+,,M,6,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,1,-
+Q61.4,"Renal dysplasi",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q63.9,"Medfödd missbildning av njure, ospecificerad",Kv,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q65-Q79,"Medfödda missbildningar och deformiteter av muskler och skelett",Kv,3,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q67.5,"Medfödd deformitet av kotpelaren",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Q78.9,"Osteokondrodysplasi, ospecificerad",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q79.0,"Medfött diafragmabråck",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+Q79.9,"Medfödd missbildning av muskler och skelett, ospecificerad",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q80-Q89,"Andra medfödda missbildningar",Kv,4,1,1,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,10,2,2,-,-,-,-,-,-,-,2,2,-,-,1,1,-,-,-,-,-,-
+Q85.0,"Neurofibromatos (icke-malign)",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Q85.1,"Tuberös skleros",M,2,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-
+Q85.8,"Andra specificerade fakomatoser som ej klassificeras på annan plats",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+Q87.0,"Medfödda missbildningssyndrom som främst påverkar ansiktets utseende",Kv,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q87.1,"Medfödda missbildningssyndrom som främst är förenade med kortväxthet",Kv,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Q87.2,"Medfödda missbildningssyndrom som främst engagerar extremiteter",M,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q87.4,"Marfans syndrom",Kv,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q87.8,"Andra specificerade medfödda missbildningssyndrom som ej klassificeras på annan plats",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Q89.9,"Medfödd missbildning, ospecificerad",M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q90-Q99,"Kromosomavvikelser som ej klassificeras annorstädes",Kv,35,11,-,-,1,1,-,-,1,-,1,1,7,3,5,2,1,1,-,-,-,-
+,,M,30,3,-,1,-,-,1,-,-,-,-,1,3,9,5,4,3,-,-,-,-,-
+Q90.9,"Downs syndrom, ospecificerat",Kv,22,-,-,-,-,-,-,-,1,-,1,1,7,3,5,2,1,1,-,-,-,-
+,,M,26,1,-,-,-,-,1,-,-,-,-,1,3,9,5,4,2,-,-,-,-,-
+Q91.3,"Trisomi 18, ospecificerad",Kv,6,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q91.7,"Trisomi 13, ospecificerad",Kv,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q92.3,"Liten partiell trisomi",Kv,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q92.8,"Andra specificerade trisomier och partiella trisomier av autosomer",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q93.1,"Monosomi för hel kromosom, mosaicism (mitotisk nondisjunction)",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q93.5,"Andra deletioner av del av kromosom",Kv,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Q99.2,"Skör X-kromosom",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+Q99.9,"Kromosomavvikelse, ospecificerad",M,1,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"R00 - R99","KAP XVIII. SYMTOM, SJUKDOMSTECKEN OCH ONORMALA FYND SOM EJ KLASSIFICERAS ANNORSTÄDES",Kv,1212,11,3,3,1,1,4,5,10,6,14,11,17,29,29,45,81,99,133,181,270,259
+,,M,1269,11,2,-,2,5,8,6,14,17,15,38,30,65,87,117,155,176,162,158,130,71
+R00-R09,"Symtom och sjukdomstecken från cirkulationsorganen och andningsorganen",Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,2,1
+,,M,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,1,2
+R00.1,"Bradykardi, ospecificerad",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+R02,"Gangrän som ej klassificeras annorstädes",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+R04.8,"Blödning från andra lokalisationer i luftvägarna",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+R06.8,"Andra och ospecificerade andningsrubbningar",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R09.0,Asfyxi,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+R09.2,Andningsstillestånd,Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+R10-R19,"Symtom och sjukdomstecken från matsmältningsorganen och buken",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+R10.0,"Akut buk",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R11,"Illamående och kräkningar",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+R19.8,"Andra specificerade symtom och sjukdomstecken från matsmältningsorganen och buken",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+R30-R39,"Symtom och sjukdomstecken från urinorganen",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+R31,"Icke specificerad hematuri (blod i urinen)",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+R40-R46,"Symtom och sjukdomstecken avseende intellektuella funktioner, uppfattningsförmåga, känsloläge och beteende",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+R40.2,"Koma, ospecificerat",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R41.0,"Desorientering, ospecificerad",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R41.8,"Andra och ospecificerade symtom och sjukdomstecken som engagerar uppfattningsförmåga och varseblivning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+R50-R69,"Allmänna symtom och sjukdomstecken",Kv,450,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,5,23,76,158,184
+,,M,195,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,6,14,20,42,57,53
+R53,"Sjukdomskänsla och trötthet",Kv,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,5,4,10
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,3,-
+R54,Senilitet,Kv,293,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,9,38,110,136
+,,M,112,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,10,21,34,41
+R57.9,"Chock, ospecificerad",Kv,32,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,4,9,10,7
+,,M,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,5,1,7,5,3
+R58,"Blödning som ej klassificeras annorstädes",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R63.0,Anorexi,Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+R63.6,"Otillräckligt intag av föda och vatten",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R64,Utmärgling,Kv,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-
+R68.8,"Andra specificerade generella symtom och sjukdomstecken",Kv,97,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,8,24,29,31
+,,M,51,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,5,2,8,12,13,9
+R70-R79,"Onormala fynd vid blodundersökning utan diagnos",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+R70.0,"Förhöjd sänkningsreaktion",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+"V01 - Y98","KAP XX. YTTRE ORSAKER TILL SJUKDOM OCH DÖD",Kv,919,1,1,1,5,12,21,16,24,36,21,34,34,42,26,52,51,62,82,145,135,118
+,,M,1556,2,3,3,5,54,79,90,79,71,64,67,87,96,91,79,88,112,150,157,118,61
+V01-V09,"Fotgängare skadad i transportolycka",Kv,6,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,1,-,1,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,1,-,-,-,-
+V03.1,"Fotgängare skadad i kollision med personbil eller lätt lastbil, trafikolycka",Kv,5,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,-,1,-,1,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+V04.1,"Fotgängare skadad i kollision med tung lastbil eller buss, trafikolycka",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+V05.1,"Fotgängare skadad i kollision med tåg, trafikolycka",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+V06.1,"Fotgängare skadad i kollision med annat icke motordrivet fordon, trafikolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+V10-V19,"Cyklist (förare eller passagerare) skadad i transportolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,7,-,-,-,-,-,-,-,-,-,-,-,2,-,1,1,-,1,1,-,1,-
+V13.4,"Cyklist skadad i kollision med personbil eller lätt lastbil, förare av cykel, trafikolycka",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+V18.4,"Cyklist skadad i transportolycka, ej kollision, förare av cykel, trafikolycka",M,4,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,-,-,1,-,-,-
+V19.9,"Cyklist, ospecificerad, skadad i ospecificerad trafikolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+V20-V29,"Motorcyklist (förare eller passagerare) skadad i transportolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,15,-,-,-,-,2,4,2,-,2,-,1,1,2,1,-,-,-,-,-,-,-
+V23.4,"Motorcyklist skadad i kollision med personbil eller lätt lastbil, förare, trafikolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,9,-,-,-,-,-,2,2,-,1,-,1,1,1,1,-,-,-,-,-,-,-
+V24.4,"Motorcyklist skadad i kollision med tung lastbil eller buss, förare, trafikolycka",M,2,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V27.4,"Motorcyklist skadad i kollision med fast eller stillastående föremål, förare, trafikolycka",M,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V28.4,"Motorcyklist skadad i transportolycka, ej kollision, förare, trafikolycka",M,3,-,-,-,-,-,1,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-
+V40-V49,"Förare av eller passagerare i personbil skadad i transportolycka",Kv,6,-,-,-,1,2,2,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,38,1,-,-,-,8,5,3,-,-,1,2,3,1,2,2,3,2,-,4,1,-
+V43.5,"Förare av personbil skadad i kollision med personbil eller lätt lastbil, trafikolycka",M,8,-,-,-,-,1,2,1,-,-,-,1,-,-,-,1,-,-,-,2,-,-
+V43.6,"Passagerare i personbil skadad i kollision med personbil eller lätt lastbil, trafikolycka",Kv,3,-,-,-,1,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V44.5,"Förare av personbil skadad i kollision med tung lastbil eller buss, trafikolycka",M,4,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,1,-,-
+V47.5,"Förare av personbil skadad i kollision med fast eller stillastående föremål, trafikolycka",M,10,-,-,-,-,-,2,2,-,-,1,1,1,-,2,-,-,-,-,1,-,-
+V47.6,"Passagerare i personbil skadad i kollision med fast eller stillastående föremål, trafikolycka",Kv,3,-,-,-,-,1,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+V48.5,"Förare av personbil skadad i transportolycka, ej kollision, trafikolycka",M,5,-,-,-,-,1,1,-,-,-,-,-,1,-,-,-,1,1,-,-,-,-
+V48.6,"Passagerare i personbil skadad i transportolycka, ej kollision, trafikolycka",M,5,-,-,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V49.4,"Förare av personbil skadad i kollision med motorfordon i trafikolycka",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+V49.9,"Förare av eller passagerare i personbil, ej specificerat, skadad i ospecificerad trafikolycka",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+V50-V59,"Förare av eller passagerare i lätt lastbil skadad i transportolycka",M,5,-,-,-,-,-,-,2,-,1,1,-,-,1,-,-,-,-,-,-,-,-
+V53.5,"Förare av lätt lastbil skadad i kollision med personbil eller lätt lastbil, trafikolycka",M,2,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-
+V53.6,"Passagerare i lätt lastbil skadad i kollision med personbil eller lätt lastbil, trafikolycka",M,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+V57.5,"Förare av lätt lastbil skadad i kollision med fast eller stillastående föremål, trafikolycka",M,2,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V80-V89,"Andra transportolyckor på land",M,11,-,-,-,-,-,-,-,-,1,-,1,1,2,1,2,1,1,-,1,-,-
+V86.5,"Förare av terrängfordon skadad vid transportolycka, ej trafik",M,6,-,-,-,-,-,-,-,-,1,-,-,-,2,1,1,-,-,-,1,-,-
+V89.2,"Person skadad i ospecificerad motorfordonsolycka, trafik",M,5,-,-,-,-,-,-,-,-,-,-,1,1,-,-,1,1,1,-,-,-,-
+V90-V94,"Transportolyckor på vatten",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,8,-,-,-,-,-,-,3,2,-,1,1,-,-,-,-,1,-,-,-,-,-
+V90.6,"Olycka med vattenfarkost som orsak till drunkning och drunkningstillbud - uppblåsbar båt utan motor",M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+V90.8,"Olycka med vattenfarkost som orsak till drunkning och drunkningstillbud - annan vattenfarkost utan motor",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+V91.3,"Olycka med vattenfarkost som leder till annan skada - annan motordriven vattenfarkost",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+V92.3,"Drunkning och drunkningstillbud i samband med transport på vatten utan att vattenfarkost är direkt engagerad i olyckan - annan motordriven vattenfarkost",M,5,-,-,-,-,-,-,3,-,-,-,1,-,-,-,-,1,-,-,-,-,-
+V92.5,"Drunkning och drunkningstillbud i samband med transport på vatten utan att vattenfarkost är direkt engagerad i olyckan - kanot eller kajak",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+V95-V97,"Transportolyckor i luften och rymden",Kv,5,-,-,-,-,1,1,-,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+,,M,15,-,-,2,-,2,5,1,-,-,2,-,1,1,1,-,-,-,-,-,-,-
+V95.1,"Olycka med ultralätt motordrivet flygplan med skada på ombordvarande",M,2,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+V95.2,"Olycka med annat privat flygplan med skada på ombordvarande",M,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V95.9,"Flygplansolycka, ospecificerad, med skada på ombordvarande",Kv,5,-,-,-,-,1,1,-,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+,,M,12,-,-,2,-,2,5,-,-,-,2,-,-,-,1,-,-,-,-,-,-,-
+V98,"Andra specificerade transportolyckor",Kv,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+V98-V99,"Andra och icke specificerade transportolyckor",Kv,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+W00,"Fall i samma plan i samband med is och snö",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+W00-W19,Fallolyckor,Kv,242,-,-,-,-,-,-,-,-,-,2,1,-,3,2,5,12,21,31,61,60,44
+,,M,281,-,-,-,-,1,-,-,1,-,1,4,3,4,11,16,17,31,51,61,47,33
+W01,"Fall i samma plan genom halkning, snavning eller snubbling",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,2,-,-,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,2,2,-,2
+W03,"Annat fall i samma plan genom kollision med eller knuff av annan person",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+W04,"Fall när man blir buren eller får stöd av andra personer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+W05,"Fall från rullstol",Kv,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,1
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,1,1,-
+W06,"Fall från säng",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+W10,"Fall i och från trappa och trappsteg",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,5,2,-,1
+,,M,21,-,-,-,-,1,-,-,-,-,-,1,-,1,1,2,1,3,5,3,1,2
+W11,"Fall på och från stege",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+W12,"Fall på och från byggnadsställning",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+W13,"Fall ut ur, från eller genom byggnad eller byggnadskonstruktion",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+W15,"Fall från stup",M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-
+W18,"Annat fall i samma plan",Kv,30,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,2,4,6,6,7
+,,M,28,-,-,-,-,-,-,-,-,-,1,1,2,-,3,2,3,2,5,5,4,-
+W19,"Fall, ospecificerat",Kv,185,-,-,-,-,-,-,-,-,-,2,1,-,1,1,1,8,16,22,50,51,32
+,,M,204,-,-,-,-,-,-,-,-,-,-,2,-,2,5,10,10,23,37,48,40,27
+W20,"Träffad av kastat eller fallande föremål",M,5,-,-,-,1,-,-,-,-,-,-,-,-,-,2,-,-,-,2,-,-,-
+W20-W49,"Exponering för icke levande mekaniska krafter",Kv,2,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,14,-,-,-,1,-,-,-,2,1,-,-,1,1,2,-,-,1,4,-,1,-
+W22,"Slagit sig mot eller träffad av andra föremål",M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-
+W23,"Fångad av, klämd eller pressad i eller mellan föremål",M,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+W25,"Kontakt med vasst glasföremål",Kv,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+W28,"Kontakt med motordriven gräsklippare",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+W30,"Kontakt med jordbruksmaskin",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+W31,"Kontakt med annan och icke specificerad maskin",M,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+W44,"Främmande kropp som trängt in i eller genom öga eller naturlig kroppsöppning",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+W50,"Slagen, sparkad, biten eller riven av annan person",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+W50-W64,"Exponering för levande mekaniska krafter",Kv,2,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-
+W54,"Biten eller angripen av hund",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+W55,"Biten eller angripen av annat däggdjur",Kv,2,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+W65,"Drunkning och drunkningstillbud i badkar",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+W65-W74,"Drunkning och drunkningstillbud genom olyckshändelse",Kv,11,-,-,1,-,-,-,-,-,-,-,1,1,2,1,2,1,1,-,1,-,-
+,,M,31,-,1,-,1,1,1,-,-,-,-,-,3,2,5,1,5,4,5,2,-,-
+W69,"Drunkning och drunkningstillbud i hav, sjö och vattendrag",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,4,-,-,-,1,-,-,-,-,-,-,-,-,-,2,-,-,-,-,1,-,-
+W70,"Drunkning och drunkningstillbud efter fall i hav, sjö och vattendrag",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,9,-,-,-,-,-,-,-,-,-,-,-,-,2,1,-,2,1,2,1,-,-
+W73,"Annan specificerad drunkning och annat specificerat drunkningstillbud",M,2,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+W74,"Drunkning och drunkningstillbud, ospecificerat",Kv,9,-,-,1,-,-,-,-,-,-,-,1,1,1,1,1,1,1,-,1,-,-
+,,M,15,-,-,-,-,1,1,-,-,-,-,-,3,-,2,1,2,2,3,-,-,-
+W75,"Kvävning, kvävningstillbud och strypning i sängen",Kv,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,1
+,,M,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W75-W84,"Annan kvävning och annat kvävningstillbud genom olyckshändelse",Kv,25,-,-,-,1,-,-,-,1,-,1,1,-,-,1,3,3,1,4,5,3,1
+,,M,25,1,1,-,-,-,-,-,-,-,2,1,1,4,-,4,2,4,3,-,2,-
+W76,"Annan strypning och hängning genom olyckshändelse",Kv,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W78,"Inhalation av maginnehåll",Kv,3,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+W79,"Inhalation och nedsväljning av föda som orsakat andningshinder",Kv,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,2,1,1,-
+,,M,10,-,-,-,-,-,-,-,-,-,1,-,-,3,-,2,1,2,1,-,-,-
+W80,"Inhalation och nedsväljning av andra föremål eller ämnen som orsakat andningshinder",Kv,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,1,4,1,-
+,,M,11,-,1,-,-,-,-,-,-,-,-,1,-,1,-,1,1,2,2,-,2,-
+W83,"Annan specificerad kvävning och annat specificerat kvävningstillbud",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-
+,,M,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-
+W85,"Exponering för kraftledningar",M,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+W85-W99,"Exponering för elektrisk ström, strålning, extrem lufttemperatur och extremt lufttryck i omgivningen",M,3,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,1,-,-,-,-
+W86,"Exponering för annan specificerad elektrisk ström",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+W87,"Exponering för icke specificerad elektrisk ström",M,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X00,"Exponering för okontrollerad eld i byggnad eller byggnadskonstruktion",Kv,18,-,-,-,-,-,-,-,1,-,-,-,-,2,3,5,-,1,4,1,1,-
+,,M,17,-,-,-,-,-,-,1,-,-,-,2,1,1,2,3,3,-,1,3,-,-
+X00-X09,"Exponering för rök och öppen eld",Kv,19,-,-,-,-,-,-,-,1,-,-,-,-,2,3,5,-,2,4,1,1,-
+,,M,21,-,-,-,-,-,-,1,-,-,-,2,1,1,3,3,4,1,1,4,-,-
+X01,"Exponering för icke kontrollerad eld med undantag för eld i byggnad eller byggnadskonstruktion",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+X06,"Antändning av andra klädesplagg",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-
+X08,"Exponering för annan specificerad rök och öppen eld",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+X09,"Exponering för icke specificerad rök och öppen eld",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+X10-X19,"Kontakt med heta föremål och heta ämnen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+X15,"Kontakt med heta hushållsredskap",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+X30,"Exponering för extrem naturlig värme",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+X30-X39,"Exponering för naturkrafter",Kv,10,-,-,-,-,-,-,-,-,-,-,1,1,-,2,2,2,-,-,1,-,1
+,,M,23,-,-,-,-,-,-,-,-,-,-,1,-,2,3,-,4,4,3,2,3,1
+X31,"Exponering för extrem naturlig köld",Kv,9,-,-,-,-,-,-,-,-,-,-,1,1,-,2,2,1,-,-,1,-,1
+,,M,22,-,-,-,-,-,-,-,-,-,-,1,-,2,3,-,4,4,3,2,2,1
+X40,"Oavsiktlig förgiftning med och exponering för smärtstillande läkemedel av icke opiatkaraktär, febernedsättande medel och medel mot reumatism",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+X40-X49,"Förgiftningsolyckor och exponering för skadliga ämnen genom olyckshändelse",Kv,55,-,-,-,-,2,3,2,8,5,3,6,2,9,2,6,5,1,1,-,-,-
+,,M,199,-,-,-,-,5,15,27,25,25,20,13,13,18,15,15,4,2,1,-,-,1
+X41,"Oavsiktlig förgiftning med och exponering för antiepileptika, lugnande läkemedel och sömnmedel, medel mot parkinsonism samt psykotropa medel som ej klassificeras annorstädes",Kv,11,-,-,-,-,-,2,-,1,1,1,2,-,1,1,1,-,1,-,-,-,-
+,,M,32,-,-,-,-,1,-,4,9,2,2,1,1,6,4,1,-,1,-,-,-,-
+X42,"Oavsiktlig förgiftning med och exponering för narkotiska medel och hallucinogener som ej klassificeras annorstädes",Kv,16,-,-,-,-,-,1,1,5,2,2,1,1,1,1,1,-,-,-,-,-,-
+,,M,80,-,-,-,-,2,8,17,11,11,13,5,6,4,1,2,-,-,-,-,-,-
+X44,"Oavsiktlig förgiftning med och exponering för andra och icke specificerade droger, läkemedel och biologiska substanser",Kv,17,-,-,-,-,2,-,1,2,1,-,2,1,3,-,3,2,-,-,-,-,-
+,,M,50,-,-,-,-,2,6,5,5,10,2,5,2,4,4,4,-,-,1,-,-,-
+X45,"Oavsiktlig förgiftning med och exponering för alkoholer",Kv,10,-,-,-,-,-,-,-,-,1,-,1,-,3,-,1,3,-,1,-,-,-
+,,M,34,-,-,-,-,-,1,1,-,2,2,2,4,4,6,8,3,1,-,-,-,-
+X47.0,"Oavsiktlig förgiftning med eller exponering för andra gaser eller ångor",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+X49,"Oavsiktlig förgiftning med och exponering för andra och icke specificerade kemiska ämnen och skadliga substanser",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+X58,"Exponering för andra specificerade faktorer",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-
+X58-X59,"Exponering genom olyckshändelse för andra och icke specificerade faktorer",Kv,252,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,12,19,31,55,63,70
+,,M,230,-,-,-,-,-,-,-,-,-,-,-,-,1,-,5,11,30,48,58,54,23
+X59.0,"Exponering för icke specificerad faktor som resulterat i fraktur",Kv,211,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,8,14,26,48,52,62
+,,M,168,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,6,16,31,47,45,19
+X59.9,"Exponering för icke specificerad faktor som resulterat i annan skada",Kv,40,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,5,4,7,11,8
+,,M,59,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,4,14,16,10,9,4
+X60,"Avsiktligt självdestruktiv handling genom förgiftning med och exponering för smärtstillande läkemedel av icke opiatkaraktär, febernedsättande medel och medel mot reumatism",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+X60-X84,"Avsiktligt självdestruktiv handling",Kv,174,-,-,-,2,6,13,10,10,20,11,20,18,17,9,15,7,6,5,4,1,-
+,,M,437,-,-,-,2,23,34,34,35,28,28,35,41,39,34,23,23,16,21,17,4,-
+X61,"Avsiktligt självdestruktiv handling genom förgiftning med och exponering för antiepileptika, lugnande läkemedel och sömnmedel, medel mot parkinsonism samt psykotropa medel som ej klassificeras annorstädes",Kv,18,-,-,-,-,-,-,-,2,-,2,4,-,3,1,2,2,-,1,1,-,-
+,,M,25,-,-,-,-,-,2,2,1,5,-,3,1,5,2,-,2,-,2,-,-,-
+X62,"Avsiktligt självdestruktiv handling genom förgiftning med och exponering för narkotiska medel och hallucinogener som ej klassificeras annorstädes",Kv,12,-,-,-,-,1,2,-,1,1,1,1,3,-,-,1,1,-,-,-,-,-
+,,M,13,-,-,-,-,-,1,3,1,-,2,1,-,3,1,-,-,-,1,-,-,-
+X63,"Avsiktligt självdestruktiv handling genom förgiftning med och exponering för andra läkemedel som påverkar det autonoma nervsystemet",Kv,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+X64,"Avsiktligt självdestruktiv handling genom förgiftning med och exponeringen för andra och icke specificerade droger, läkemedel och biologiska substanser",Kv,30,-,-,-,-,-,1,2,1,2,1,1,4,7,3,2,1,1,2,2,-,-
+,,M,21,-,-,-,-,1,3,1,1,1,1,3,-,4,1,-,4,-,-,-,1,-
+X66,"Avsiktligt självdestruktiv handling genom förgiftning med och exponering för organiska lösningsmedel och halogenerade kolväten och deras ångor",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+X67.0,"Avsiktligt självdestruktiv handling genom förgiftning med eller exponering för andra gaser eller ångor",M,3,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-,-,-,-,-,-
+X67.8,"Avsiktligt självdestruktiv handling genom förgiftning med eller exponering för andra gaser eller ångor",M,2,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+X70,"Avsiktligt sjävdestruktiv handling genom hängning, strypning och kvävning",Kv,70,-,-,-,2,4,9,3,5,10,4,12,9,3,1,5,-,1,1,1,-,-
+,,M,225,-,-,-,2,14,22,21,22,8,18,18,22,17,14,14,6,9,10,7,1,-
+X71,"Avsiktligt självdestruktiv handling genom dränkning",Kv,13,-,-,-,-,-,-,-,-,2,-,-,1,2,1,3,2,1,-,-,1,-
+,,M,16,-,-,-,-,-,1,1,-,-,3,1,2,1,1,2,1,-,-,3,-,-
+X72,"Avsiktligt självdestruktiv handling genom skott från pistol och revolver",M,10,-,-,-,-,-,1,-,-,-,-,-,1,1,-,-,-,3,2,2,-,-
+X73,"Avsiktligt självdestruktiv handling genom skott från gevär, hagelgevär och tyngre skjutvapen",Kv,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+,,M,39,-,-,-,-,1,1,1,-,1,2,2,4,4,6,3,5,3,3,2,1,-
+X74,"Avsiktligt självdestruktiv handling genom skott från annat och icke specificerat skjutvapen",M,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+X76,"Avsiktligt självdestruktiv handling med rök och öppen eld",Kv,3,-,-,-,-,-,-,-,-,2,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,11,-,-,-,-,-,-,-,1,3,-,3,2,-,2,-,-,-,-,-,-,-
+X78,"Avsiktligt självdestruktiv handling med skärande eller stickande föremål",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-
+,,M,7,-,-,-,-,-,-,-,1,-,-,1,-,-,1,1,-,1,2,-,-,-
+X80,"Avsiktlig självdestruktiv handling genom hopp eller fall från höjd",Kv,5,-,-,-,-,-,-,3,-,-,1,-,-,-,-,1,-,-,-,-,-,-
+,,M,22,-,-,-,-,3,-,1,-,2,2,1,3,1,1,1,4,-,1,1,1,-
+X81,"Avsiktligt självdestruktiv handling genom att kasta sig framför eller lägga sig framför föremål i rörelse",Kv,15,-,-,-,-,1,1,2,1,2,2,1,-,1,1,-,1,1,1,-,-,-
+,,M,31,-,-,-,-,4,2,3,5,4,-,1,3,2,3,2,1,-,-,1,-,-
+X82,"Avsiktligt självdestruktiv handling med motorfordon",M,6,-,-,-,-,-,-,1,1,1,-,-,1,1,1,-,-,-,-,-,-,-
+X83,"Avsiktligt självdestruktiv handling med andra specificerade metoder",Kv,2,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,4,-,-,-,-,-,1,-,1,1,-,-,-,-,-,-,-,-,-,1,-,-
+X85-Y09,"Övergrepp av annan person",Kv,14,1,-,-,-,-,1,-,1,1,1,-,3,3,1,-,-,2,-,-,-,-
+,,M,48,-,1,1,1,8,6,7,5,3,1,1,3,3,3,1,3,1,-,-,-,-
+X91,"Övergrepp genom hängning, strypning och kvävning",Kv,4,-,-,-,-,-,1,-,-,-,-,-,2,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,-,-,-,-
+X92,"Övergrepp genom dränkning",Kv,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X93,"Övergrepp genom skott från pistol och revolver",M,12,-,-,-,-,4,2,3,2,1,-,-,-,-,-,-,-,-,-,-,-,-
+X94,"Övergrepp genom skott från gevär, hagelgevär och tyngre skjutvapen",Kv,2,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-
+,,M,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X95,"Övergrepp genom skott från annat och icke specificerat skjutvapen",M,3,-,-,-,-,-,1,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+X97,"Övergrepp med rök och öppen eld",M,2,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X99,"Övergrepp med skärande eller stickande föremål",Kv,6,-,-,-,-,-,-,-,-,1,-,-,1,2,1,-,-,1,-,-,-,-
+,,M,23,-,-,-,1,4,3,3,1,-,-,-,3,2,3,1,2,-,-,-,-,-
+Y00,"Övergrepp med trubbigt föremål",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Y04,"Övergrepp genom obeväpnat våld",M,5,-,-,-,-,-,-,-,-,1,1,1,-,1,-,-,1,-,-,-,-,-
+Y10-Y34,"Skadehändelser med oklar avsikt",Kv,50,-,1,-,-,-,1,4,3,7,2,3,7,3,4,7,3,3,-,2,-,-
+,,M,87,-,-,-,-,3,9,10,7,9,3,5,11,12,5,3,4,5,-,1,-,-
+Y11,"Förgiftning med och exponering för antiepileptika, lugnande läkemedel och sömnmedel, medel mot parkinsonism samt psykotropa medel som ej klassificeras annorstädes, med oklar avsikt",Kv,16,-,-,-,-,-,1,2,1,3,1,1,4,-,-,-,2,-,-,1,-,-
+,,M,15,-,-,-,-,1,-,1,1,1,2,-,4,3,1,1,-,-,-,-,-,-
+Y12,"Förgiftning med och exponering för narkotiska medel och hallucinogener som ej klassificeras annorstädes, med oklar avsikt",Kv,6,-,-,-,-,-,-,-,1,1,-,1,-,2,-,1,-,-,-,-,-,-
+,,M,14,-,-,-,-,-,2,4,2,2,-,1,-,1,-,1,1,-,-,-,-,-
+Y13,"Förgiftning med och exponering för andra läkemedel som påverkar det autonoma nervsystemet, med oklar avsikt",M,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y14,"Förgiftning med och exponering för andra och icke specificerade droger, läkemedel och biologiska substanser, med oklar avsikt",Kv,13,-,-,-,-,-,-,1,1,1,-,1,2,-,2,4,1,-,-,-,-,-
+,,M,23,-,-,-,-,1,3,2,4,5,-,-,3,3,-,-,1,1,-,-,-,-
+Y15,"Förgiftning med och exponering för alkoholer, med oklar avsikt",Kv,2,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-
+Y16,"Förgiftning med och exponering för organiska lösningsmedel och halogenerade kolväten och deras ångor, med oklar avsikt",M,2,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-
+Y20,"Hängning, strypning och kvävning, med oklar avsikt",Kv,2,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-
+Y21,"Drunkning eller dränkning, med oklar avsikt",Kv,3,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,1,-,-,-,-
+,,M,7,-,-,-,-,-,2,-,-,1,1,1,-,1,-,-,-,-,-,1,-,-
+Y26,"Exponering för rök och öppen eld, med oklar avsikt",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-
+,,M,6,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,1,1,-,-,-,-
+Y28,"Skadehändelse med skärande eller stickande föremål, med oklar avsikt",M,2,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y29,"Skadehändelse med trubbigt föremål, med oklar avsikt",M,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Y30,"Fall, hopp eller knuff från höjd, med oklar avsikt",Kv,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-
+Y32,"Skadehändelse med motorfordon, med oklar avsikt",M,8,-,-,-,-,1,-,2,-,-,-,2,-,1,1,-,-,1,-,-,-,-
+Y33,"Andra specificerade skadehändelser, med oklar avsikt",Kv,3,-,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-
+Y34,"Icke specificerad skadehändelse, med oklar avsikt",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+Y35-Y36,"Polisingripande och krigshandling",M,2,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-
+Y35.0,"Legalt ingripande med skjutvapen",M,2,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-
+Y60-Y69,"Missöden som inträffat med patienter under kirurgisk och medicinsk vård",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+,,M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+Y60.8,"Under annan kirurgisk och medicinsk vård",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+Y65.3,"Felplacerad endotrakealtub",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+Y83-Y84,"Kirurgiska och andra medicinska åtgärder som orsak till onormal reaktion eller sen komplikation hos patient utan anknytning till missöde vid operations- eller behandlingstillfället",Kv,11,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,3,1,2,1
+,,M,26,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,2,5,9,4,2,2
+Y83.1,"Kirurgiskt ingrepp med implantat av konstgjort inre instrument eller materiel",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+,,M,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,1,-,-
+Y83.2,"Kirurgiskt ingrepp med anastomos, bypass eller graft",M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,-
+Y83.5,"Amputation av extremitet eller extremiteter",M,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+Y83.8,"Andra kirurgiska ingrepp",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,M,2,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,-,-,-
+Y83.9,"Kirurgiskt ingrepp, ospecificerat",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,-,2
+Y84.6,"Kateterisering av urinvägar",Kv,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1
+,,M,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,4,2,2,-
+Y84.8,"Andra medicinska åtgärder",Kv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+Y85-Y89,"Sena effekter av yttre orsaker till sjukdom och död",Kv,29,-,-,-,-,-,-,-,-,-,-,-,1,2,-,-,2,4,2,13,4,1
+,,M,23,-,-,-,-,-,-,-,-,-,1,-,1,2,2,2,3,2,3,3,3,1
+Y85.0,"Sena effekter av motorfordonsolycka",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+,,M,5,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,-,-,-,1,-
+Y86.0,"Sena effekter av olyckor som resulterat i fraktur",Kv,23,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,3,2,11,3,-
+,,M,15,-,-,-,-,-,-,-,-,-,1,-,1,1,1,1,2,1,3,2,1,1
+Y88.3,"Sena effekter av kirurgiska och medicinska åtgärder som orsak till onormal reaktion eller sen komplikation hos patient utan anknytning till missöde vid tiden för åtgärden",Kv,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,-
+,,M,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-
+Y89.1,"Sena effekter av krigshandling",Kv,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
