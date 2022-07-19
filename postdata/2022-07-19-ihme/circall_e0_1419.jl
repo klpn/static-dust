@@ -8,9 +8,9 @@ ctries = [2090, 2120, 2450,
     4180, 4186, 4188, 4210, 4220, 4230, 4240, 4272, 4274, 4276,
     4280, 4290, 4300, 4310, 4320, 4330,
     5020, 5150]
-pgfsave("../../images/circall_e0_f_1419.svg",
-    MortIntl.caprop_eplot(ctries, 2, "circ", "all", 1, 0, "sv",
+pgfsave("../../images/circall_e0_f_1419_en.svg",
+    MortIntl.caprop_eplot(ctries, 2, "circ", "all", 1, 0, "en",
         MortIntl.datapath, MortIntl.datapath, 2014:2019, false))
-pgfsave("../../images/circall_e0_m_1419.svg",
-    MortIntl.caprop_eplot(ctries, 1, "circ", "all", 1, 0, "sv",
+pgfsave("../../images/circall_e0_m_1419_en.svg",
+    MortIntl.caprop_eplot(ctries, 1, "circ", "all", 1, 0, "en",
         MortIntl.datapath, MortIntl.datapath, 2014:2019, false))
