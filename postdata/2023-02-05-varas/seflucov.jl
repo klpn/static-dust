@@ -5,7 +5,7 @@ push!(PGFPlotsX.CUSTOM_PREAMBLE, raw"\setmainfont{Asana-Math}", raw"\setmathfont
 seflu = CSV.File("data/seflu_202140-202304.tsv") |> DataFrame
 secov = CSV.File("data/covid_sabohem_202304.tsv") |> DataFrame
 p = @pgf Axis({ymode="log",xlabel="vecka", ylabel="antal labbfall", xmajorgrids,
-        title="Fall influensa A och covid-19 Sverige 40/2021–v. 4/2023",xtick="{1,11,20,29,53,65}",
+        title="Fall influensa och covid-19 Sverige v. 40/2021–v. 4/2023",xtick="{1,11,20,29,53,65}",
         xticklabels="{40,50,7,16,40,52}", legend_pos = "outer north east"})
 @pgf push!(p, PlotInc({"mark=x"}, Table([1:69, seflu[!,:INF_A]])),
         LegendEntry("influensa A"))
