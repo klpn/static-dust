@@ -20,7 +20,7 @@ end
 sexlabs = Dict("f" => "kvinnor", "m" => "män")
 
 function periodsexplot(s)
-    sexf = secov_dp_p[secov_dp_p[:sex].==s, :]
+    sexf = secov_dp_p[secov_dp_p[!,:sex].==s, :]
     p = @pgf Axis({"yticklabel style"={"/pgf/number format/use comma"},
        "xticklabel style"={"/pgf/number format/set thousands separator={}"},
        legend_pos="outer north east",
@@ -29,7 +29,7 @@ function periodsexplot(s)
        xmajorgrids, ymajorgrids})
     plotcolors = distinguishable_colors(size(startages)[1]+1, [RGB(1,1,1)])[2:end]
     for (i, c) in enumerate(startages)
-        sexagef = sexf[sexf[:startage].==startages[i], :]
+        sexagef = sexf[sexf[!,:startage].==startages[i], :]
         @pgf push!(p, PlotInc({no_markers, color = plotcolors[i]},
                               Table([sexagef[!, :period], sexagef[!, :rate]])),
                    LegendEntry(agelab(i)))
