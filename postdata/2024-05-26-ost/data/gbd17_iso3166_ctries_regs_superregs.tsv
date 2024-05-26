@@ -1,0 +1,196 @@
+iso_a2	iso_a3	superreg_id	reg_id	reg_name	location_id	location_name	superreg_name
+AF	AFG	137	138	North Africa and Middle East	160	Afghanistan	North Africa and Middle East
+AL	ALB	31	42	Central Europe	43	Albania	Central Europe, Eastern Europe, and Central Asia
+DZ	DZA	137	138	North Africa and Middle East	139	Algeria	North Africa and Middle East
+AS	ASM	4	21	Oceania	298	American Samoa	Southeast Asia, East Asia, and Oceania
+AD	AND	64	73	Western Europe	74	Andorra	High-income
+AO	AGO	166	167	Central Sub-Saharan Africa	168	Angola	Sub-Saharan Africa
+AG	ATG	103	104	Caribbean	105	Antigua and Barbuda	Latin America and Caribbean
+AR	ARG	64	96	Southern Latin America	97	Argentina	High-income
+AM	ARM	31	32	Central Asia	33	Armenia	Central Europe, Eastern Europe, and Central Asia
+AU	AUS	64	70	Australasia	71	Australia	High-income
+AT	AUT	64	73	Western Europe	75	Austria	High-income
+AZ	AZE	31	32	Central Asia	34	Azerbaijan	Central Europe, Eastern Europe, and Central Asia
+BS	BHS	103	104	Caribbean	106	The Bahamas	Latin America and Caribbean
+BH	BHR	137	138	North Africa and Middle East	140	Bahrain	North Africa and Middle East
+BD	BGD	158	159	South Asia	161	Bangladesh	South Asia
+BB	BRB	103	104	Caribbean	107	Barbados	Latin America and Caribbean
+BY	BLR	31	56	Eastern Europe	57	Belarus	Central Europe, Eastern Europe, and Central Asia
+BE	BEL	64	73	Western Europe	76	Belgium	High-income
+BZ	BLZ	103	104	Caribbean	108	Belize	Latin America and Caribbean
+BJ	BEN	166	199	Western Sub-Saharan Africa	200	Benin	Sub-Saharan Africa
+BM	BMU	103	104	Caribbean	305	Bermuda	Latin America and Caribbean
+BT	BTN	158	159	South Asia	162	Bhutan	South Asia
+BO	BOL	103	120	Andean Latin America	121	Bolivia	Latin America and Caribbean
+BA	BIH	31	42	Central Europe	44	Bosnia and Herzegovina	Central Europe, Eastern Europe, and Central Asia
+BW	BWA	166	192	Southern Sub-Saharan Africa	193	Botswana	Sub-Saharan Africa
+BR	BRA	103	134	Tropical Latin America	135	Brazil	Latin America and Caribbean
+BN	BRN	64	65	High-income Asia Pacific	66	Brunei	High-income
+BG	BGR	31	42	Central Europe	45	Bulgaria	Central Europe, Eastern Europe, and Central Asia
+BF	BFA	166	199	Western Sub-Saharan Africa	201	Burkina Faso	Sub-Saharan Africa
+BI	BDI	166	174	Eastern Sub-Saharan Africa	175	Burundi	Sub-Saharan Africa
+CV	CPV	166	199	Western Sub-Saharan Africa	203	Cape Verde	Sub-Saharan Africa
+KH	KHM	4	9	Southeast Asia	10	Cambodia	Southeast Asia, East Asia, and Oceania
+CM	CMR	166	199	Western Sub-Saharan Africa	202	Cameroon	Sub-Saharan Africa
+CA	CAN	64	100	High-income North America	101	Canada	High-income
+CF	CAF	166	167	Central Sub-Saharan Africa	169	Central African Republic	Sub-Saharan Africa
+TD	TCD	166	199	Western Sub-Saharan Africa	204	Chad	Sub-Saharan Africa
+CL	CHL	64	96	Southern Latin America	98	Chile	High-income
+CN	CHN	4	5	East Asia	6	China	Southeast Asia, East Asia, and Oceania
+CO	COL	103	124	Central Latin America	125	Colombia	Latin America and Caribbean
+KM	COM	166	174	Eastern Sub-Saharan Africa	176	Comoros	Sub-Saharan Africa
+CG	COG	166	167	Central Sub-Saharan Africa	170	Congo	Sub-Saharan Africa
+CR	CRI	103	124	Central Latin America	126	Costa Rica	Latin America and Caribbean
+CI	CIV	166	199	Western Sub-Saharan Africa	205	Cote d'Ivoire	Sub-Saharan Africa
+HR	HRV	31	42	Central Europe	46	Croatia	Central Europe, Eastern Europe, and Central Asia
+CU	CUB	103	104	Caribbean	109	Cuba	Latin America and Caribbean
+CY	CYP	64	73	Western Europe	77	Cyprus	High-income
+CZ	CZE	31	42	Central Europe	47	Czech Republic	Central Europe, Eastern Europe, and Central Asia
+DK	DNK	64	73	Western Europe	78	Denmark	High-income
+DJ	DJI	166	174	Eastern Sub-Saharan Africa	177	Djibouti	Sub-Saharan Africa
+DM	DMA	103	104	Caribbean	110	Dominica	Latin America and Caribbean
+DO	DOM	103	104	Caribbean	111	Dominican Republic	Latin America and Caribbean
+CD	COD	166	167	Central Sub-Saharan Africa	171	Democratic Republic of the Congo	Sub-Saharan Africa
+EC	ECU	103	120	Andean Latin America	122	Ecuador	Latin America and Caribbean
+EG	EGY	137	138	North Africa and Middle East	141	Egypt	North Africa and Middle East
+SV	SLV	103	124	Central Latin America	127	El Salvador	Latin America and Caribbean
+GQ	GNQ	166	167	Central Sub-Saharan Africa	172	Equatorial Guinea	Sub-Saharan Africa
+ER	ERI	166	174	Eastern Sub-Saharan Africa	178	Eritrea	Sub-Saharan Africa
+EE	EST	31	56	Eastern Europe	58	Estonia	Central Europe, Eastern Europe, and Central Asia
+SZ	SWZ	166	192	Southern Sub-Saharan Africa	197	Swaziland	Sub-Saharan Africa
+ET	ETH	166	174	Eastern Sub-Saharan Africa	179	Ethiopia	Sub-Saharan Africa
+FJ	FJI	4	21	Oceania	22	Fiji	Southeast Asia, East Asia, and Oceania
+FI	FIN	64	73	Western Europe	79	Finland	High-income
+FR	FRA	64	73	Western Europe	80	France	High-income
+GA	GAB	166	167	Central Sub-Saharan Africa	173	Gabon	Sub-Saharan Africa
+GM	GMB	166	199	Western Sub-Saharan Africa	206	The Gambia	Sub-Saharan Africa
+GE	GEO	31	32	Central Asia	35	Georgia	Central Europe, Eastern Europe, and Central Asia
+DE	DEU	64	73	Western Europe	81	Germany	High-income
+GH	GHA	166	199	Western Sub-Saharan Africa	207	Ghana	Sub-Saharan Africa
+GR	GRC	64	73	Western Europe	82	Greece	High-income
+GL	GRL	64	100	High-income North America	349	Greenland	High-income
+GD	GRD	103	104	Caribbean	112	Grenada	Latin America and Caribbean
+GU	GUM	4	21	Oceania	351	Guam	Southeast Asia, East Asia, and Oceania
+GT	GTM	103	124	Central Latin America	128	Guatemala	Latin America and Caribbean
+GN	GIN	166	199	Western Sub-Saharan Africa	208	Guinea	Sub-Saharan Africa
+GW	GNB	166	199	Western Sub-Saharan Africa	209	Guinea-Bissau	Sub-Saharan Africa
+GY	GUY	103	104	Caribbean	113	Guyana	Latin America and Caribbean
+HT	HTI	103	104	Caribbean	114	Haiti	Latin America and Caribbean
+HN	HND	103	124	Central Latin America	129	Honduras	Latin America and Caribbean
+HU	HUN	31	42	Central Europe	48	Hungary	Central Europe, Eastern Europe, and Central Asia
+IS	ISL	64	73	Western Europe	83	Iceland	High-income
+IN	IND	158	159	South Asia	163	India	South Asia
+ID	IDN	4	9	Southeast Asia	11	Indonesia	Southeast Asia, East Asia, and Oceania
+IR	IRN	137	138	North Africa and Middle East	142	Iran	North Africa and Middle East
+IQ	IRQ	137	138	North Africa and Middle East	143	Iraq	North Africa and Middle East
+IE	IRL	64	73	Western Europe	84	Ireland	High-income
+IL	ISR	64	73	Western Europe	85	Israel	High-income
+IT	ITA	64	73	Western Europe	86	Italy	High-income
+JM	JAM	103	104	Caribbean	115	Jamaica	Latin America and Caribbean
+JP	JPN	64	65	High-income Asia Pacific	67	Japan	High-income
+JO	JOR	137	138	North Africa and Middle East	144	Jordan	North Africa and Middle East
+KZ	KAZ	31	32	Central Asia	36	Kazakhstan	Central Europe, Eastern Europe, and Central Asia
+KE	KEN	166	174	Eastern Sub-Saharan Africa	180	Kenya	Sub-Saharan Africa
+KI	KIR	4	21	Oceania	23	Kiribati	Southeast Asia, East Asia, and Oceania
+KW	KWT	137	138	North Africa and Middle East	145	Kuwait	North Africa and Middle East
+KG	KGZ	31	32	Central Asia	37	Kyrgyzstan	Central Europe, Eastern Europe, and Central Asia
+LA	LAO	4	9	Southeast Asia	12	Laos	Southeast Asia, East Asia, and Oceania
+LV	LVA	31	56	Eastern Europe	59	Latvia	Central Europe, Eastern Europe, and Central Asia
+LB	LBN	137	138	North Africa and Middle East	146	Lebanon	North Africa and Middle East
+LS	LSO	166	192	Southern Sub-Saharan Africa	194	Lesotho	Sub-Saharan Africa
+LR	LBR	166	199	Western Sub-Saharan Africa	210	Liberia	Sub-Saharan Africa
+LY	LBY	137	138	North Africa and Middle East	147	Libya	North Africa and Middle East
+LT	LTU	31	56	Eastern Europe	60	Lithuania	Central Europe, Eastern Europe, and Central Asia
+LU	LUX	64	73	Western Europe	87	Luxembourg	High-income
+MK	MKD	31	42	Central Europe	49	Macedonia	Central Europe, Eastern Europe, and Central Asia
+MG	MDG	166	174	Eastern Sub-Saharan Africa	181	Madagascar	Sub-Saharan Africa
+MW	MWI	166	174	Eastern Sub-Saharan Africa	182	Malawi	Sub-Saharan Africa
+MY	MYS	4	9	Southeast Asia	13	Malaysia	Southeast Asia, East Asia, and Oceania
+MV	MDV	4	9	Southeast Asia	14	Maldives	Southeast Asia, East Asia, and Oceania
+ML	MLI	166	199	Western Sub-Saharan Africa	211	Mali	Sub-Saharan Africa
+MT	MLT	64	73	Western Europe	88	Malta	High-income
+MH	MHL	4	21	Oceania	24	Marshall Islands	Southeast Asia, East Asia, and Oceania
+MR	MRT	166	199	Western Sub-Saharan Africa	212	Mauritania	Sub-Saharan Africa
+MU	MUS	4	9	Southeast Asia	183	Mauritius	Southeast Asia, East Asia, and Oceania
+MX	MEX	103	124	Central Latin America	130	Mexico	Latin America and Caribbean
+FM	FSM	4	21	Oceania	25	Federated States of Micronesia	Southeast Asia, East Asia, and Oceania
+MD	MDA	31	56	Eastern Europe	61	Moldova	Central Europe, Eastern Europe, and Central Asia
+MN	MNG	31	32	Central Asia	38	Mongolia	Central Europe, Eastern Europe, and Central Asia
+ME	MNE	31	42	Central Europe	50	Montenegro	Central Europe, Eastern Europe, and Central Asia
+MA	MAR	137	138	North Africa and Middle East	148	Morocco	North Africa and Middle East
+MZ	MOZ	166	174	Eastern Sub-Saharan Africa	184	Mozambique	Sub-Saharan Africa
+MM	MMR	4	9	Southeast Asia	15	Myanmar	Southeast Asia, East Asia, and Oceania
+NA	NAM	166	192	Southern Sub-Saharan Africa	195	Namibia	Sub-Saharan Africa
+NP	NPL	158	159	South Asia	164	Nepal	South Asia
+NL	NLD	64	73	Western Europe	89	Netherlands	High-income
+NZ	NZL	64	70	Australasia	72	New Zealand	High-income
+NI	NIC	103	124	Central Latin America	131	Nicaragua	Latin America and Caribbean
+NE	NER	166	199	Western Sub-Saharan Africa	213	Niger	Sub-Saharan Africa
+NG	NGA	166	199	Western Sub-Saharan Africa	214	Nigeria	Sub-Saharan Africa
+KP	PRK	4	5	East Asia	7	North Korea	Southeast Asia, East Asia, and Oceania
+MP	MNP	4	21	Oceania	376	Northern Mariana Islands	Southeast Asia, East Asia, and Oceania
+NO	NOR	64	73	Western Europe	90	Norway	High-income
+OM	OMN	137	138	North Africa and Middle East	150	Oman	North Africa and Middle East
+PK	PAK	158	159	South Asia	165	Pakistan	South Asia
+PS	PSE	137	138	North Africa and Middle East	149	Palestine	North Africa and Middle East
+PA	PAN	103	124	Central Latin America	132	Panama	Latin America and Caribbean
+PG	PNG	4	21	Oceania	26	Papua New Guinea	Southeast Asia, East Asia, and Oceania
+PY	PRY	103	134	Tropical Latin America	136	Paraguay	Latin America and Caribbean
+PE	PER	103	120	Andean Latin America	123	Peru	Latin America and Caribbean
+PH	PHL	4	9	Southeast Asia	16	Philippines	Southeast Asia, East Asia, and Oceania
+PL	POL	31	42	Central Europe	51	Poland	Central Europe, Eastern Europe, and Central Asia
+PT	PRT	64	73	Western Europe	91	Portugal	High-income
+PR	PRI	103	104	Caribbean	385	Puerto Rico	Latin America and Caribbean
+QA	QAT	137	138	North Africa and Middle East	151	Qatar	North Africa and Middle East
+RO	ROU	31	42	Central Europe	52	Romania	Central Europe, Eastern Europe, and Central Asia
+RU	RUS	31	56	Eastern Europe	62	Russian Federation	Central Europe, Eastern Europe, and Central Asia
+RW	RWA	166	174	Eastern Sub-Saharan Africa	185	Rwanda	Sub-Saharan Africa
+WS	WSM	4	21	Oceania	27	Samoa	Southeast Asia, East Asia, and Oceania
+ST	STP	166	199	Western Sub-Saharan Africa	215	Sao Tome and Principe	Sub-Saharan Africa
+SA	SAU	137	138	North Africa and Middle East	152	Saudi Arabia	North Africa and Middle East
+SN	SEN	166	199	Western Sub-Saharan Africa	216	Senegal	Sub-Saharan Africa
+RS	SRB	31	42	Central Europe	53	Serbia	Central Europe, Eastern Europe, and Central Asia
+SC	SYC	4	9	Southeast Asia	186	Seychelles	Southeast Asia, East Asia, and Oceania
+SL	SLE	166	199	Western Sub-Saharan Africa	217	Sierra Leone	Sub-Saharan Africa
+SG	SGP	64	65	High-income Asia Pacific	69	Singapore	High-income
+SK	SVK	31	42	Central Europe	54	Slovakia	Central Europe, Eastern Europe, and Central Asia
+SI	SVN	31	42	Central Europe	55	Slovenia	Central Europe, Eastern Europe, and Central Asia
+SB	SLB	4	21	Oceania	28	Solomon Islands	Southeast Asia, East Asia, and Oceania
+SO	SOM	166	174	Eastern Sub-Saharan Africa	187	Somalia	Sub-Saharan Africa
+ZA	ZAF	166	192	Southern Sub-Saharan Africa	196	South Africa	Sub-Saharan Africa
+KR	KOR	64	65	High-income Asia Pacific	68	South Korea	High-income
+SS	SSD	166	174	Eastern Sub-Saharan Africa	435	South Sudan	Sub-Saharan Africa
+ES	ESP	64	73	Western Europe	92	Spain	High-income
+LK	LKA	4	9	Southeast Asia	17	Sri Lanka	Southeast Asia, East Asia, and Oceania
+LC	LCA	103	104	Caribbean	116	Saint Lucia	Latin America and Caribbean
+VC	VCT	103	104	Caribbean	117	Saint Vincent and the Grenadines	Latin America and Caribbean
+SD	SDN	137	138	North Africa and Middle East	522	Sudan	North Africa and Middle East
+SR	SUR	103	104	Caribbean	118	Suriname	Latin America and Caribbean
+SE	SWE	64	73	Western Europe	93	Sweden	High-income
+CH	CHE	64	73	Western Europe	94	Switzerland	High-income
+SY	SYR	137	138	North Africa and Middle East	153	Syria	North Africa and Middle East
+TW	TWN	4	5	East Asia	8	Taiwan	Southeast Asia, East Asia, and Oceania
+TJ	TJK	31	32	Central Asia	39	Tajikistan	Central Europe, Eastern Europe, and Central Asia
+TZ	TZA	166	174	Eastern Sub-Saharan Africa	189	Tanzania	Sub-Saharan Africa
+TH	THA	4	9	Southeast Asia	18	Thailand	Southeast Asia, East Asia, and Oceania
+TL	TLS	4	9	Southeast Asia	19	Timor-Leste	Southeast Asia, East Asia, and Oceania
+TG	TGO	166	199	Western Sub-Saharan Africa	218	Togo	Sub-Saharan Africa
+TO	TON	4	21	Oceania	29	Tonga	Southeast Asia, East Asia, and Oceania
+TT	TTO	103	104	Caribbean	119	Trinidad and Tobago	Latin America and Caribbean
+TN	TUN	137	138	North Africa and Middle East	154	Tunisia	North Africa and Middle East
+TR	TUR	137	138	North Africa and Middle East	155	Turkey	North Africa and Middle East
+TM	TKM	31	32	Central Asia	40	Turkmenistan	Central Europe, Eastern Europe, and Central Asia
+UG	UGA	166	174	Eastern Sub-Saharan Africa	190	Uganda	Sub-Saharan Africa
+UA	UKR	31	56	Eastern Europe	63	Ukraine	Central Europe, Eastern Europe, and Central Asia
+AE	ARE	137	138	North Africa and Middle East	156	United Arab Emirates	North Africa and Middle East
+GB	GBR	64	73	Western Europe	95	United Kingdom	High-income
+US	USA	64	100	High-income North America	102	United States	High-income
+VI	VIR	103	104	Caribbean	422	Virgin Islands, U.S.	Latin America and Caribbean
+UY	URY	64	96	Southern Latin America	99	Uruguay	High-income
+UZ	UZB	31	32	Central Asia	41	Uzbekistan	Central Europe, Eastern Europe, and Central Asia
+VU	VUT	4	21	Oceania	30	Vanuatu	Southeast Asia, East Asia, and Oceania
+VE	VEN	103	124	Central Latin America	133	Venezuela	Latin America and Caribbean
+VN	VNM	4	9	Southeast Asia	20	Vietnam	Southeast Asia, East Asia, and Oceania
+YE	YEM	137	138	North Africa and Middle East	157	Yemen	North Africa and Middle East
+ZM	ZMB	166	174	Eastern Sub-Saharan Africa	191	Zambia	Sub-Saharan Africa
+ZW	ZWE	166	192	Southern Sub-Saharan Africa	198	Zimbabwe	Sub-Saharan Africa
