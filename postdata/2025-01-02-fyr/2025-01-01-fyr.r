@@ -1,0 +1,10 @@
+#!/usr/bin/env Rscript
+source("se_dmon_ca.r")
+cayrsplot("F27", 0)
+ggsave("../../images/se_6986_f27.svg", width=9)
+cayrsplot("F28", 0)
+ggsave("../../images/se_6986_f28.svg", width=9)
+cayrsplot("J09–J18", 0)
+ggsave("../../images/se_9724_j0918.svg", width=10)
+cayrsplot("F24", 75)
+ggsave("../../images/se_6986_f24_75.svg", width=9)
