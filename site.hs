@@ -17,8 +17,8 @@ myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Det statiska dammet"
     , feedDescription = "Dammig blogg"
     , feedAuthorName  = "Karl Pettersson"
-    , feedAuthorEmail = "klpn1258@gmail.com"
-    , feedRoot        = "https://static-dust.klpn.se"
+    , feedAuthorEmail = "karl.pettersson@klpn.se"
+    , feedRoot        = "https://www.dusty-test.klpn.se"
     }
 
 --------------------------------------------------------------------------------
